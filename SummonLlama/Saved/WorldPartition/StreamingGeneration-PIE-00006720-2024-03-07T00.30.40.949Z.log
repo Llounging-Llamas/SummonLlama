@@ -1,0 +1,105 @@
+[+] Containers:
+ |- [+] Container: /Game/Finnmap
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:016FE7A44AB6900436C2FFA4E91199F3 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:0C68E5134A30B6A4D9E26B9E8095057B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_0 Label:SM_Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=-50.000), Max=(X=3000.000 Y=3500.000 Z=500.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:Playground FolderGuid:6C02BB504B69D1F3D7A624B130C18E5B
+ |   |   |- Guid:1BF9CD0C45FAD10EC5B2A19A06608777 BaseClass:/Game/Objects/Ingredient3.Ingredient3_C NativeClass:/Script/Engine.Actor Name:Ingredient3_C_UAID_00E2696DD10DD2DF01_1974711614 Label:Ingredient3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1400.000 Y=1170.000 Z=-0.000), Max=(X=1560.000 Y=1330.000 Z=160.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:24B387DF4E7136E23FD4E795767D22B3 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_1 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:3026913343353DEB445F11B3B1B0A55E BaseClass:/Game/Objects/Ingredients/BP_IngredientEye.BP_IngredientEye_C NativeClass:/Script/Engine.Actor Name:BP_IngredientEye_C_UAID_D8BBC18EB820F9DF01_1720485472 Label:BP_IngredientEye SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1446.000 Y=1966.000 Z=56.000), Max=(X=1494.000 Y=2014.000 Z=104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:30D94C06485E3EE109EDE2A49807699E BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=2740.000 Y=1470.000 Z=0.013), Max=(X=2820.000 Y=1550.000 Z=184.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:3A028F6949C3D6FAD48D7695DF15B7E8 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_00E2696DD10DD8DF01_1779464665 Label:PointLight3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=260.000 Y=1050.000 Z=-790.000), Max=(X=2260.000 Y=3050.000 Z=1210.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:3C52D8014E2E4E3DD87D6ABFC9550F4F BaseClass:/Game/Objects/BP_Cauldron.BP_Cauldron_C NativeClass:/Script/Engine.Actor Name:BP_Cauldron_C_UAID_00E2696DD10DCFDF01_2100869079 Label:BP_Cauldron SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1360.000 Y=1590.000 Z=-386.000), Max=(X=1640.000 Y=1870.000 Z=426.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:4347DD0C4A72D3ABB90160A97B3F8871 BaseClass:/Game/Objects/Ingredient2.Ingredient2_C NativeClass:/Script/Engine.Actor Name:Ingredient2_C_UAID_00E2696DD10DD2DF01_1574276613 Label:Ingredient2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1200.000 Y=900.000 Z=90.000), Max=(X=1360.000 Y=1060.000 Z=250.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:4BC11D0E48B8F153DD9F979B677F1B86 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_00E2696DD10DD8DF01_1773252663 Label:PointLight SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1250.000 Y=50.000 Z=-790.000), Max=(X=3250.000 Y=2050.000 Z=1210.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:4F9EBA094C74F198AB383EB331AF9FD7 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5EFB00_2001720423 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:769924614502F92D0528D3830400F158 BaseClass:/Game/Objects/BP_SummoningCircle.BP_SummoningCircle_C NativeClass:/Script/Engine.Actor Name:BP_SummoningCircle_C_UAID_00E2696DD10DD0DF01_1093421256 Label:BP_SummoningCircle SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1297.178 Y=995.613 Z=-131.039), Max=(X=1681.178 Y=1379.613 Z=12.961) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:77758910453077E9CC17DB9356C481BD BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_0 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:81501F6C401222B5B5B8BF82834498B3 BaseClass:/Game/Objects/Ingredients/BP_IngredientCarrot.BP_IngredientCarrot_C NativeClass:/Script/Engine.Actor Name:BP_IngredientCarrot_C_UAID_D8BBC18EB820F9DF01_1352631471 Label:BP_IngredientCarrot SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1316.000 Y=2036.000 Z=56.000), Max=(X=1364.000 Y=2084.000 Z=104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:9DA8D9AB446A3930A34A5FA78608D63E BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:AD5A865D441B5CA0FB7605878ABAE1A6 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:AEC2800E45E056308DE70EB038DF2E1D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_90CCDF6253B7F0DF01_1357311887 Label:Obj_Finger SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1266.005 Y=1694.561 Z=82.856), Max=(X=1273.995 Y=1724.317 Z=97.144) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:BA3757434A81A9FF240881A84F09B6C8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_90CCDF6253B7DCDF01_1436004367 Label:Obj_Eye SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1862.206 Y=1368.032 Z=183.011), Max=(X=1902.327 Y=1406.087 Z=196.127) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:CBA6A0344B94B8B62BEEC08957324770 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:CFDD91DE4861DA3F717490BB361C9F91 BaseClass:/Game/Player/BP_Player.BP_Player_C NativeClass:/Script/Engine.Character Name:Player_C_UAID_D8BBC18EB820D7DF01_2013719487 Label:Player SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1126.000 Y=1596.786 Z=0.000), Max=(X=1237.569 Y=1743.398 Z=176.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:D45870014C66312CE0793CAC4BD6A6CD BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_00E2696DD10DD8DF01_1775463664 Label:PointLight2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1250.000 Y=1050.000 Z=-790.000), Max=(X=3250.000 Y=3050.000 Z=1210.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:DA5FA7204B5135F32B6CBA940F1A6B2B BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:DC5626D34C2EEFBF3141A684B14F8990 BaseClass:/Game/Objects/Ingredient1.Ingredient1_C NativeClass:/Script/Engine.Actor Name:Ingredient1_C_UAID_00E2696DD10DD0DF01_1612725259 Label:Ingredient1 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1240.000 Y=610.000 Z=100.000), Max=(X=1400.000 Y=770.000 Z=260.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:DCF04419428A4E3DB5866B874934A042 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_00E2696DD10DD8DF01_1786175666 Label:PointLight4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=260.000 Y=120.000 Z=-790.000), Max=(X=2260.000 Y=2120.000 Z=1210.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:ECF484EE479D5A082AA44FB93D2439AF BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_1 Label:TextRenderActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-0.100 Y=1100.000 Z=65.013), Max=(X=-0.100 Y=2363.461 Z=215.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:3A028F6949C3D6FAD48D7695DF15B7E8 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_00E2696DD10DD8DF01_1779464665 Label:PointLight3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=260.000 Y=1050.000 Z=-790.000), Max=(X=2260.000 Y=3050.000 Z=1210.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:ECF484EE479D5A082AA44FB93D2439AF BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_1 Label:TextRenderActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-0.100 Y=1100.000 Z=65.013), Max=(X=-0.100 Y=2363.461 Z=215.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:4BC11D0E48B8F153DD9F979B677F1B86 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_00E2696DD10DD8DF01_1773252663 Label:PointLight SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1250.000 Y=50.000 Z=-790.000), Max=(X=3250.000 Y=2050.000 Z=1210.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:DCF04419428A4E3DB5866B874934A042 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_00E2696DD10DD8DF01_1786175666 Label:PointLight4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=260.000 Y=120.000 Z=-790.000), Max=(X=2260.000 Y=2120.000 Z=1210.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:77758910453077E9CC17DB9356C481BD BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_0 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:769924614502F92D0528D3830400F158 BaseClass:/Game/Objects/BP_SummoningCircle.BP_SummoningCircle_C NativeClass:/Script/Engine.Actor Name:BP_SummoningCircle_C_UAID_00E2696DD10DD0DF01_1093421256 Label:BP_SummoningCircle SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1297.178 Y=995.613 Z=-131.039), Max=(X=1681.178 Y=1379.613 Z=12.961) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:0C68E5134A30B6A4D9E26B9E8095057B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_0 Label:SM_Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=-50.000), Max=(X=3000.000 Y=3500.000 Z=500.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:Playground FolderGuid:6C02BB504B69D1F3D7A624B130C18E5B
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:CBA6A0344B94B8B62BEEC08957324770 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:DC5626D34C2EEFBF3141A684B14F8990 BaseClass:/Game/Objects/Ingredient1.Ingredient1_C NativeClass:/Script/Engine.Actor Name:Ingredient1_C_UAID_00E2696DD10DD0DF01_1612725259 Label:Ingredient1 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1240.000 Y=610.000 Z=100.000), Max=(X=1400.000 Y=770.000 Z=260.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:D45870014C66312CE0793CAC4BD6A6CD BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_00E2696DD10DD8DF01_1775463664 Label:PointLight2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1250.000 Y=1050.000 Z=-790.000), Max=(X=3250.000 Y=3050.000 Z=1210.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:AEC2800E45E056308DE70EB038DF2E1D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_90CCDF6253B7F0DF01_1357311887 Label:Obj_Finger SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1266.005 Y=1694.561 Z=82.856), Max=(X=1273.995 Y=1724.317 Z=97.144) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:1BF9CD0C45FAD10EC5B2A19A06608777 BaseClass:/Game/Objects/Ingredient3.Ingredient3_C NativeClass:/Script/Engine.Actor Name:Ingredient3_C_UAID_00E2696DD10DD2DF01_1974711614 Label:Ingredient3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1400.000 Y=1170.000 Z=-0.000), Max=(X=1560.000 Y=1330.000 Z=160.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:9DA8D9AB446A3930A34A5FA78608D63E BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:DA5FA7204B5135F32B6CBA940F1A6B2B BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:4347DD0C4A72D3ABB90160A97B3F8871 BaseClass:/Game/Objects/Ingredient2.Ingredient2_C NativeClass:/Script/Engine.Actor Name:Ingredient2_C_UAID_00E2696DD10DD2DF01_1574276613 Label:Ingredient2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1200.000 Y=900.000 Z=90.000), Max=(X=1360.000 Y=1060.000 Z=250.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:BA3757434A81A9FF240881A84F09B6C8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_90CCDF6253B7DCDF01_1436004367 Label:Obj_Eye SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1862.206 Y=1368.032 Z=183.011), Max=(X=1902.327 Y=1406.087 Z=196.127) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:CFDD91DE4861DA3F717490BB361C9F91 BaseClass:/Game/Player/BP_Player.BP_Player_C NativeClass:/Script/Engine.Character Name:Player_C_UAID_D8BBC18EB820D7DF01_2013719487 Label:Player SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1126.000 Y=1596.786 Z=0.000), Max=(X=1237.569 Y=1743.398 Z=176.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:AD5A865D441B5CA0FB7605878ABAE1A6 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:4F9EBA094C74F198AB383EB331AF9FD7 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5EFB00_2001720423 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:24B387DF4E7136E23FD4E795767D22B3 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_1 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:30D94C06485E3EE109EDE2A49807699E BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=2740.000 Y=1470.000 Z=0.013), Max=(X=2820.000 Y=1550.000 Z=184.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:016FE7A44AB6900436C2FFA4E91199F3 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [ 22]
+ |   |   |   |- Guid:3C52D8014E2E4E3DD87D6ABFC9550F4F BaseClass:/Game/Objects/BP_Cauldron.BP_Cauldron_C NativeClass:/Script/Engine.Actor Name:BP_Cauldron_C_UAID_00E2696DD10DCFDF01_2100869079 Label:BP_Cauldron SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1360.000 Y=1590.000 Z=-386.000), Max=(X=1640.000 Y=1870.000 Z=426.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 23]
+ |   |   |   |- Guid:81501F6C401222B5B5B8BF82834498B3 BaseClass:/Game/Objects/Ingredients/BP_IngredientCarrot.BP_IngredientCarrot_C NativeClass:/Script/Engine.Actor Name:BP_IngredientCarrot_C_UAID_D8BBC18EB820F9DF01_1352631471 Label:BP_IngredientCarrot SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1316.000 Y=2036.000 Z=56.000), Max=(X=1364.000 Y=2084.000 Z=104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 24]
+ |   |   |   |- Guid:3026913343353DEB445F11B3B1B0A55E BaseClass:/Game/Objects/Ingredients/BP_IngredientEye.BP_IngredientEye_C NativeClass:/Script/Engine.Actor Name:BP_IngredientEye_C_UAID_D8BBC18EB820F9DF01_1720485472 Label:BP_IngredientEye SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1446.000 Y=1966.000 Z=56.000), Max=(X=1494.000 Y=2014.000 Z=104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 0x0000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Finnmap
+----------------------------------------------------------------------------------------------------------------
+Finnmap - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+Always loaded Actor Count: 33 
+
+----------------------------------------------------------------------------------------------------------------
+Finnmap - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+
