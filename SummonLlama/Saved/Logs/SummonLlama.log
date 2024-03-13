@@ -4791,3 +4791,37 @@ Script Stack (0 frames) :
 [2024.03.13-22.25.35:143][505]LogContentValidation: Display: Validating /Script/Engine.World /Game/Finnmap.Finnmap
 [2024.03.13-22.25.35:143][505]LogContentValidation: Display: Validating /Game/Objects/BP_Cauldron.BP_Cauldron_C /Game/Finnmap.Finnmap:PersistentLevel.BP_Cauldron_C_UAID_00E2696DD10DCFDF01_2100869079
 [2024.03.13-22.25.35:143][505]LogContentValidation: Display: Validating /Game/Objects/BP_SummoningCircle.BP_SummoningCircle_C /Game/Finnmap.Finnmap:PersistentLevel.BP_SummoningCircle_C_UAID_00E2696DD10DD0DF01_1093421256
+[2024.03.13-22.26.14:721][755]LogHttp: Warning: 0000081282439100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B97725E3C-4252-4BC4-8730-6F916C89E80C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=ae6238ea48eb3192c6c77fab4c33baa1%7Cf2eb388ee1dd4c838e41a655497f343f%7C802cc5a6-bc51-4942-8839-278e8bc56ace&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.13-22.26.14:721][755]LogHttp: Warning: 0000081282439100: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.13-22.26.14:721][755]LogHttp: Warning: 0000081282439100: libcurl info message cache 0 (Found bundle for host: 0x811f3960570 [serially])
+[2024.03.13-22.26.14:721][755]LogHttp: Warning: 0000081282439100: libcurl info message cache 1 (Re-using existing connection #11 with host datarouter.ol.epicgames.com)
+[2024.03.13-22.26.14:721][755]LogHttp: Warning: 0000081282439100: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.83.111.215) port 443 (#11))
+[2024.03.13-22.26.14:721][755]LogHttp: Warning: 0000081282439100: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.13-22.26.14:721][755]LogHttp: Warning: 0000081282439100: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.13-22.26.14:721][755]LogHttp: Warning: 0000081282439100: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.13-22.26.14:721][755]LogHttp: Warning: 0000081282439100: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.13-22.26.14:721][755]LogHttp: Warning: 0000081282439100: libcurl info message cache 7 (Closing connection 11)
+[2024.03.13-22.26.14:721][755]LogHttp: Warning: 0000081282439100: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.13-22.26.14:721][755]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B97725E3C-4252-4BC4-8730-6F916C89E80C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=ae6238ea48eb3192c6c77fab4c33baa1%7Cf2eb388ee1dd4c838e41a655497f343f%7C802cc5a6-bc51-4942-8839-278e8bc56ace&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.13-22.27.11:909][165]LogEditorTransaction: Undo Delete current selection
+[2024.03.13-22.29.14:757][702]LogHttp: Warning: 0000081298BF0A00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B97725E3C-4252-4BC4-8730-6F916C89E80C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=ae6238ea48eb3192c6c77fab4c33baa1%7Cf2eb388ee1dd4c838e41a655497f343f%7C802cc5a6-bc51-4942-8839-278e8bc56ace&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.13-22.29.14:757][702]LogHttp: Warning: 0000081298BF0A00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.13-22.29.14:757][702]LogHttp: Warning: 0000081298BF0A00: libcurl info message cache 0 (Found bundle for host: 0x811f3960b40 [serially])
+[2024.03.13-22.29.14:757][702]LogHttp: Warning: 0000081298BF0A00: libcurl info message cache 1 (Re-using existing connection #12 with host datarouter.ol.epicgames.com)
+[2024.03.13-22.29.14:757][702]LogHttp: Warning: 0000081298BF0A00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.82.137.211) port 443 (#12))
+[2024.03.13-22.29.14:757][702]LogHttp: Warning: 0000081298BF0A00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.13-22.29.14:757][702]LogHttp: Warning: 0000081298BF0A00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.13-22.29.14:757][702]LogHttp: Warning: 0000081298BF0A00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.13-22.29.14:757][702]LogHttp: Warning: 0000081298BF0A00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.13-22.29.14:757][702]LogHttp: Warning: 0000081298BF0A00: libcurl info message cache 7 (Closing connection 12)
+[2024.03.13-22.29.14:757][702]LogHttp: Warning: 0000081298BF0A00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.13-22.29.14:757][702]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B97725E3C-4252-4BC4-8730-6F916C89E80C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=ae6238ea48eb3192c6c77fab4c33baa1%7Cf2eb388ee1dd4c838e41a655497f343f%7C802cc5a6-bc51-4942-8839-278e8bc56ace&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.13-22.29.15:888][837]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.13-22.29.15:927][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FinnGameInstance" FILE="../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Content/Blueprints/FinnGameInstance.uasset" SILENT=true
+[2024.03.13-22.29.15:942][837]LogSavePackage: Moving output files for package: /Game/Blueprints/FinnGameInstance
+[2024.03.13-22.29.15:943][837]LogSavePackage: Moving '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Saved/FinnGameInstanceDCB944CC44076D800A1F5BB2D36B7E91.tmp' to '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Content/Blueprints/FinnGameInstance.uasset'
+[2024.03.13-22.29.15:951][837]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 2.75 sec)
+[2024.03.13-22.29.15:956][837]AssetCheck: New page: Asset Save: FinnGameInstance
+[2024.03.13-22.29.15:956][837]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/FinnGameInstance.FinnGameInstance
+[2024.03.13-22.29.16:877][946]BlueprintLog: New page: Compile FinnGameInstance
+[2024.03.13-22.29.16:960][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
