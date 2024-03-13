@@ -1972,3 +1972,1016 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.13-21.50.05:219][956]AssetCheck: New page: Asset Save: multiple assets
 [2024.03.13-21.50.05:219][956]LogContentValidation: Display: Validating /Game/Player/BP_Player.BP_Player_C /Game/Finnmap.Finnmap:PersistentLevel.Player_C_UAID_D8BBC18EB820D7DF01_2013719487
 [2024.03.13-21.50.05:219][956]LogContentValidation: Display: Validating /Game/Objects/BP_Cauldron.BP_Cauldron_C /Game/Finnmap.Finnmap:PersistentLevel.BP_Cauldron_C_UAID_00E2696DD10DCFDF01_2100869079
+[2024.03.13-21.51.14:183][232]LogHttp: Warning: 000008122E05F500: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B97725E3C-4252-4BC4-8730-6F916C89E80C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=ae6238ea48eb3192c6c77fab4c33baa1%7Cf2eb388ee1dd4c838e41a655497f343f%7C802cc5a6-bc51-4942-8839-278e8bc56ace&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.13-21.51.14:184][232]LogHttp: Warning: 000008122E05F500: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.13-21.51.14:184][232]LogHttp: Warning: 000008122E05F500: libcurl info message cache 0 (Found bundle for host: 0x811f39609f0 [serially])
+[2024.03.13-21.51.14:184][232]LogHttp: Warning: 000008122E05F500: libcurl info message cache 1 (Re-using existing connection #1 with host datarouter.ol.epicgames.com)
+[2024.03.13-21.51.14:184][232]LogHttp: Warning: 000008122E05F500: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.172.151.152) port 443 (#1))
+[2024.03.13-21.51.14:184][232]LogHttp: Warning: 000008122E05F500: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.13-21.51.14:184][232]LogHttp: Warning: 000008122E05F500: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.13-21.51.14:184][232]LogHttp: Warning: 000008122E05F500: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.13-21.51.14:184][232]LogHttp: Warning: 000008122E05F500: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.13-21.51.14:184][232]LogHttp: Warning: 000008122E05F500: libcurl info message cache 7 (Closing connection 1)
+[2024.03.13-21.51.14:184][232]LogHttp: Warning: 000008122E05F500: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.13-21.51.14:184][232]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B97725E3C-4252-4BC4-8730-6F916C89E80C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=ae6238ea48eb3192c6c77fab4c33baa1%7Cf2eb388ee1dd4c838e41a655497f343f%7C802cc5a6-bc51-4942-8839-278e8bc56ace&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.13-21.52.33:324][199]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WB_WinScreen.WB_WinScreen
+[2024.03.13-21.52.33:324][199]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.13-21.52.33:324][199]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.13-21.52.33:344][199]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.13-21.52.33:344][199]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.13-21.52.33:350][199]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.03.13-21.52.33:642][199]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.03.13-21.53.07:626][682]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.13-21.53.07:697][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_WinScreen" FILE="../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Content/UI/WB_WinScreen.uasset" SILENT=true
+[2024.03.13-21.53.07:702][682]LogSavePackage: Moving output files for package: /Game/UI/WB_WinScreen
+[2024.03.13-21.53.07:703][682]LogSavePackage: Moving '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Saved/WB_WinScreenE362129C40525FF26AA64493C3E6E341.tmp' to '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Content/UI/WB_WinScreen.uasset'
+[2024.03.13-21.53.07:709][682]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 360 ms)
+[2024.03.13-21.53.07:716][682]AssetCheck: New page: Asset Save: WB_WinScreen
+[2024.03.13-21.53.07:716][682]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_WinScreen.WB_WinScreen
+[2024.03.13-21.53.08:709][727]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.13-21.53.08:775][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_WinScreen" FILE="../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Content/UI/WB_WinScreen.uasset" SILENT=true
+[2024.03.13-21.53.08:780][727]LogSavePackage: Moving output files for package: /Game/UI/WB_WinScreen
+[2024.03.13-21.53.08:780][727]LogSavePackage: Moving '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Saved/WB_WinScreenB4A9166D41C433D025D804B655BDAA81.tmp' to '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Content/UI/WB_WinScreen.uasset'
+[2024.03.13-21.53.08:789][727]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 440 ms)
+[2024.03.13-21.53.08:794][727]AssetCheck: New page: Asset Save: WB_WinScreen
+[2024.03.13-21.53.08:794][727]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_WinScreen.WB_WinScreen
+[2024.03.13-21.53.09:254][748]BlueprintLog: New page: Compile WB_WinScreen
+[2024.03.13-21.53.09:295][748]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.03.13-21.53.09:519][753]BlueprintLog: New page: Compile WB_WinScreen
+[2024.03.13-21.53.09:557][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.03.13-21.53.10:123][773]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.13-21.53.10:195][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_WinScreen" FILE="../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Content/UI/WB_WinScreen.uasset" SILENT=true
+[2024.03.13-21.53.10:200][773]LogSavePackage: Moving output files for package: /Game/UI/WB_WinScreen
+[2024.03.13-21.53.10:200][773]LogSavePackage: Moving '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Saved/WB_WinScreen4D97A325459567282134A2ACB511DCD5.tmp' to '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Content/UI/WB_WinScreen.uasset'
+[2024.03.13-21.53.10:206][773]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 523 ms)
+[2024.03.13-21.53.10:212][773]AssetCheck: New page: Asset Save: WB_WinScreen
+[2024.03.13-21.53.10:212][773]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_WinScreen.WB_WinScreen
+[2024.03.13-21.53.17:496][113]LogSlate: Window 'WB_WinScreen' being destroyed
+[2024.03.13-21.55.14:106][ 97]LogHttp: Warning: 000008127A9DC800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B97725E3C-4252-4BC4-8730-6F916C89E80C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=ae6238ea48eb3192c6c77fab4c33baa1%7Cf2eb388ee1dd4c838e41a655497f343f%7C802cc5a6-bc51-4942-8839-278e8bc56ace&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.13-21.55.14:106][ 97]LogHttp: Warning: 000008127A9DC800: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.13-21.55.14:106][ 97]LogHttp: Warning: 000008127A9DC800: libcurl info message cache 0 (Found bundle for host: 0x811f3960d80 [serially])
+[2024.03.13-21.55.14:106][ 97]LogHttp: Warning: 000008127A9DC800: libcurl info message cache 1 (Re-using existing connection #2 with host datarouter.ol.epicgames.com)
+[2024.03.13-21.55.14:106][ 97]LogHttp: Warning: 000008127A9DC800: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.219.150.194) port 443 (#2))
+[2024.03.13-21.55.14:106][ 97]LogHttp: Warning: 000008127A9DC800: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.13-21.55.14:106][ 97]LogHttp: Warning: 000008127A9DC800: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.13-21.55.14:106][ 97]LogHttp: Warning: 000008127A9DC800: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.13-21.55.14:106][ 97]LogHttp: Warning: 000008127A9DC800: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.13-21.55.14:106][ 97]LogHttp: Warning: 000008127A9DC800: libcurl info message cache 7 (Closing connection 2)
+[2024.03.13-21.55.14:106][ 97]LogHttp: Warning: 000008127A9DC800: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.13-21.55.14:106][ 97]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B97725E3C-4252-4BC4-8730-6F916C89E80C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=ae6238ea48eb3192c6c77fab4c33baa1%7Cf2eb388ee1dd4c838e41a655497f343f%7C802cc5a6-bc51-4942-8839-278e8bc56ace&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.13-21.55.55:598][862]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.13-21.55.55:658][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FinnGameInstance" FILE="../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Content/Blueprints/FinnGameInstance.uasset" SILENT=true
+[2024.03.13-21.55.55:668][862]LogSavePackage: Moving output files for package: /Game/Blueprints/FinnGameInstance
+[2024.03.13-21.55.55:668][862]LogSavePackage: Moving '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Saved/FinnGameInstanceDB6DEF2846F1762CC04C3BAFCF319A14.tmp' to '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Content/Blueprints/FinnGameInstance.uasset'
+[2024.03.13-21.55.55:675][862]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 599 ms)
+[2024.03.13-21.55.55:682][862]AssetCheck: New page: Asset Save: FinnGameInstance
+[2024.03.13-21.55.55:682][862]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/FinnGameInstance.FinnGameInstance
+[2024.03.13-21.55.57:150][ 38]BlueprintLog: New page: Compile FinnGameInstance
+[2024.03.13-21.55.57:348][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.03.13-21.55.58:776][192]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.13-21.55.58:782][192]LogContentBundle: [Finnmap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.13-21.55.58:787][192]LogWorldPartition: Display: GenerateStreaming started...
+[2024.03.13-21.55.58:787][192]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.03.13-21.55.58:787][192]LogWorldPartition: Display: GetPartitionedActors took 20 us (total: 103 us)
+[2024.03.13-21.55.58:788][192]LogWorldPartition: Display: GenerateStreaming took 638 us (total: 348 ms)
+[2024.03.13-21.55.58:788][192]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.13-21.55.58:788][192]PIE: New page: PIE session: Finnmap (14/03/2024, 11:55:58 pm)
+[2024.03.13-21.55.58:788][192]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Finnmap
+[2024.03.13-21.55.58:802][192]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014758s)
+[2024.03.13-21.55.58:802][192]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Finnmap.Finnmap to /Game/UEDPIE_0_Finnmap.Finnmap (0.014795s)
+[2024.03.13-21.55.58:803][192]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.13-21.55.58:803][192]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.13-21.55.58:803][192]LogAIModule: Creating AISystem for world Finnmap
+[2024.03.13-21.55.58:804][192]LogWorldPartition: ULevel::OnLevelLoaded(Finnmap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.13-21.55.58:804][192]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.13-21.55.58:804][192]LogWorldPartition: UWorldPartition::Initialize(Asset=Finnmap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.03.13-21.55.58:808][192]LogContentBundle: [Finnmap(Standalone)] Creating new contrainer.
+[2024.03.13-21.55.58:808][192]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 485 ms)
+[2024.03.13-21.55.58:808][192]LogPlayLevel: PIE: World Init took: (0.004910s)
+[2024.03.13-21.55.58:832][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.03.13-21.55.58:834][192]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.03.13-21.55.58:834][192]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.13-21.55.58:834][192]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.13-21.55.58:834][192]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.13-21.55.58:834][192]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.13-21.55.58:834][192]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.13-21.55.58:834][192]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.13-21.55.58:834][192]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.13-21.55.58:835][192]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.13-21.55.58:835][192]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.13-21.55.58:835][192]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.13-21.55.58:835][192]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.13-21.55.58:837][192]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.13-21.55.58:860][192]LogAudioMixer: Display: Using Audio Hardware Device B24-8 TS Pro (NVIDIA High Definition Audio)
+[2024.03.13-21.55.58:861][192]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.13-21.55.58:861][192]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.13-21.55.58:861][192]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.13-21.55.58:862][192]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.03.13-21.55.58:862][192]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.03.13-21.55.58:863][192]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.03.13-21.55.58:864][192]LogInit: FAudioDevice initialized with ID 6.
+[2024.03.13-21.55.58:864][192]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.03.13-21.55.58:864][192]LogAudio: Display: Audio Device (ID: 6) registered with world 'Finnmap'.
+[2024.03.13-21.55.58:864][192]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.03.13-21.55.58:926][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.13-21.55.58:926][192]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.03.13-21.55.58:933][192]LogWorld: Bringing World /Game/UEDPIE_0_Finnmap.Finnmap up for play (max tick rate 0) at 2024.03.14-10.55.58
+[2024.03.13-21.55.58:933][192]LogWorld: Bringing up level for play took: 0.007297
+[2024.03.13-21.55.58:935][192]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2024.03.13-21.55.58:937][192]LogBlueprintUserMessages: [BP_Cauldron_C_UAID_00E2696DD10DCFDF01_2100869079] Finger
+[2024.03.13-21.55.58:937][192]LogBlueprintUserMessages: [BP_Cauldron_C_UAID_00E2696DD10DCFDF01_2100869079] Crushed_Finger
+[2024.03.13-21.55.58:937][192]LogBlueprintUserMessages: [BP_Cauldron_C_UAID_00E2696DD10DCFDF01_2100869079] Finger
+[2024.03.13-21.55.58:940][192]PIE: Server logged in
+[2024.03.13-21.55.58:941][192]PIE: Play in editor total start time 0.159 seconds.
+[2024.03.13-21.55.58:945][192]LogBlueprintUserMessages: [Ingredient1_C_UAID_00E2696DD10DD0DF01_1612725259] 1
+[2024.03.13-21.55.58:945][192]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D09E201_1250524399] Carrot
+[2024.03.13-21.55.58:945][192]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D09E201_1250524399] Obj Type
+[2024.03.13-21.55.58:945][192]LogBlueprintUserMessages: [BP_IngredientEye_C_UAID_00E2696DD10D07E201_2121362050] Eye
+[2024.03.13-21.55.58:945][192]LogBlueprintUserMessages: [BP_IngredientEye_C_UAID_00E2696DD10D07E201_2121362050] Obj Type
+[2024.03.13-21.55.58:946][192]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'AmbienceLoop'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.03.13-21.55.58:954][192]LogViewport: Scene viewport resized to 1914x992, mode Windowed.
+[2024.03.13-21.55.59:786][228]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.00:779][303]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.01:787][380]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.02:791][460]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.03:174][491]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.03.13-21.56.03:174][491]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.03.13-21.56.03:787][540]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.04:785][621]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.05:780][702]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.06:778][784]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.07:778][866]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.08:780][948]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.09:782][ 30]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.10:788][112]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.11:781][193]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.12:781][275]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.13:789][357]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.14:788][439]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.15:788][521]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.16:784][603]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.17:787][685]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.18:788][766]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.19:782][846]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.20:789][929]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.21:782][ 10]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.22:785][ 92]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.23:779][173]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.24:789][256]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.25:782][337]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.26:789][419]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.27:785][499]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.28:779][580]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.29:785][662]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.30:782][743]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.31:780][824]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.32:786][906]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.33:791][987]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.34:789][ 68]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.35:390][117]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.03.13-21.56.35:390][117]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.03.13-21.56.35:786][148]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.36:778][227]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.37:784][311]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.38:781][394]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.39:790][477]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.39:868][483]LogBlueprintUserMessages: [BP_Knife_C_UAID_D8BBC18EB82039E001_1528870737] Knife Picked Up
+[2024.03.13-21.56.40:036][496]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] Carrot
+[2024.03.13-21.56.40:036][496]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] Ingredient Type Being Dropped:
+[2024.03.13-21.56.40:036][496]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] spawned in dropped item
+[2024.03.13-21.56.40:784][555]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.41:340][600]LogBlueprintUserMessages: [BP_Knife_C_0] Knife Picked Up
+[2024.03.13-21.56.41:778][635]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.42:413][684]LogScript: Warning: Script Msg: The widget 'P_ChoppingBoard_C_0' was already added to the screen.
+[2024.03.13-21.56.42:413][684]LogScript: Warning: Script Msg called by: BP_ChoppingBoard_C /Game/UEDPIE_0_Finnmap.Finnmap:PersistentLevel.BP_ChoppingBoard_C_UAID_D8BBC18EB82038E001_1847313559
+[2024.03.13-21.56.42:786][713]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.43:540][772]LogBlueprintUserMessages: [BP_IngredientFinger_C_0] 2
+[2024.03.13-21.56.43:540][772]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] chop and spawn
+[2024.03.13-21.56.43:542][772]LogBlueprintUserMessages: [BP_IngredientFinger_C_0] 2
+[2024.03.13-21.56.43:542][772]LogBlueprintUserMessages: [BP_IngredientFinger_C_0] 2
+[2024.03.13-21.56.43:542][772]LogBlueprintUserMessages: [BP_IngredientFinger_C_0] Finger
+[2024.03.13-21.56.43:542][772]LogBlueprintUserMessages: [BP_IngredientFinger_C_0] Obj Type
+[2024.03.13-21.56.43:692][784]LogBlueprintUserMessages: [BP_IngredientFinger_C_1] 2
+[2024.03.13-21.56.43:692][784]LogBlueprintUserMessages: [BP_IngredientFinger_C_0] 2
+[2024.03.13-21.56.43:692][784]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] chop and spawn
+[2024.03.13-21.56.43:693][784]LogBlueprintUserMessages: [BP_IngredientFinger_C_1] 2
+[2024.03.13-21.56.43:693][784]LogBlueprintUserMessages: [BP_IngredientFinger_C_1] 2
+[2024.03.13-21.56.43:693][784]LogBlueprintUserMessages: [BP_IngredientFinger_C_1] 2
+[2024.03.13-21.56.43:693][784]LogBlueprintUserMessages: [BP_IngredientFinger_C_1] Finger
+[2024.03.13-21.56.43:693][784]LogBlueprintUserMessages: [BP_IngredientFinger_C_1] Obj Type
+[2024.03.13-21.56.43:781][791]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.43:832][795]LogBlueprintUserMessages: [BP_IngredientFinger_C_1] 2
+[2024.03.13-21.56.43:832][795]LogBlueprintUserMessages: [BP_IngredientFinger_C_2] 2
+[2024.03.13-21.56.43:832][795]LogBlueprintUserMessages: [BP_IngredientFinger_C_0] 2
+[2024.03.13-21.56.43:832][795]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] chop and spawn
+[2024.03.13-21.56.43:834][795]LogBlueprintUserMessages: [BP_IngredientFinger_C_2] 2
+[2024.03.13-21.56.43:834][795]LogBlueprintUserMessages: [BP_IngredientFinger_C_2] 2
+[2024.03.13-21.56.43:834][795]LogBlueprintUserMessages: [BP_IngredientFinger_C_2] 2
+[2024.03.13-21.56.43:834][795]LogBlueprintUserMessages: [BP_IngredientFinger_C_2] 2
+[2024.03.13-21.56.43:834][795]LogBlueprintUserMessages: [BP_IngredientFinger_C_2] Finger
+[2024.03.13-21.56.43:835][795]LogBlueprintUserMessages: [BP_IngredientFinger_C_2] Obj Type
+[2024.03.13-21.56.44:766][867]LogScript: Warning: Script Msg: The widget 'P_ChoppingBoard_C_0' was already added to the screen.
+[2024.03.13-21.56.44:766][867]LogScript: Warning: Script Msg called by: BP_ChoppingBoard_C /Game/UEDPIE_0_Finnmap.Finnmap:PersistentLevel.BP_ChoppingBoard_C_UAID_D8BBC18EB82038E001_1847313559
+[2024.03.13-21.56.44:779][868]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.44:830][872]LogBlueprintUserMessages: [BP_IngredientFinger_C_3] 2
+[2024.03.13-21.56.44:830][872]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] chop and spawn
+[2024.03.13-21.56.44:832][872]LogBlueprintUserMessages: [BP_IngredientFinger_C_3] 2
+[2024.03.13-21.56.44:832][872]LogBlueprintUserMessages: [BP_IngredientFinger_C_3] 2
+[2024.03.13-21.56.44:832][872]LogBlueprintUserMessages: [BP_IngredientFinger_C_3] 2
+[2024.03.13-21.56.44:832][872]LogBlueprintUserMessages: [BP_IngredientFinger_C_3] 2
+[2024.03.13-21.56.44:832][872]LogBlueprintUserMessages: [BP_IngredientFinger_C_3] Finger
+[2024.03.13-21.56.44:832][872]LogBlueprintUserMessages: [BP_IngredientFinger_C_3] Obj Type
+[2024.03.13-21.56.45:022][887]LogBlueprintUserMessages: [BP_IngredientFinger_C_4] 2
+[2024.03.13-21.56.45:022][887]LogBlueprintUserMessages: [BP_IngredientFinger_C_3] 2
+[2024.03.13-21.56.45:022][887]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] chop and spawn
+[2024.03.13-21.56.45:023][887]LogBlueprintUserMessages: [BP_IngredientFinger_C_4] 2
+[2024.03.13-21.56.45:023][887]LogBlueprintUserMessages: [BP_IngredientFinger_C_4] 2
+[2024.03.13-21.56.45:023][887]LogBlueprintUserMessages: [BP_IngredientFinger_C_4] 2
+[2024.03.13-21.56.45:023][887]LogBlueprintUserMessages: [BP_IngredientFinger_C_4] 2
+[2024.03.13-21.56.45:023][887]LogBlueprintUserMessages: [BP_IngredientFinger_C_4] 2
+[2024.03.13-21.56.45:023][887]LogBlueprintUserMessages: [BP_IngredientFinger_C_4] Finger
+[2024.03.13-21.56.45:023][887]LogBlueprintUserMessages: [BP_IngredientFinger_C_4] Obj Type
+[2024.03.13-21.56.45:161][898]LogBlueprintUserMessages: [BP_IngredientFinger_C_3] 2
+[2024.03.13-21.56.45:161][898]LogBlueprintUserMessages: [BP_IngredientFinger_C_5] 2
+[2024.03.13-21.56.45:161][898]LogBlueprintUserMessages: [BP_IngredientFinger_C_4] 2
+[2024.03.13-21.56.45:161][898]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] chop and spawn
+[2024.03.13-21.56.45:162][898]LogBlueprintUserMessages: [BP_IngredientFinger_C_5] 2
+[2024.03.13-21.56.45:162][898]LogBlueprintUserMessages: [BP_IngredientFinger_C_5] 2
+[2024.03.13-21.56.45:162][898]LogBlueprintUserMessages: [BP_IngredientFinger_C_5] 2
+[2024.03.13-21.56.45:162][898]LogBlueprintUserMessages: [BP_IngredientFinger_C_5] 2
+[2024.03.13-21.56.45:162][898]LogBlueprintUserMessages: [BP_IngredientFinger_C_5] 2
+[2024.03.13-21.56.45:162][898]LogBlueprintUserMessages: [BP_IngredientFinger_C_5] 2
+[2024.03.13-21.56.45:162][898]LogBlueprintUserMessages: [BP_IngredientFinger_C_5] Finger
+[2024.03.13-21.56.45:162][898]LogBlueprintUserMessages: [BP_IngredientFinger_C_5] Obj Type
+[2024.03.13-21.56.45:314][910]LogBlueprintUserMessages: [BP_IngredientFinger_C_5] 2
+[2024.03.13-21.56.45:314][910]LogBlueprintUserMessages: [BP_IngredientFinger_C_4] 2
+[2024.03.13-21.56.45:314][910]LogBlueprintUserMessages: [BP_IngredientFinger_C_6] 2
+[2024.03.13-21.56.45:314][910]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] chop and spawn
+[2024.03.13-21.56.45:315][910]LogBlueprintUserMessages: [BP_IngredientFinger_C_6] 2
+[2024.03.13-21.56.45:315][910]LogBlueprintUserMessages: [BP_IngredientFinger_C_6] 2
+[2024.03.13-21.56.45:315][910]LogBlueprintUserMessages: [BP_IngredientFinger_C_6] 2
+[2024.03.13-21.56.45:315][910]LogBlueprintUserMessages: [BP_IngredientFinger_C_6] 2
+[2024.03.13-21.56.45:315][910]LogBlueprintUserMessages: [BP_IngredientFinger_C_6] 2
+[2024.03.13-21.56.45:315][910]LogBlueprintUserMessages: [BP_IngredientFinger_C_6] 2
+[2024.03.13-21.56.45:315][910]LogBlueprintUserMessages: [BP_IngredientFinger_C_6] 2
+[2024.03.13-21.56.45:315][910]LogBlueprintUserMessages: [BP_IngredientFinger_C_6] Finger
+[2024.03.13-21.56.45:315][910]LogBlueprintUserMessages: [BP_IngredientFinger_C_6] Obj Type
+[2024.03.13-21.56.45:466][922]LogBlueprintUserMessages: [BP_IngredientFinger_C_6] 2
+[2024.03.13-21.56.45:466][922]LogBlueprintUserMessages: [BP_IngredientFinger_C_7] 2
+[2024.03.13-21.56.45:466][922]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] chop and spawn
+[2024.03.13-21.56.45:467][922]LogBlueprintUserMessages: [BP_IngredientFinger_C_7] 2
+[2024.03.13-21.56.45:467][922]LogBlueprintUserMessages: [BP_IngredientFinger_C_7] 2
+[2024.03.13-21.56.45:467][922]LogBlueprintUserMessages: [BP_IngredientFinger_C_7] 2
+[2024.03.13-21.56.45:467][922]LogBlueprintUserMessages: [BP_IngredientFinger_C_7] 2
+[2024.03.13-21.56.45:467][922]LogBlueprintUserMessages: [BP_IngredientFinger_C_7] 2
+[2024.03.13-21.56.45:467][922]LogBlueprintUserMessages: [BP_IngredientFinger_C_7] 2
+[2024.03.13-21.56.45:467][922]LogBlueprintUserMessages: [BP_IngredientFinger_C_7] 2
+[2024.03.13-21.56.45:467][922]LogBlueprintUserMessages: [BP_IngredientFinger_C_7] 2
+[2024.03.13-21.56.45:467][922]LogBlueprintUserMessages: [BP_IngredientFinger_C_7] Finger
+[2024.03.13-21.56.45:467][922]LogBlueprintUserMessages: [BP_IngredientFinger_C_7] Obj Type
+[2024.03.13-21.56.45:629][935]LogBlueprintUserMessages: [BP_IngredientFinger_C_7] 2
+[2024.03.13-21.56.45:629][935]LogBlueprintUserMessages: [BP_IngredientFinger_C_8] 2
+[2024.03.13-21.56.45:629][935]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] chop and spawn
+[2024.03.13-21.56.45:630][935]LogBlueprintUserMessages: [BP_IngredientFinger_C_8] 2
+[2024.03.13-21.56.45:630][935]LogBlueprintUserMessages: [BP_IngredientFinger_C_8] 2
+[2024.03.13-21.56.45:631][935]LogBlueprintUserMessages: [BP_IngredientFinger_C_8] 2
+[2024.03.13-21.56.45:631][935]LogBlueprintUserMessages: [BP_IngredientFinger_C_8] 2
+[2024.03.13-21.56.45:631][935]LogBlueprintUserMessages: [BP_IngredientFinger_C_8] 2
+[2024.03.13-21.56.45:631][935]LogBlueprintUserMessages: [BP_IngredientFinger_C_8] 2
+[2024.03.13-21.56.45:631][935]LogBlueprintUserMessages: [BP_IngredientFinger_C_8] 2
+[2024.03.13-21.56.45:631][935]LogBlueprintUserMessages: [BP_IngredientFinger_C_8] 2
+[2024.03.13-21.56.45:631][935]LogBlueprintUserMessages: [BP_IngredientFinger_C_8] 2
+[2024.03.13-21.56.45:631][935]LogBlueprintUserMessages: [BP_IngredientFinger_C_8] Finger
+[2024.03.13-21.56.45:631][935]LogBlueprintUserMessages: [BP_IngredientFinger_C_8] Obj Type
+[2024.03.13-21.56.45:781][947]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.45:794][948]LogBlueprintUserMessages: [BP_IngredientFinger_C_8] 2
+[2024.03.13-21.56.45:794][948]LogBlueprintUserMessages: [BP_IngredientFinger_C_9] 2
+[2024.03.13-21.56.45:794][948]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] chop and spawn
+[2024.03.13-21.56.45:795][948]LogBlueprintUserMessages: [BP_IngredientFinger_C_9] 2
+[2024.03.13-21.56.45:795][948]LogBlueprintUserMessages: [BP_IngredientFinger_C_9] 2
+[2024.03.13-21.56.45:795][948]LogBlueprintUserMessages: [BP_IngredientFinger_C_9] 2
+[2024.03.13-21.56.45:795][948]LogBlueprintUserMessages: [BP_IngredientFinger_C_9] 2
+[2024.03.13-21.56.45:795][948]LogBlueprintUserMessages: [BP_IngredientFinger_C_9] 2
+[2024.03.13-21.56.45:795][948]LogBlueprintUserMessages: [BP_IngredientFinger_C_9] 2
+[2024.03.13-21.56.45:795][948]LogBlueprintUserMessages: [BP_IngredientFinger_C_9] 2
+[2024.03.13-21.56.45:795][948]LogBlueprintUserMessages: [BP_IngredientFinger_C_9] 2
+[2024.03.13-21.56.45:795][948]LogBlueprintUserMessages: [BP_IngredientFinger_C_9] 2
+[2024.03.13-21.56.45:795][948]LogBlueprintUserMessages: [BP_IngredientFinger_C_9] 2
+[2024.03.13-21.56.45:795][948]LogBlueprintUserMessages: [BP_IngredientFinger_C_9] Finger
+[2024.03.13-21.56.45:796][948]LogBlueprintUserMessages: [BP_IngredientFinger_C_9] Obj Type
+[2024.03.13-21.56.45:946][960]LogBlueprintUserMessages: [BP_IngredientFinger_C_9] 2
+[2024.03.13-21.56.45:946][960]LogBlueprintUserMessages: [BP_IngredientFinger_C_10] 2
+[2024.03.13-21.56.45:946][960]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] chop and spawn
+[2024.03.13-21.56.45:947][960]LogBlueprintUserMessages: [BP_IngredientFinger_C_10] 2
+[2024.03.13-21.56.45:947][960]LogBlueprintUserMessages: [BP_IngredientFinger_C_10] 2
+[2024.03.13-21.56.45:947][960]LogBlueprintUserMessages: [BP_IngredientFinger_C_10] 2
+[2024.03.13-21.56.45:947][960]LogBlueprintUserMessages: [BP_IngredientFinger_C_10] 2
+[2024.03.13-21.56.45:947][960]LogBlueprintUserMessages: [BP_IngredientFinger_C_10] 2
+[2024.03.13-21.56.45:947][960]LogBlueprintUserMessages: [BP_IngredientFinger_C_10] 2
+[2024.03.13-21.56.45:947][960]LogBlueprintUserMessages: [BP_IngredientFinger_C_10] 2
+[2024.03.13-21.56.45:947][960]LogBlueprintUserMessages: [BP_IngredientFinger_C_10] 2
+[2024.03.13-21.56.45:947][960]LogBlueprintUserMessages: [BP_IngredientFinger_C_10] 2
+[2024.03.13-21.56.45:947][960]LogBlueprintUserMessages: [BP_IngredientFinger_C_10] 2
+[2024.03.13-21.56.45:947][960]LogBlueprintUserMessages: [BP_IngredientFinger_C_10] 2
+[2024.03.13-21.56.45:947][960]LogBlueprintUserMessages: [BP_IngredientFinger_C_10] Finger
+[2024.03.13-21.56.45:947][960]LogBlueprintUserMessages: [BP_IngredientFinger_C_10] Obj Type
+[2024.03.13-21.56.46:072][970]LogBlueprintUserMessages: [BP_IngredientFinger_C_9] 2
+[2024.03.13-21.56.46:072][970]LogBlueprintUserMessages: [BP_IngredientFinger_C_11] 2
+[2024.03.13-21.56.46:072][970]LogBlueprintUserMessages: [BP_IngredientFinger_C_10] 2
+[2024.03.13-21.56.46:072][970]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] chop and spawn
+[2024.03.13-21.56.46:075][970]LogBlueprintUserMessages: [BP_IngredientFinger_C_11] 2
+[2024.03.13-21.56.46:075][970]LogBlueprintUserMessages: [BP_IngredientFinger_C_11] 2
+[2024.03.13-21.56.46:075][970]LogBlueprintUserMessages: [BP_IngredientFinger_C_11] 2
+[2024.03.13-21.56.46:075][970]LogBlueprintUserMessages: [BP_IngredientFinger_C_11] 2
+[2024.03.13-21.56.46:075][970]LogBlueprintUserMessages: [BP_IngredientFinger_C_11] 2
+[2024.03.13-21.56.46:075][970]LogBlueprintUserMessages: [BP_IngredientFinger_C_11] 2
+[2024.03.13-21.56.46:075][970]LogBlueprintUserMessages: [BP_IngredientFinger_C_11] 2
+[2024.03.13-21.56.46:075][970]LogBlueprintUserMessages: [BP_IngredientFinger_C_11] 2
+[2024.03.13-21.56.46:075][970]LogBlueprintUserMessages: [BP_IngredientFinger_C_11] 2
+[2024.03.13-21.56.46:075][970]LogBlueprintUserMessages: [BP_IngredientFinger_C_11] 2
+[2024.03.13-21.56.46:075][970]LogBlueprintUserMessages: [BP_IngredientFinger_C_11] 2
+[2024.03.13-21.56.46:075][970]LogBlueprintUserMessages: [BP_IngredientFinger_C_11] 2
+[2024.03.13-21.56.46:075][970]LogBlueprintUserMessages: [BP_IngredientFinger_C_11] Finger
+[2024.03.13-21.56.46:075][970]LogBlueprintUserMessages: [BP_IngredientFinger_C_11] Obj Type
+[2024.03.13-21.56.46:242][983]LogBlueprintUserMessages: [BP_IngredientFinger_C_11] 2
+[2024.03.13-21.56.46:242][983]LogBlueprintUserMessages: [BP_IngredientFinger_C_10] 2
+[2024.03.13-21.56.46:242][983]LogBlueprintUserMessages: [BP_IngredientFinger_C_12] 2
+[2024.03.13-21.56.46:242][983]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] chop and spawn
+[2024.03.13-21.56.46:245][983]LogBlueprintUserMessages: [BP_IngredientFinger_C_12] 2
+[2024.03.13-21.56.46:245][983]LogBlueprintUserMessages: [BP_IngredientFinger_C_12] 2
+[2024.03.13-21.56.46:245][983]LogBlueprintUserMessages: [BP_IngredientFinger_C_12] 2
+[2024.03.13-21.56.46:245][983]LogBlueprintUserMessages: [BP_IngredientFinger_C_12] 2
+[2024.03.13-21.56.46:245][983]LogBlueprintUserMessages: [BP_IngredientFinger_C_12] 2
+[2024.03.13-21.56.46:245][983]LogBlueprintUserMessages: [BP_IngredientFinger_C_12] 2
+[2024.03.13-21.56.46:245][983]LogBlueprintUserMessages: [BP_IngredientFinger_C_12] 2
+[2024.03.13-21.56.46:245][983]LogBlueprintUserMessages: [BP_IngredientFinger_C_12] 2
+[2024.03.13-21.56.46:245][983]LogBlueprintUserMessages: [BP_IngredientFinger_C_12] 2
+[2024.03.13-21.56.46:245][983]LogBlueprintUserMessages: [BP_IngredientFinger_C_12] 2
+[2024.03.13-21.56.46:245][983]LogBlueprintUserMessages: [BP_IngredientFinger_C_12] 2
+[2024.03.13-21.56.46:245][983]LogBlueprintUserMessages: [BP_IngredientFinger_C_12] 2
+[2024.03.13-21.56.46:245][983]LogBlueprintUserMessages: [BP_IngredientFinger_C_12] 2
+[2024.03.13-21.56.46:245][983]LogBlueprintUserMessages: [BP_IngredientFinger_C_12] Finger
+[2024.03.13-21.56.46:245][983]LogBlueprintUserMessages: [BP_IngredientFinger_C_12] Obj Type
+[2024.03.13-21.56.46:397][995]LogBlueprintUserMessages: [BP_IngredientFinger_C_12] 2
+[2024.03.13-21.56.46:397][995]LogBlueprintUserMessages: [BP_IngredientFinger_C_13] 2
+[2024.03.13-21.56.46:397][995]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] chop and spawn
+[2024.03.13-21.56.46:398][995]LogBlueprintUserMessages: [BP_IngredientFinger_C_13] 2
+[2024.03.13-21.56.46:398][995]LogBlueprintUserMessages: [BP_IngredientFinger_C_13] 2
+[2024.03.13-21.56.46:398][995]LogBlueprintUserMessages: [BP_IngredientFinger_C_13] 2
+[2024.03.13-21.56.46:398][995]LogBlueprintUserMessages: [BP_IngredientFinger_C_13] 2
+[2024.03.13-21.56.46:398][995]LogBlueprintUserMessages: [BP_IngredientFinger_C_13] 2
+[2024.03.13-21.56.46:398][995]LogBlueprintUserMessages: [BP_IngredientFinger_C_13] 2
+[2024.03.13-21.56.46:398][995]LogBlueprintUserMessages: [BP_IngredientFinger_C_13] 2
+[2024.03.13-21.56.46:398][995]LogBlueprintUserMessages: [BP_IngredientFinger_C_13] 2
+[2024.03.13-21.56.46:398][995]LogBlueprintUserMessages: [BP_IngredientFinger_C_13] 2
+[2024.03.13-21.56.46:398][995]LogBlueprintUserMessages: [BP_IngredientFinger_C_13] 2
+[2024.03.13-21.56.46:398][995]LogBlueprintUserMessages: [BP_IngredientFinger_C_13] 2
+[2024.03.13-21.56.46:398][995]LogBlueprintUserMessages: [BP_IngredientFinger_C_13] 2
+[2024.03.13-21.56.46:398][995]LogBlueprintUserMessages: [BP_IngredientFinger_C_13] 2
+[2024.03.13-21.56.46:398][995]LogBlueprintUserMessages: [BP_IngredientFinger_C_13] 2
+[2024.03.13-21.56.46:398][995]LogBlueprintUserMessages: [BP_IngredientFinger_C_13] Finger
+[2024.03.13-21.56.46:398][995]LogBlueprintUserMessages: [BP_IngredientFinger_C_13] Obj Type
+[2024.03.13-21.56.46:524][  5]LogBlueprintUserMessages: [BP_IngredientFinger_C_13] 2
+[2024.03.13-21.56.46:524][  5]LogBlueprintUserMessages: [BP_IngredientFinger_C_14] 2
+[2024.03.13-21.56.46:524][  5]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] chop and spawn
+[2024.03.13-21.56.46:526][  5]LogBlueprintUserMessages: [BP_IngredientFinger_C_14] 2
+[2024.03.13-21.56.46:526][  5]LogBlueprintUserMessages: [BP_IngredientFinger_C_14] 2
+[2024.03.13-21.56.46:526][  5]LogBlueprintUserMessages: [BP_IngredientFinger_C_14] 2
+[2024.03.13-21.56.46:526][  5]LogBlueprintUserMessages: [BP_IngredientFinger_C_14] 2
+[2024.03.13-21.56.46:526][  5]LogBlueprintUserMessages: [BP_IngredientFinger_C_14] 2
+[2024.03.13-21.56.46:526][  5]LogBlueprintUserMessages: [BP_IngredientFinger_C_14] 2
+[2024.03.13-21.56.46:526][  5]LogBlueprintUserMessages: [BP_IngredientFinger_C_14] 2
+[2024.03.13-21.56.46:526][  5]LogBlueprintUserMessages: [BP_IngredientFinger_C_14] 2
+[2024.03.13-21.56.46:526][  5]LogBlueprintUserMessages: [BP_IngredientFinger_C_14] 2
+[2024.03.13-21.56.46:526][  5]LogBlueprintUserMessages: [BP_IngredientFinger_C_14] 2
+[2024.03.13-21.56.46:526][  5]LogBlueprintUserMessages: [BP_IngredientFinger_C_14] 2
+[2024.03.13-21.56.46:526][  5]LogBlueprintUserMessages: [BP_IngredientFinger_C_14] 2
+[2024.03.13-21.56.46:526][  5]LogBlueprintUserMessages: [BP_IngredientFinger_C_14] 2
+[2024.03.13-21.56.46:526][  5]LogBlueprintUserMessages: [BP_IngredientFinger_C_14] 2
+[2024.03.13-21.56.46:526][  5]LogBlueprintUserMessages: [BP_IngredientFinger_C_14] 2
+[2024.03.13-21.56.46:526][  5]LogBlueprintUserMessages: [BP_IngredientFinger_C_14] Finger
+[2024.03.13-21.56.46:526][  5]LogBlueprintUserMessages: [BP_IngredientFinger_C_14] Obj Type
+[2024.03.13-21.56.46:692][ 18]LogBlueprintUserMessages: [BP_IngredientFinger_C_13] 2
+[2024.03.13-21.56.46:692][ 18]LogBlueprintUserMessages: [BP_IngredientFinger_C_15] 2
+[2024.03.13-21.56.46:692][ 18]LogBlueprintUserMessages: [BP_IngredientFinger_C_14] 2
+[2024.03.13-21.56.46:692][ 18]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] chop and spawn
+[2024.03.13-21.56.46:694][ 18]LogBlueprintUserMessages: [BP_IngredientFinger_C_15] 2
+[2024.03.13-21.56.46:694][ 18]LogBlueprintUserMessages: [BP_IngredientFinger_C_15] 2
+[2024.03.13-21.56.46:694][ 18]LogBlueprintUserMessages: [BP_IngredientFinger_C_15] 2
+[2024.03.13-21.56.46:694][ 18]LogBlueprintUserMessages: [BP_IngredientFinger_C_15] 2
+[2024.03.13-21.56.46:694][ 18]LogBlueprintUserMessages: [BP_IngredientFinger_C_15] 2
+[2024.03.13-21.56.46:694][ 18]LogBlueprintUserMessages: [BP_IngredientFinger_C_15] 2
+[2024.03.13-21.56.46:694][ 18]LogBlueprintUserMessages: [BP_IngredientFinger_C_15] 2
+[2024.03.13-21.56.46:694][ 18]LogBlueprintUserMessages: [BP_IngredientFinger_C_15] 2
+[2024.03.13-21.56.46:694][ 18]LogBlueprintUserMessages: [BP_IngredientFinger_C_15] 2
+[2024.03.13-21.56.46:694][ 18]LogBlueprintUserMessages: [BP_IngredientFinger_C_15] 2
+[2024.03.13-21.56.46:694][ 18]LogBlueprintUserMessages: [BP_IngredientFinger_C_15] 2
+[2024.03.13-21.56.46:694][ 18]LogBlueprintUserMessages: [BP_IngredientFinger_C_15] 2
+[2024.03.13-21.56.46:695][ 18]LogBlueprintUserMessages: [BP_IngredientFinger_C_15] 2
+[2024.03.13-21.56.46:695][ 18]LogBlueprintUserMessages: [BP_IngredientFinger_C_15] 2
+[2024.03.13-21.56.46:695][ 18]LogBlueprintUserMessages: [BP_IngredientFinger_C_15] 2
+[2024.03.13-21.56.46:695][ 18]LogBlueprintUserMessages: [BP_IngredientFinger_C_15] 2
+[2024.03.13-21.56.46:695][ 18]LogBlueprintUserMessages: [BP_IngredientFinger_C_15] Finger
+[2024.03.13-21.56.46:695][ 18]LogBlueprintUserMessages: [BP_IngredientFinger_C_15] Obj Type
+[2024.03.13-21.56.46:782][ 25]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.46:971][ 39]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] Carrot
+[2024.03.13-21.56.46:971][ 39]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] Ingredient Type Being Dropped:
+[2024.03.13-21.56.46:971][ 39]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] spawned in dropped item
+[2024.03.13-21.56.46:973][ 39]LogBlueprintUserMessages: [BP_IngredientFinger_C_15] 2
+[2024.03.13-21.56.47:152][ 53]LogBlueprintUserMessages: [BP_IngredientFinger_C_15] 2
+[2024.03.13-21.56.47:166][ 54]LogBlueprintUserMessages: [BP_IngredientFinger_C_15] 2
+[2024.03.13-21.56.47:204][ 57]LogBlueprintUserMessages: [BP_IngredientFinger_C_12] 2
+[2024.03.13-21.56.47:204][ 57]LogBlueprintUserMessages: [BP_IngredientFinger_C_13] 2
+[2024.03.13-21.56.47:229][ 59]LogBlueprintUserMessages: [BP_IngredientFinger_C_9] 2
+[2024.03.13-21.56.47:229][ 59]LogBlueprintUserMessages: [BP_IngredientFinger_C_10] 2
+[2024.03.13-21.56.47:229][ 59]LogBlueprintUserMessages: [BP_IngredientFinger_C_6] 2
+[2024.03.13-21.56.47:229][ 59]LogBlueprintUserMessages: [BP_IngredientFinger_C_8] 2
+[2024.03.13-21.56.47:243][ 60]LogBlueprintUserMessages: [BP_IngredientFinger_C_11] 2
+[2024.03.13-21.56.47:255][ 61]LogBlueprintUserMessages: [BP_IngredientFinger_C_3] 2
+[2024.03.13-21.56.47:269][ 62]LogBlueprintUserMessages: [BP_IngredientFinger_C_7] 2
+[2024.03.13-21.56.47:350][ 68]LogBlueprintUserMessages: [BP_IngredientFinger_C_14] 2
+[2024.03.13-21.56.47:350][ 68]LogBlueprintUserMessages: [BP_IngredientFinger_C_4] 2
+[2024.03.13-21.56.47:675][ 93]LogBlueprintUserMessages: [BP_IngredientFinger_C_4] 2
+[2024.03.13-21.56.47:781][101]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.48:781][178]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.49:379][227]LogScript: Warning: Script Msg: The widget 'P_ChoppingBoard_C_0' was already added to the screen.
+[2024.03.13-21.56.49:379][227]LogScript: Warning: Script Msg called by: BP_ChoppingBoard_C /Game/UEDPIE_0_Finnmap.Finnmap:PersistentLevel.BP_ChoppingBoard_C_UAID_D8BBC18EB82038E001_1847313559
+[2024.03.13-21.56.49:380][227]LogBlueprintUserMessages: [BP_IngredientFinger_C_3] Item Picked Up
+[2024.03.13-21.56.49:789][259]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.50:784][332]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.51:354][373]LogBlueprintUserMessages: [BP_IngredientFinger_C_16] 2
+[2024.03.13-21.56.51:354][373]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] Finger
+[2024.03.13-21.56.51:354][373]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] Ingredient Type Being Dropped:
+[2024.03.13-21.56.51:354][373]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] spawned in dropped item
+[2024.03.13-21.56.51:355][373]LogBlueprintUserMessages: [BP_IngredientFinger_C_16] 2
+[2024.03.13-21.56.51:788][406]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.52:781][481]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.53:664][549]LogScript: Warning: Script Msg: The widget 'P_ChoppingBoard_C_0' was already added to the screen.
+[2024.03.13-21.56.53:664][549]LogScript: Warning: Script Msg called by: BP_ChoppingBoard_C /Game/UEDPIE_0_Finnmap.Finnmap:PersistentLevel.BP_ChoppingBoard_C_UAID_D8BBC18EB82038E001_1847313559
+[2024.03.13-21.56.53:666][549]LogBlueprintUserMessages: [BP_IngredientFinger_C_4] Item Picked Up
+[2024.03.13-21.56.53:789][559]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.54:075][581]LogScript: Warning: Script Msg: The widget 'P_ChoppingBoard_C_0' was already added to the screen.
+[2024.03.13-21.56.54:075][581]LogScript: Warning: Script Msg called by: BP_ChoppingBoard_C /Game/UEDPIE_0_Finnmap.Finnmap:PersistentLevel.BP_ChoppingBoard_C_UAID_D8BBC18EB82038E001_1847313559
+[2024.03.13-21.56.54:076][581]LogBlueprintUserMessages: [BP_Knife_C_1] Knife Picked Up
+[2024.03.13-21.56.54:782][635]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.54:920][645]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] Finger
+[2024.03.13-21.56.54:920][645]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] Ingredient Type Being Dropped:
+[2024.03.13-21.56.54:920][645]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] spawned in dropped item
+[2024.03.13-21.56.55:281][672]LogBlueprintUserMessages: [BP_IngredientFinger_C_8] 2
+[2024.03.13-21.56.55:415][682]LogScript: Warning: Script Msg: The widget 'P_ChoppingBoard_C_0' was already added to the screen.
+[2024.03.13-21.56.55:415][682]LogScript: Warning: Script Msg called by: BP_ChoppingBoard_C /Game/UEDPIE_0_Finnmap.Finnmap:PersistentLevel.BP_ChoppingBoard_C_UAID_D8BBC18EB82038E001_1847313559
+[2024.03.13-21.56.55:604][696]LogBlueprintUserMessages: [BP_IngredientFinger_C_5] 2
+[2024.03.13-21.56.55:784][710]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.56:085][733]LogScript: Warning: Script Msg: The widget 'P_ChoppingBoard_C_0' was already added to the screen.
+[2024.03.13-21.56.56:085][733]LogScript: Warning: Script Msg called by: BP_ChoppingBoard_C /Game/UEDPIE_0_Finnmap.Finnmap:PersistentLevel.BP_ChoppingBoard_C_UAID_D8BBC18EB82038E001_1847313559
+[2024.03.13-21.56.56:086][733]LogBlueprintUserMessages: [BP_Knife_C_2] Knife Picked Up
+[2024.03.13-21.56.56:506][767]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] Finger
+[2024.03.13-21.56.56:506][767]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] Ingredient Type Being Dropped:
+[2024.03.13-21.56.56:506][767]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] spawned in dropped item
+[2024.03.13-21.56.56:507][767]LogBlueprintUserMessages: [BP_IngredientFinger_C_6] 2
+[2024.03.13-21.56.56:507][767]LogBlueprintUserMessages: [BP_IngredientFinger_C_11] 2
+[2024.03.13-21.56.56:507][767]LogBlueprintUserMessages: [BP_IngredientFinger_C_7] 2
+[2024.03.13-21.56.56:507][767]LogBlueprintUserMessages: [BP_IngredientFinger_C_15] 2
+[2024.03.13-21.56.56:507][767]LogBlueprintUserMessages: [BP_IngredientFinger_C_13] 2
+[2024.03.13-21.56.56:507][767]LogBlueprintUserMessages: [BP_IngredientFinger_C_12] 2
+[2024.03.13-21.56.56:507][767]LogBlueprintUserMessages: [BP_IngredientFinger_C_8] 2
+[2024.03.13-21.56.56:507][767]LogBlueprintUserMessages: [BP_IngredientFinger_C_14] 2
+[2024.03.13-21.56.56:507][767]LogBlueprintUserMessages: [BP_IngredientFinger_C_5] 2
+[2024.03.13-21.56.56:507][767]LogBlueprintUserMessages: [BP_IngredientFinger_C_10] 2
+[2024.03.13-21.56.56:507][767]LogBlueprintUserMessages: [BP_IngredientFinger_C_9] 2
+[2024.03.13-21.56.56:787][789]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.57:782][866]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.58:349][909]LogScript: Warning: Script Msg: The widget 'P_ChoppingBoard_C_0' was already added to the screen.
+[2024.03.13-21.56.58:349][909]LogScript: Warning: Script Msg called by: BP_ChoppingBoard_C /Game/UEDPIE_0_Finnmap.Finnmap:PersistentLevel.BP_ChoppingBoard_C_UAID_D8BBC18EB82038E001_1847313559
+[2024.03.13-21.56.58:787][943]LogScript: Warning: Script Msg: The widget 'P_ChoppingBoard_C_0' was already added to the screen.
+[2024.03.13-21.56.58:787][943]LogScript: Warning: Script Msg called by: BP_ChoppingBoard_C /Game/UEDPIE_0_Finnmap.Finnmap:PersistentLevel.BP_ChoppingBoard_C_UAID_D8BBC18EB82038E001_1847313559
+[2024.03.13-21.56.58:788][943]LogBlueprintUserMessages: [BP_IngredientFinger_C_5] Item Picked Up
+[2024.03.13-21.56.58:788][943]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.56.59:789][ 22]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.00:789][ 96]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.01:252][131]LogScript: Warning: Script Msg: The widget 'P_Mortar_C_0' was already added to the screen.
+[2024.03.13-21.57.01:252][131]LogScript: Warning: Script Msg called by: BP_MortarAndPestle_C /Game/UEDPIE_0_Finnmap.Finnmap:PersistentLevel.BP_MortarAndPestle_C_UAID_D8BBC18EB82021E201_1639892623
+[2024.03.13-21.57.01:252][131]LogScript: Warning: Script Msg: The widget 'P_Mortar_C_0' was already added to the screen.
+[2024.03.13-21.57.01:252][131]LogScript: Warning: Script Msg called by: BP_MortarAndPestle_C /Game/UEDPIE_0_Finnmap.Finnmap:PersistentLevel.BP_MortarAndPestle_C_UAID_D8BBC18EB82021E201_1639892623
+[2024.03.13-21.57.01:347][138]LogScript: Warning: Script Msg: The widget 'P_Mortar_C_0' was already added to the screen.
+[2024.03.13-21.57.01:347][138]LogScript: Warning: Script Msg called by: BP_MortarAndPestle_C /Game/UEDPIE_0_Finnmap.Finnmap:PersistentLevel.BP_MortarAndPestle_C_UAID_D8BBC18EB82021E201_1639892623
+[2024.03.13-21.57.01:361][139]LogScript: Warning: Script Msg: The widget 'P_Mortar_C_0' was already added to the screen.
+[2024.03.13-21.57.01:361][139]LogScript: Warning: Script Msg called by: BP_MortarAndPestle_C /Game/UEDPIE_0_Finnmap.Finnmap:PersistentLevel.BP_MortarAndPestle_C_UAID_D8BBC18EB82021E201_1639892623
+[2024.03.13-21.57.01:789][172]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.01:878][179]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] not at chopping block
+[2024.03.13-21.57.01:878][179]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] Failed - has 2 items
+[2024.03.13-21.57.01:878][179]LogBlueprintUserMessages: [BP_MortarAndPestle_C_UAID_D8BBC18EB82021E201_1639892623] BP_MortarAndPestle Activated
+[2024.03.13-21.57.02:759][250]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] not at chopping block
+[2024.03.13-21.57.02:759][250]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] Failed - has 2 items
+[2024.03.13-21.57.02:759][250]LogBlueprintUserMessages: [BP_MortarAndPestle_C_UAID_D8BBC18EB82021E201_1639892623] BP_MortarAndPestle Activated
+[2024.03.13-21.57.02:784][252]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.03:782][330]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.04:694][400]LogBlueprintUserMessages: [BP_IngredientFinger_C_17] 2
+[2024.03.13-21.57.04:694][400]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] Finger
+[2024.03.13-21.57.04:694][400]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] Ingredient Type Being Dropped:
+[2024.03.13-21.57.04:694][400]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] spawned in dropped item
+[2024.03.13-21.57.04:695][400]LogBlueprintUserMessages: [BP_IngredientFinger_C_17] Finger
+[2024.03.13-21.57.04:695][400]LogBlueprintUserMessages: [BP_IngredientFinger_C_17] Obj Type
+[2024.03.13-21.57.04:784][407]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.04:826][410]LogBlueprintUserMessages: [BP_IngredientFinger_C_17] 2
+[2024.03.13-21.57.04:826][410]LogBlueprintUserMessages: [BP_IngredientFinger_C_18] 2
+[2024.03.13-21.57.04:826][410]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] Finger
+[2024.03.13-21.57.04:826][410]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] Ingredient Type Being Dropped:
+[2024.03.13-21.57.04:826][410]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] spawned in dropped item
+[2024.03.13-21.57.04:827][410]LogBlueprintUserMessages: [BP_IngredientFinger_C_18] 2
+[2024.03.13-21.57.04:827][410]LogBlueprintUserMessages: [BP_IngredientFinger_C_18] Finger
+[2024.03.13-21.57.04:827][410]LogBlueprintUserMessages: [BP_IngredientFinger_C_18] Obj Type
+[2024.03.13-21.57.05:783][482]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.05:941][494]LogBlueprintUserMessages: [BP_IngredientFinger_C_17] Item Picked Up
+[2024.03.13-21.57.06:754][557]LogScript: Warning: Script Msg: The widget 'P_Mortar_C_0' was already added to the screen.
+[2024.03.13-21.57.06:754][557]LogScript: Warning: Script Msg called by: BP_MortarAndPestle_C /Game/UEDPIE_0_Finnmap.Finnmap:PersistentLevel.BP_MortarAndPestle_C_UAID_D8BBC18EB82021E201_1639892623
+[2024.03.13-21.57.06:781][559]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.06:820][562]LogScript: Warning: Script Msg: The widget 'P_Mortar_C_0' was already added to the screen.
+[2024.03.13-21.57.06:820][562]LogScript: Warning: Script Msg called by: BP_MortarAndPestle_C /Game/UEDPIE_0_Finnmap.Finnmap:PersistentLevel.BP_MortarAndPestle_C_UAID_D8BBC18EB82021E201_1639892623
+[2024.03.13-21.57.07:085][582]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] not at chopping block
+[2024.03.13-21.57.07:086][582]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] Player UseMortarAndPestle completed
+[2024.03.13-21.57.07:086][582]LogBlueprintUserMessages: [BP_MortarAndPestle_C_UAID_D8BBC18EB82021E201_1639892623] BP_MortarAndPestle Activated
+[2024.03.13-21.57.07:789][635]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.08:789][708]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.09:785][782]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.10:062][804]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] not at chopping block
+[2024.03.13-21.57.10:062][804]LogBlueprintUserMessages: [BP_Cauldron_C_UAID_00E2696DD10DCFDF01_2100869079] Summoning demon
+[2024.03.13-21.57.10:554][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.13-21.57.10:781][856]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.11:788][930]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.12:287][967]LogNet: Browse: /Game/Finnmap
+[2024.03.13-21.57.12:287][967]LogLoad: LoadMap: /Game/Finnmap
+[2024.03.13-21.57.12:287][967]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Finnmap
+[2024.03.13-21.57.12:288][967]LogWorld: UWorld::CleanupWorld for Finnmap, bSessionEnded=true, bCleanupResources=true
+[2024.03.13-21.57.12:288][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-21.57.12:288][967]LogContentBundle: [Finnmap(Standalone)] Deleting container.
+[2024.03.13-21.57.12:357][967]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.13-21.57.12:362][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.03.13-21.57.12:364][967]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Finnmap
+[2024.03.13-21.57.12:379][967]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014121s)
+[2024.03.13-21.57.12:379][967]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Finnmap.Finnmap to /Game/UEDPIE_0_Finnmap.Finnmap (0.014173s)
+[2024.03.13-21.57.12:379][967]LogAudio: Display: Audio Device (ID: 6) registered with world 'Finnmap'.
+[2024.03.13-21.57.12:379][967]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.13-21.57.12:379][967]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.13-21.57.12:380][967]LogAIModule: Creating AISystem for world Finnmap
+[2024.03.13-21.57.12:380][967]LogWorldPartition: ULevel::OnLevelLoaded(Finnmap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.13-21.57.12:380][967]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.13-21.57.12:380][967]LogWorldPartition: UWorldPartition::Initialize(Asset=Finnmap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.03.13-21.57.12:383][967]LogContentBundle: [Finnmap(Standalone)] Creating new contrainer.
+[2024.03.13-21.57.12:383][967]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 489 ms)
+[2024.03.13-21.57.12:383][967]LogPlayLevel: PIE: World Init took: (0.004653s)
+[2024.03.13-21.57.12:383][967]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.03.13-21.57.12:388][967]LogWorld: Bringing World /Game/UEDPIE_0_Finnmap.Finnmap up for play (max tick rate 0) at 2024.03.14-10.57.12
+[2024.03.13-21.57.12:389][967]LogWorld: Bringing up level for play took: 0.005232
+[2024.03.13-21.57.12:390][967]LogBlueprintUserMessages: [BP_Cauldron_C_UAID_00E2696DD10DCFDF01_2100869079] Finger
+[2024.03.13-21.57.12:390][967]LogBlueprintUserMessages: [BP_Cauldron_C_UAID_00E2696DD10DCFDF01_2100869079] Crushed_Finger
+[2024.03.13-21.57.12:390][967]LogBlueprintUserMessages: [BP_Cauldron_C_UAID_00E2696DD10DCFDF01_2100869079] Finger
+[2024.03.13-21.57.12:391][967]LogLoad: Took 0.104961 seconds to LoadMap(/Game/UEDPIE_0_Finnmap)
+[2024.03.13-21.57.12:394][967]LogBlueprintUserMessages: [Ingredient1_C_UAID_00E2696DD10DD0DF01_1612725259] 1
+[2024.03.13-21.57.12:394][967]LogBlueprintUserMessages: [BP_IngredientEye_C_UAID_00E2696DD10D07E201_2121362050] Eye
+[2024.03.13-21.57.12:394][967]LogBlueprintUserMessages: [BP_IngredientEye_C_UAID_00E2696DD10D07E201_2121362050] Obj Type
+[2024.03.13-21.57.12:394][967]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D09E201_1250524399] Carrot
+[2024.03.13-21.57.12:394][967]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D09E201_1250524399] Obj Type
+[2024.03.13-21.57.12:396][967]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'AmbienceLoop'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.03.13-21.57.13:292][ 32]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.14:296][106]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.15:288][180]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.16:292][258]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.16:832][301]LogBlueprintUserMessages: [BP_Knife_C_UAID_D8BBC18EB82039E001_1528870737] Knife Picked Up
+[2024.03.13-21.57.16:954][311]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D09E201_1250524399] 3
+[2024.03.13-21.57.17:297][338]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.17:882][383]LogScript: Warning: Script Msg: The widget 'P_ChoppingBoard_C_1' was already added to the screen.
+[2024.03.13-21.57.17:882][383]LogScript: Warning: Script Msg called by: BP_ChoppingBoard_C /Game/UEDPIE_0_Finnmap.Finnmap:PersistentLevel.BP_ChoppingBoard_C_UAID_D8BBC18EB82038E001_1847313559
+[2024.03.13-21.57.18:025][394]LogBlueprintUserMessages: [BP_IngredientFinger_C_0] 2
+[2024.03.13-21.57.18:025][394]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] chop and spawn
+[2024.03.13-21.57.18:026][394]LogBlueprintUserMessages: [BP_IngredientFinger_C_0] 2
+[2024.03.13-21.57.18:026][394]LogBlueprintUserMessages: [BP_IngredientFinger_C_0] 2
+[2024.03.13-21.57.18:026][394]LogBlueprintUserMessages: [BP_IngredientFinger_C_0] Finger
+[2024.03.13-21.57.18:026][394]LogBlueprintUserMessages: [BP_IngredientFinger_C_0] Obj Type
+[2024.03.13-21.57.18:171][405]LogBlueprintUserMessages: [BP_IngredientFinger_C_1] 2
+[2024.03.13-21.57.18:171][405]LogBlueprintUserMessages: [BP_IngredientFinger_C_0] 2
+[2024.03.13-21.57.18:171][405]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] chop and spawn
+[2024.03.13-21.57.18:173][405]LogBlueprintUserMessages: [BP_IngredientFinger_C_1] 2
+[2024.03.13-21.57.18:173][405]LogBlueprintUserMessages: [BP_IngredientFinger_C_1] 2
+[2024.03.13-21.57.18:173][405]LogBlueprintUserMessages: [BP_IngredientFinger_C_1] 2
+[2024.03.13-21.57.18:173][405]LogBlueprintUserMessages: [BP_IngredientFinger_C_1] Finger
+[2024.03.13-21.57.18:173][405]LogBlueprintUserMessages: [BP_IngredientFinger_C_1] Obj Type
+[2024.03.13-21.57.18:290][414]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.18:327][417]LogBlueprintUserMessages: [BP_IngredientFinger_C_1] 2
+[2024.03.13-21.57.18:327][417]LogBlueprintUserMessages: [BP_IngredientFinger_C_2] 2
+[2024.03.13-21.57.18:327][417]LogBlueprintUserMessages: [BP_IngredientFinger_C_0] 2
+[2024.03.13-21.57.18:327][417]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] chop and spawn
+[2024.03.13-21.57.18:328][417]LogBlueprintUserMessages: [BP_IngredientFinger_C_2] 2
+[2024.03.13-21.57.18:329][417]LogBlueprintUserMessages: [BP_IngredientFinger_C_2] 2
+[2024.03.13-21.57.18:329][417]LogBlueprintUserMessages: [BP_IngredientFinger_C_2] 2
+[2024.03.13-21.57.18:329][417]LogBlueprintUserMessages: [BP_IngredientFinger_C_2] 2
+[2024.03.13-21.57.18:329][417]LogBlueprintUserMessages: [BP_IngredientFinger_C_2] Finger
+[2024.03.13-21.57.18:329][417]LogBlueprintUserMessages: [BP_IngredientFinger_C_2] Obj Type
+[2024.03.13-21.57.18:514][431]LogBlueprintUserMessages: [BP_IngredientFinger_C_2] 2
+[2024.03.13-21.57.18:514][431]LogBlueprintUserMessages: [BP_IngredientFinger_C_3] 2
+[2024.03.13-21.57.18:514][431]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] chop and spawn
+[2024.03.13-21.57.18:515][431]LogBlueprintUserMessages: [BP_IngredientFinger_C_3] 2
+[2024.03.13-21.57.18:515][431]LogBlueprintUserMessages: [BP_IngredientFinger_C_3] 2
+[2024.03.13-21.57.18:515][431]LogBlueprintUserMessages: [BP_IngredientFinger_C_3] 2
+[2024.03.13-21.57.18:516][431]LogBlueprintUserMessages: [BP_IngredientFinger_C_3] 2
+[2024.03.13-21.57.18:516][431]LogBlueprintUserMessages: [BP_IngredientFinger_C_3] 2
+[2024.03.13-21.57.18:516][431]LogBlueprintUserMessages: [BP_IngredientFinger_C_3] Finger
+[2024.03.13-21.57.18:516][431]LogBlueprintUserMessages: [BP_IngredientFinger_C_3] Obj Type
+[2024.03.13-21.57.18:646][441]LogBlueprintUserMessages: [BP_IngredientFinger_C_2] 2
+[2024.03.13-21.57.18:646][441]LogBlueprintUserMessages: [BP_IngredientFinger_C_3] 2
+[2024.03.13-21.57.18:646][441]LogBlueprintUserMessages: [BP_IngredientFinger_C_4] 2
+[2024.03.13-21.57.18:646][441]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] chop and spawn
+[2024.03.13-21.57.18:647][441]LogBlueprintUserMessages: [BP_IngredientFinger_C_4] 2
+[2024.03.13-21.57.18:647][441]LogBlueprintUserMessages: [BP_IngredientFinger_C_4] 2
+[2024.03.13-21.57.18:647][441]LogBlueprintUserMessages: [BP_IngredientFinger_C_4] 2
+[2024.03.13-21.57.18:647][441]LogBlueprintUserMessages: [BP_IngredientFinger_C_4] 2
+[2024.03.13-21.57.18:647][441]LogBlueprintUserMessages: [BP_IngredientFinger_C_4] 2
+[2024.03.13-21.57.18:647][441]LogBlueprintUserMessages: [BP_IngredientFinger_C_4] 2
+[2024.03.13-21.57.18:647][441]LogBlueprintUserMessages: [BP_IngredientFinger_C_4] Finger
+[2024.03.13-21.57.18:647][441]LogBlueprintUserMessages: [BP_IngredientFinger_C_4] Obj Type
+[2024.03.13-21.57.18:790][452]LogBlueprintUserMessages: [BP_IngredientFinger_C_3] 2
+[2024.03.13-21.57.18:829][455]LogBlueprintUserMessages: [BP_IngredientFinger_C_5] 2
+[2024.03.13-21.57.18:829][455]LogBlueprintUserMessages: [BP_IngredientFinger_C_4] 2
+[2024.03.13-21.57.18:829][455]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] chop and spawn
+[2024.03.13-21.57.18:831][455]LogBlueprintUserMessages: [BP_IngredientFinger_C_5] 2
+[2024.03.13-21.57.18:831][455]LogBlueprintUserMessages: [BP_IngredientFinger_C_5] 2
+[2024.03.13-21.57.18:831][455]LogBlueprintUserMessages: [BP_IngredientFinger_C_5] 2
+[2024.03.13-21.57.18:831][455]LogBlueprintUserMessages: [BP_IngredientFinger_C_5] 2
+[2024.03.13-21.57.18:831][455]LogBlueprintUserMessages: [BP_IngredientFinger_C_5] 2
+[2024.03.13-21.57.18:831][455]LogBlueprintUserMessages: [BP_IngredientFinger_C_5] 2
+[2024.03.13-21.57.18:831][455]LogBlueprintUserMessages: [BP_IngredientFinger_C_5] 2
+[2024.03.13-21.57.18:831][455]LogBlueprintUserMessages: [BP_IngredientFinger_C_5] Finger
+[2024.03.13-21.57.18:831][455]LogBlueprintUserMessages: [BP_IngredientFinger_C_5] Obj Type
+[2024.03.13-21.57.19:108][476]LogBlueprintUserMessages: [BP_IngredientFinger_C_6] 2
+[2024.03.13-21.57.19:108][476]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] chop and spawn
+[2024.03.13-21.57.19:109][476]LogBlueprintUserMessages: [BP_IngredientFinger_C_6] 2
+[2024.03.13-21.57.19:109][476]LogBlueprintUserMessages: [BP_IngredientFinger_C_6] 2
+[2024.03.13-21.57.19:109][476]LogBlueprintUserMessages: [BP_IngredientFinger_C_6] 2
+[2024.03.13-21.57.19:109][476]LogBlueprintUserMessages: [BP_IngredientFinger_C_6] 2
+[2024.03.13-21.57.19:109][476]LogBlueprintUserMessages: [BP_IngredientFinger_C_6] 2
+[2024.03.13-21.57.19:109][476]LogBlueprintUserMessages: [BP_IngredientFinger_C_6] 2
+[2024.03.13-21.57.19:109][476]LogBlueprintUserMessages: [BP_IngredientFinger_C_6] 2
+[2024.03.13-21.57.19:109][476]LogBlueprintUserMessages: [BP_IngredientFinger_C_6] Finger
+[2024.03.13-21.57.19:109][476]LogBlueprintUserMessages: [BP_IngredientFinger_C_6] Obj Type
+[2024.03.13-21.57.19:292][490]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.19:305][491]LogBlueprintUserMessages: [BP_IngredientFinger_C_7] 2
+[2024.03.13-21.57.19:305][491]LogBlueprintUserMessages: [BP_IngredientFinger_C_6] 2
+[2024.03.13-21.57.19:305][491]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] chop and spawn
+[2024.03.13-21.57.19:307][491]LogBlueprintUserMessages: [BP_IngredientFinger_C_7] 2
+[2024.03.13-21.57.19:307][491]LogBlueprintUserMessages: [BP_IngredientFinger_C_7] 2
+[2024.03.13-21.57.19:307][491]LogBlueprintUserMessages: [BP_IngredientFinger_C_7] 2
+[2024.03.13-21.57.19:307][491]LogBlueprintUserMessages: [BP_IngredientFinger_C_7] 2
+[2024.03.13-21.57.19:307][491]LogBlueprintUserMessages: [BP_IngredientFinger_C_7] 2
+[2024.03.13-21.57.19:307][491]LogBlueprintUserMessages: [BP_IngredientFinger_C_7] 2
+[2024.03.13-21.57.19:307][491]LogBlueprintUserMessages: [BP_IngredientFinger_C_7] 2
+[2024.03.13-21.57.19:307][491]LogBlueprintUserMessages: [BP_IngredientFinger_C_7] 2
+[2024.03.13-21.57.19:307][491]LogBlueprintUserMessages: [BP_IngredientFinger_C_7] Finger
+[2024.03.13-21.57.19:307][491]LogBlueprintUserMessages: [BP_IngredientFinger_C_7] Obj Type
+[2024.03.13-21.57.19:449][502]LogBlueprintUserMessages: [BP_IngredientFinger_C_7] 2
+[2024.03.13-21.57.19:449][502]LogBlueprintUserMessages: [BP_IngredientFinger_C_8] 2
+[2024.03.13-21.57.19:449][502]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] chop and spawn
+[2024.03.13-21.57.19:451][502]LogBlueprintUserMessages: [BP_IngredientFinger_C_8] 2
+[2024.03.13-21.57.19:451][502]LogBlueprintUserMessages: [BP_IngredientFinger_C_8] 2
+[2024.03.13-21.57.19:451][502]LogBlueprintUserMessages: [BP_IngredientFinger_C_8] 2
+[2024.03.13-21.57.19:451][502]LogBlueprintUserMessages: [BP_IngredientFinger_C_8] 2
+[2024.03.13-21.57.19:451][502]LogBlueprintUserMessages: [BP_IngredientFinger_C_8] 2
+[2024.03.13-21.57.19:451][502]LogBlueprintUserMessages: [BP_IngredientFinger_C_8] 2
+[2024.03.13-21.57.19:451][502]LogBlueprintUserMessages: [BP_IngredientFinger_C_8] 2
+[2024.03.13-21.57.19:451][502]LogBlueprintUserMessages: [BP_IngredientFinger_C_8] 2
+[2024.03.13-21.57.19:451][502]LogBlueprintUserMessages: [BP_IngredientFinger_C_8] 2
+[2024.03.13-21.57.19:451][502]LogBlueprintUserMessages: [BP_IngredientFinger_C_8] Finger
+[2024.03.13-21.57.19:451][502]LogBlueprintUserMessages: [BP_IngredientFinger_C_8] Obj Type
+[2024.03.13-21.57.19:462][503]LogBlueprintUserMessages: [BP_IngredientFinger_C_6] 2
+[2024.03.13-21.57.19:491][505]LogBlueprintUserMessages: [BP_IngredientFinger_C_8] 2
+[2024.03.13-21.57.19:620][515]LogBlueprintUserMessages: [BP_IngredientFinger_C_9] 2
+[2024.03.13-21.57.19:620][515]LogBlueprintUserMessages: [BP_IngredientFinger_C_7] 2
+[2024.03.13-21.57.19:620][515]LogBlueprintUserMessages: [BP_IngredientFinger_C_8] 2
+[2024.03.13-21.57.19:620][515]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] chop and spawn
+[2024.03.13-21.57.19:621][515]LogBlueprintUserMessages: [BP_IngredientFinger_C_9] 2
+[2024.03.13-21.57.19:622][515]LogBlueprintUserMessages: [BP_IngredientFinger_C_9] 2
+[2024.03.13-21.57.19:622][515]LogBlueprintUserMessages: [BP_IngredientFinger_C_9] 2
+[2024.03.13-21.57.19:622][515]LogBlueprintUserMessages: [BP_IngredientFinger_C_9] 2
+[2024.03.13-21.57.19:622][515]LogBlueprintUserMessages: [BP_IngredientFinger_C_9] 2
+[2024.03.13-21.57.19:622][515]LogBlueprintUserMessages: [BP_IngredientFinger_C_9] 2
+[2024.03.13-21.57.19:622][515]LogBlueprintUserMessages: [BP_IngredientFinger_C_9] 2
+[2024.03.13-21.57.19:622][515]LogBlueprintUserMessages: [BP_IngredientFinger_C_9] 2
+[2024.03.13-21.57.19:622][515]LogBlueprintUserMessages: [BP_IngredientFinger_C_9] 2
+[2024.03.13-21.57.19:622][515]LogBlueprintUserMessages: [BP_IngredientFinger_C_9] 2
+[2024.03.13-21.57.19:622][515]LogBlueprintUserMessages: [BP_IngredientFinger_C_9] Finger
+[2024.03.13-21.57.19:622][515]LogBlueprintUserMessages: [BP_IngredientFinger_C_9] Obj Type
+[2024.03.13-21.57.19:787][528]LogBlueprintUserMessages: [BP_IngredientFinger_C_9] 2
+[2024.03.13-21.57.19:787][528]LogBlueprintUserMessages: [BP_IngredientFinger_C_10] 2
+[2024.03.13-21.57.19:787][528]LogBlueprintUserMessages: [BP_IngredientFinger_C_8] 2
+[2024.03.13-21.57.19:787][528]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] chop and spawn
+[2024.03.13-21.57.19:788][528]LogBlueprintUserMessages: [BP_IngredientFinger_C_10] 2
+[2024.03.13-21.57.19:788][528]LogBlueprintUserMessages: [BP_IngredientFinger_C_10] 2
+[2024.03.13-21.57.19:788][528]LogBlueprintUserMessages: [BP_IngredientFinger_C_10] 2
+[2024.03.13-21.57.19:788][528]LogBlueprintUserMessages: [BP_IngredientFinger_C_10] 2
+[2024.03.13-21.57.19:788][528]LogBlueprintUserMessages: [BP_IngredientFinger_C_10] 2
+[2024.03.13-21.57.19:788][528]LogBlueprintUserMessages: [BP_IngredientFinger_C_10] 2
+[2024.03.13-21.57.19:788][528]LogBlueprintUserMessages: [BP_IngredientFinger_C_10] 2
+[2024.03.13-21.57.19:788][528]LogBlueprintUserMessages: [BP_IngredientFinger_C_10] 2
+[2024.03.13-21.57.19:788][528]LogBlueprintUserMessages: [BP_IngredientFinger_C_10] 2
+[2024.03.13-21.57.19:788][528]LogBlueprintUserMessages: [BP_IngredientFinger_C_10] 2
+[2024.03.13-21.57.19:788][528]LogBlueprintUserMessages: [BP_IngredientFinger_C_10] 2
+[2024.03.13-21.57.19:788][528]LogBlueprintUserMessages: [BP_IngredientFinger_C_10] Finger
+[2024.03.13-21.57.19:789][528]LogBlueprintUserMessages: [BP_IngredientFinger_C_10] Obj Type
+[2024.03.13-21.57.19:955][541]LogBlueprintUserMessages: [BP_IngredientFinger_C_10] 2
+[2024.03.13-21.57.19:955][541]LogBlueprintUserMessages: [BP_IngredientFinger_C_11] 2
+[2024.03.13-21.57.19:955][541]LogBlueprintUserMessages: [BP_IngredientFinger_C_8] 2
+[2024.03.13-21.57.19:955][541]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] chop and spawn
+[2024.03.13-21.57.19:957][541]LogBlueprintUserMessages: [BP_IngredientFinger_C_11] 2
+[2024.03.13-21.57.19:957][541]LogBlueprintUserMessages: [BP_IngredientFinger_C_11] 2
+[2024.03.13-21.57.19:957][541]LogBlueprintUserMessages: [BP_IngredientFinger_C_11] 2
+[2024.03.13-21.57.19:957][541]LogBlueprintUserMessages: [BP_IngredientFinger_C_11] 2
+[2024.03.13-21.57.19:957][541]LogBlueprintUserMessages: [BP_IngredientFinger_C_11] 2
+[2024.03.13-21.57.19:957][541]LogBlueprintUserMessages: [BP_IngredientFinger_C_11] 2
+[2024.03.13-21.57.19:957][541]LogBlueprintUserMessages: [BP_IngredientFinger_C_11] 2
+[2024.03.13-21.57.19:957][541]LogBlueprintUserMessages: [BP_IngredientFinger_C_11] 2
+[2024.03.13-21.57.19:957][541]LogBlueprintUserMessages: [BP_IngredientFinger_C_11] 2
+[2024.03.13-21.57.19:957][541]LogBlueprintUserMessages: [BP_IngredientFinger_C_11] 2
+[2024.03.13-21.57.19:957][541]LogBlueprintUserMessages: [BP_IngredientFinger_C_11] 2
+[2024.03.13-21.57.19:957][541]LogBlueprintUserMessages: [BP_IngredientFinger_C_11] 2
+[2024.03.13-21.57.19:957][541]LogBlueprintUserMessages: [BP_IngredientFinger_C_11] Finger
+[2024.03.13-21.57.19:957][541]LogBlueprintUserMessages: [BP_IngredientFinger_C_11] Obj Type
+[2024.03.13-21.57.20:114][553]LogBlueprintUserMessages: [BP_IngredientFinger_C_11] 2
+[2024.03.13-21.57.20:114][553]LogBlueprintUserMessages: [BP_IngredientFinger_C_12] 2
+[2024.03.13-21.57.20:114][553]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] chop and spawn
+[2024.03.13-21.57.20:115][553]LogBlueprintUserMessages: [BP_IngredientFinger_C_12] 2
+[2024.03.13-21.57.20:115][553]LogBlueprintUserMessages: [BP_IngredientFinger_C_12] 2
+[2024.03.13-21.57.20:115][553]LogBlueprintUserMessages: [BP_IngredientFinger_C_12] 2
+[2024.03.13-21.57.20:116][553]LogBlueprintUserMessages: [BP_IngredientFinger_C_12] 2
+[2024.03.13-21.57.20:116][553]LogBlueprintUserMessages: [BP_IngredientFinger_C_12] 2
+[2024.03.13-21.57.20:116][553]LogBlueprintUserMessages: [BP_IngredientFinger_C_12] 2
+[2024.03.13-21.57.20:116][553]LogBlueprintUserMessages: [BP_IngredientFinger_C_12] 2
+[2024.03.13-21.57.20:116][553]LogBlueprintUserMessages: [BP_IngredientFinger_C_12] 2
+[2024.03.13-21.57.20:116][553]LogBlueprintUserMessages: [BP_IngredientFinger_C_12] 2
+[2024.03.13-21.57.20:116][553]LogBlueprintUserMessages: [BP_IngredientFinger_C_12] 2
+[2024.03.13-21.57.20:116][553]LogBlueprintUserMessages: [BP_IngredientFinger_C_12] 2
+[2024.03.13-21.57.20:116][553]LogBlueprintUserMessages: [BP_IngredientFinger_C_12] 2
+[2024.03.13-21.57.20:116][553]LogBlueprintUserMessages: [BP_IngredientFinger_C_12] 2
+[2024.03.13-21.57.20:116][553]LogBlueprintUserMessages: [BP_IngredientFinger_C_12] Finger
+[2024.03.13-21.57.20:116][553]LogBlueprintUserMessages: [BP_IngredientFinger_C_12] Obj Type
+[2024.03.13-21.57.20:282][566]LogBlueprintUserMessages: [BP_IngredientFinger_C_12] 2
+[2024.03.13-21.57.20:282][566]LogBlueprintUserMessages: [BP_IngredientFinger_C_13] 2
+[2024.03.13-21.57.20:282][566]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] chop and spawn
+[2024.03.13-21.57.20:284][566]LogBlueprintUserMessages: [BP_IngredientFinger_C_13] 2
+[2024.03.13-21.57.20:284][566]LogBlueprintUserMessages: [BP_IngredientFinger_C_13] 2
+[2024.03.13-21.57.20:284][566]LogBlueprintUserMessages: [BP_IngredientFinger_C_13] 2
+[2024.03.13-21.57.20:284][566]LogBlueprintUserMessages: [BP_IngredientFinger_C_13] 2
+[2024.03.13-21.57.20:284][566]LogBlueprintUserMessages: [BP_IngredientFinger_C_13] 2
+[2024.03.13-21.57.20:284][566]LogBlueprintUserMessages: [BP_IngredientFinger_C_13] 2
+[2024.03.13-21.57.20:284][566]LogBlueprintUserMessages: [BP_IngredientFinger_C_13] 2
+[2024.03.13-21.57.20:284][566]LogBlueprintUserMessages: [BP_IngredientFinger_C_13] 2
+[2024.03.13-21.57.20:284][566]LogBlueprintUserMessages: [BP_IngredientFinger_C_13] 2
+[2024.03.13-21.57.20:284][566]LogBlueprintUserMessages: [BP_IngredientFinger_C_13] 2
+[2024.03.13-21.57.20:284][566]LogBlueprintUserMessages: [BP_IngredientFinger_C_13] 2
+[2024.03.13-21.57.20:284][566]LogBlueprintUserMessages: [BP_IngredientFinger_C_13] 2
+[2024.03.13-21.57.20:284][566]LogBlueprintUserMessages: [BP_IngredientFinger_C_13] 2
+[2024.03.13-21.57.20:284][566]LogBlueprintUserMessages: [BP_IngredientFinger_C_13] 2
+[2024.03.13-21.57.20:284][566]LogBlueprintUserMessages: [BP_IngredientFinger_C_13] Finger
+[2024.03.13-21.57.20:284][566]LogBlueprintUserMessages: [BP_IngredientFinger_C_13] Obj Type
+[2024.03.13-21.57.20:294][567]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.20:451][579]LogBlueprintUserMessages: [BP_IngredientFinger_C_13] 2
+[2024.03.13-21.57.20:451][579]LogBlueprintUserMessages: [BP_IngredientFinger_C_14] 2
+[2024.03.13-21.57.20:451][579]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] chop and spawn
+[2024.03.13-21.57.20:452][579]LogBlueprintUserMessages: [BP_IngredientFinger_C_14] 2
+[2024.03.13-21.57.20:452][579]LogBlueprintUserMessages: [BP_IngredientFinger_C_14] 2
+[2024.03.13-21.57.20:452][579]LogBlueprintUserMessages: [BP_IngredientFinger_C_14] 2
+[2024.03.13-21.57.20:453][579]LogBlueprintUserMessages: [BP_IngredientFinger_C_14] 2
+[2024.03.13-21.57.20:453][579]LogBlueprintUserMessages: [BP_IngredientFinger_C_14] 2
+[2024.03.13-21.57.20:453][579]LogBlueprintUserMessages: [BP_IngredientFinger_C_14] 2
+[2024.03.13-21.57.20:453][579]LogBlueprintUserMessages: [BP_IngredientFinger_C_14] 2
+[2024.03.13-21.57.20:453][579]LogBlueprintUserMessages: [BP_IngredientFinger_C_14] 2
+[2024.03.13-21.57.20:453][579]LogBlueprintUserMessages: [BP_IngredientFinger_C_14] 2
+[2024.03.13-21.57.20:453][579]LogBlueprintUserMessages: [BP_IngredientFinger_C_14] 2
+[2024.03.13-21.57.20:453][579]LogBlueprintUserMessages: [BP_IngredientFinger_C_14] 2
+[2024.03.13-21.57.20:453][579]LogBlueprintUserMessages: [BP_IngredientFinger_C_14] 2
+[2024.03.13-21.57.20:453][579]LogBlueprintUserMessages: [BP_IngredientFinger_C_14] 2
+[2024.03.13-21.57.20:453][579]LogBlueprintUserMessages: [BP_IngredientFinger_C_14] 2
+[2024.03.13-21.57.20:453][579]LogBlueprintUserMessages: [BP_IngredientFinger_C_14] 2
+[2024.03.13-21.57.20:453][579]LogBlueprintUserMessages: [BP_IngredientFinger_C_14] Finger
+[2024.03.13-21.57.20:453][579]LogBlueprintUserMessages: [BP_IngredientFinger_C_14] Obj Type
+[2024.03.13-21.57.20:596][589]LogBlueprintUserMessages: [BP_IngredientFinger_C_14] 2
+[2024.03.13-21.57.20:596][589]LogBlueprintUserMessages: [BP_IngredientFinger_C_15] 2
+[2024.03.13-21.57.20:596][589]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] chop and spawn
+[2024.03.13-21.57.20:598][589]LogBlueprintUserMessages: [BP_IngredientFinger_C_15] 2
+[2024.03.13-21.57.20:598][589]LogBlueprintUserMessages: [BP_IngredientFinger_C_15] 2
+[2024.03.13-21.57.20:598][589]LogBlueprintUserMessages: [BP_IngredientFinger_C_15] 2
+[2024.03.13-21.57.20:598][589]LogBlueprintUserMessages: [BP_IngredientFinger_C_15] 2
+[2024.03.13-21.57.20:598][589]LogBlueprintUserMessages: [BP_IngredientFinger_C_15] 2
+[2024.03.13-21.57.20:598][589]LogBlueprintUserMessages: [BP_IngredientFinger_C_15] 2
+[2024.03.13-21.57.20:598][589]LogBlueprintUserMessages: [BP_IngredientFinger_C_15] 2
+[2024.03.13-21.57.20:598][589]LogBlueprintUserMessages: [BP_IngredientFinger_C_15] 2
+[2024.03.13-21.57.20:598][589]LogBlueprintUserMessages: [BP_IngredientFinger_C_15] 2
+[2024.03.13-21.57.20:598][589]LogBlueprintUserMessages: [BP_IngredientFinger_C_15] 2
+[2024.03.13-21.57.20:598][589]LogBlueprintUserMessages: [BP_IngredientFinger_C_15] 2
+[2024.03.13-21.57.20:598][589]LogBlueprintUserMessages: [BP_IngredientFinger_C_15] 2
+[2024.03.13-21.57.20:598][589]LogBlueprintUserMessages: [BP_IngredientFinger_C_15] 2
+[2024.03.13-21.57.20:598][589]LogBlueprintUserMessages: [BP_IngredientFinger_C_15] 2
+[2024.03.13-21.57.20:598][589]LogBlueprintUserMessages: [BP_IngredientFinger_C_15] 2
+[2024.03.13-21.57.20:598][589]LogBlueprintUserMessages: [BP_IngredientFinger_C_15] 2
+[2024.03.13-21.57.20:598][589]LogBlueprintUserMessages: [BP_IngredientFinger_C_15] Finger
+[2024.03.13-21.57.20:598][589]LogBlueprintUserMessages: [BP_IngredientFinger_C_15] Obj Type
+[2024.03.13-21.57.20:764][602]LogBlueprintUserMessages: [BP_IngredientFinger_C_15] 2
+[2024.03.13-21.57.20:764][602]LogBlueprintUserMessages: [BP_IngredientFinger_C_16] 2
+[2024.03.13-21.57.20:764][602]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] chop and spawn
+[2024.03.13-21.57.20:766][602]LogBlueprintUserMessages: [BP_IngredientFinger_C_16] 2
+[2024.03.13-21.57.20:766][602]LogBlueprintUserMessages: [BP_IngredientFinger_C_16] 2
+[2024.03.13-21.57.20:766][602]LogBlueprintUserMessages: [BP_IngredientFinger_C_16] 2
+[2024.03.13-21.57.20:766][602]LogBlueprintUserMessages: [BP_IngredientFinger_C_16] 2
+[2024.03.13-21.57.20:766][602]LogBlueprintUserMessages: [BP_IngredientFinger_C_16] 2
+[2024.03.13-21.57.20:766][602]LogBlueprintUserMessages: [BP_IngredientFinger_C_16] 2
+[2024.03.13-21.57.20:766][602]LogBlueprintUserMessages: [BP_IngredientFinger_C_16] 2
+[2024.03.13-21.57.20:766][602]LogBlueprintUserMessages: [BP_IngredientFinger_C_16] 2
+[2024.03.13-21.57.20:766][602]LogBlueprintUserMessages: [BP_IngredientFinger_C_16] 2
+[2024.03.13-21.57.20:766][602]LogBlueprintUserMessages: [BP_IngredientFinger_C_16] 2
+[2024.03.13-21.57.20:766][602]LogBlueprintUserMessages: [BP_IngredientFinger_C_16] 2
+[2024.03.13-21.57.20:767][602]LogBlueprintUserMessages: [BP_IngredientFinger_C_16] 2
+[2024.03.13-21.57.20:767][602]LogBlueprintUserMessages: [BP_IngredientFinger_C_16] 2
+[2024.03.13-21.57.20:767][602]LogBlueprintUserMessages: [BP_IngredientFinger_C_16] 2
+[2024.03.13-21.57.20:767][602]LogBlueprintUserMessages: [BP_IngredientFinger_C_16] 2
+[2024.03.13-21.57.20:767][602]LogBlueprintUserMessages: [BP_IngredientFinger_C_16] 2
+[2024.03.13-21.57.20:767][602]LogBlueprintUserMessages: [BP_IngredientFinger_C_16] 2
+[2024.03.13-21.57.20:767][602]LogBlueprintUserMessages: [BP_IngredientFinger_C_16] Finger
+[2024.03.13-21.57.20:767][602]LogBlueprintUserMessages: [BP_IngredientFinger_C_16] Obj Type
+[2024.03.13-21.57.20:969][617]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2024.03.13-21.57.20:969][617]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] Carrot
+[2024.03.13-21.57.20:969][617]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] Ingredient Type Being Dropped:
+[2024.03.13-21.57.20:969][617]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] spawned in dropped item
+[2024.03.13-21.57.21:299][642]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.21:947][691]LogScript: Warning: Script Msg: The widget 'P_ChoppingBoard_C_1' was already added to the screen.
+[2024.03.13-21.57.21:947][691]LogScript: Warning: Script Msg called by: BP_ChoppingBoard_C /Game/UEDPIE_0_Finnmap.Finnmap:PersistentLevel.BP_ChoppingBoard_C_UAID_D8BBC18EB82038E001_1847313559
+[2024.03.13-21.57.21:948][691]LogBlueprintUserMessages: [BP_IngredientFinger_C_8] Item Picked Up
+[2024.03.13-21.57.22:294][718]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.22:693][749]LogScript: Warning: Script Msg: The widget 'P_ChoppingBoard_C_1' was already added to the screen.
+[2024.03.13-21.57.22:693][749]LogScript: Warning: Script Msg called by: BP_ChoppingBoard_C /Game/UEDPIE_0_Finnmap.Finnmap:PersistentLevel.BP_ChoppingBoard_C_UAID_D8BBC18EB82038E001_1847313559
+[2024.03.13-21.57.22:694][749]LogBlueprintUserMessages: [BP_IngredientFinger_C_6] Item Picked Up
+[2024.03.13-21.57.23:155][784]LogBlueprintUserMessages: [BP_IngredientFinger_C_9] 2
+[2024.03.13-21.57.23:168][785]LogBlueprintUserMessages: [BP_IngredientFinger_C_9] 2
+[2024.03.13-21.57.23:182][786]LogBlueprintUserMessages: [BP_IngredientFinger_C_9] 2
+[2024.03.13-21.57.23:236][790]LogBlueprintUserMessages: [BP_IngredientFinger_C_9] 2
+[2024.03.13-21.57.23:288][794]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.23:755][829]LogBlueprintUserMessages: [BP_IngredientFinger_C_3] 2
+[2024.03.13-21.57.23:769][830]LogBlueprintUserMessages: [BP_IngredientFinger_C_3] 2
+[2024.03.13-21.57.24:294][868]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.24:429][878]LogBlueprintUserMessages: [BP_IngredientFinger_C_17] 2
+[2024.03.13-21.57.24:429][878]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] Finger
+[2024.03.13-21.57.24:429][878]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] Ingredient Type Being Dropped:
+[2024.03.13-21.57.24:429][878]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] spawned in dropped item
+[2024.03.13-21.57.24:430][878]LogBlueprintUserMessages: [BP_IngredientFinger_C_17] Finger
+[2024.03.13-21.57.24:430][878]LogBlueprintUserMessages: [BP_IngredientFinger_C_17] Obj Type
+[2024.03.13-21.57.24:612][892]LogBlueprintUserMessages: [BP_IngredientFinger_C_18] 2
+[2024.03.13-21.57.24:612][892]LogBlueprintUserMessages: [BP_IngredientFinger_C_17] 2
+[2024.03.13-21.57.24:612][892]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] Finger
+[2024.03.13-21.57.24:612][892]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] Ingredient Type Being Dropped:
+[2024.03.13-21.57.24:612][892]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] spawned in dropped item
+[2024.03.13-21.57.24:612][892]LogBlueprintUserMessages: [BP_IngredientFinger_C_18] 2
+[2024.03.13-21.57.24:612][892]LogBlueprintUserMessages: [BP_IngredientFinger_C_18] Finger
+[2024.03.13-21.57.24:612][892]LogBlueprintUserMessages: [BP_IngredientFinger_C_18] Obj Type
+[2024.03.13-21.57.25:299][944]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.25:544][962]LogBlueprintUserMessages: [BP_IngredientFinger_C_17] Item Picked Up
+[2024.03.13-21.57.26:167][ 10]LogScript: Warning: Script Msg: The widget 'P_Mortar_C_1' was already added to the screen.
+[2024.03.13-21.57.26:167][ 10]LogScript: Warning: Script Msg called by: BP_MortarAndPestle_C /Game/UEDPIE_0_Finnmap.Finnmap:PersistentLevel.BP_MortarAndPestle_C_UAID_D8BBC18EB82021E201_1639892623
+[2024.03.13-21.57.26:207][ 13]LogScript: Warning: Script Msg: The widget 'P_Mortar_C_1' was already added to the screen.
+[2024.03.13-21.57.26:207][ 13]LogScript: Warning: Script Msg called by: BP_MortarAndPestle_C /Game/UEDPIE_0_Finnmap.Finnmap:PersistentLevel.BP_MortarAndPestle_C_UAID_D8BBC18EB82021E201_1639892623
+[2024.03.13-21.57.26:290][ 19]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.26:328][ 22]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] not at chopping block
+[2024.03.13-21.57.26:328][ 22]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] No Mortar and Pestle
+[2024.03.13-21.57.26:329][ 22]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] Player UseMortarAndPestle completed
+[2024.03.13-21.57.26:329][ 22]LogBlueprintUserMessages: [BP_MortarAndPestle_C_UAID_D8BBC18EB82021E201_1639892623] BP_MortarAndPestle Activated
+[2024.03.13-21.57.27:294][ 93]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.28:009][148]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] not at chopping block
+[2024.03.13-21.57.28:296][169]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.28:618][193]LogBlueprintUserMessages: [BP_IngredientFinger_C_19] 2
+[2024.03.13-21.57.28:619][193]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] Crushed_Finger
+[2024.03.13-21.57.28:619][193]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] Ingredient Type Being Dropped:
+[2024.03.13-21.57.28:619][193]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] spawned in dropped item
+[2024.03.13-21.57.28:619][193]LogBlueprintUserMessages: [BP_IngredientFinger_C_19] 2
+[2024.03.13-21.57.28:619][193]LogBlueprintUserMessages: [BP_IngredientFinger_C_19] Crushed_Finger
+[2024.03.13-21.57.28:620][193]LogBlueprintUserMessages: [BP_IngredientFinger_C_19] Obj Type
+[2024.03.13-21.57.29:299][242]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.30:295][318]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.30:828][359]LogBlueprintUserMessages: [BP_IngredientFinger_C_18] Item Picked Up
+[2024.03.13-21.57.31:292][395]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.31:604][418]LogScript: Warning: Script Msg: The widget 'P_Mortar_C_1' was already added to the screen.
+[2024.03.13-21.57.31:604][418]LogScript: Warning: Script Msg called by: BP_MortarAndPestle_C /Game/UEDPIE_0_Finnmap.Finnmap:PersistentLevel.BP_MortarAndPestle_C_UAID_D8BBC18EB82021E201_1639892623
+[2024.03.13-21.57.31:646][421]LogScript: Warning: Script Msg: The widget 'P_Mortar_C_1' was already added to the screen.
+[2024.03.13-21.57.31:646][421]LogScript: Warning: Script Msg called by: BP_MortarAndPestle_C /Game/UEDPIE_0_Finnmap.Finnmap:PersistentLevel.BP_MortarAndPestle_C_UAID_D8BBC18EB82021E201_1639892623
+[2024.03.13-21.57.31:752][429]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] not at chopping block
+[2024.03.13-21.57.31:752][429]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] Player UseMortarAndPestle completed
+[2024.03.13-21.57.31:752][429]LogBlueprintUserMessages: [BP_MortarAndPestle_C_UAID_D8BBC18EB82021E201_1639892623] BP_MortarAndPestle Activated
+[2024.03.13-21.57.32:293][469]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.32:713][499]LogBlueprintUserMessages: [BP_IngredientFinger_C_20] 2
+[2024.03.13-21.57.32:713][499]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] Crushed_Finger
+[2024.03.13-21.57.32:713][499]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] Ingredient Type Being Dropped:
+[2024.03.13-21.57.32:713][499]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] spawned in dropped item
+[2024.03.13-21.57.32:713][499]LogBlueprintUserMessages: [BP_IngredientFinger_C_20] 2
+[2024.03.13-21.57.32:714][499]LogBlueprintUserMessages: [BP_IngredientFinger_C_20] Crushed_Finger
+[2024.03.13-21.57.32:714][499]LogBlueprintUserMessages: [BP_IngredientFinger_C_20] Obj Type
+[2024.03.13-21.57.32:826][507]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] not at chopping block
+[2024.03.13-21.57.33:298][541]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.34:297][617]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.35:289][695]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.36:297][773]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.37:297][853]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.37:385][860]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.03.13-21.57.37:385][860]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.03.13-21.57.38:300][933]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.39:297][ 13]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.40:292][ 93]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.41:290][173]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.41:718][207]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.03.13-21.57.41:718][207]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.03.13-21.57.42:291][252]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.43:289][331]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.44:297][411]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.45:301][491]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.46:290][572]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.47:293][654]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.48:300][735]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.48:761][770]LogScript: Warning: Script Msg: The widget 'P_ChoppingBoard_C_1' was already added to the screen.
+[2024.03.13-21.57.48:761][770]LogScript: Warning: Script Msg called by: BP_ChoppingBoard_C /Game/UEDPIE_0_Finnmap.Finnmap:PersistentLevel.BP_ChoppingBoard_C_UAID_D8BBC18EB82038E001_1847313559
+[2024.03.13-21.57.48:762][770]LogBlueprintUserMessages: [BP_IngredientFinger_C_12] Item Picked Up
+[2024.03.13-21.57.49:298][811]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.50:295][885]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.50:679][913]LogBlueprintUserMessages: [BP_IngredientFinger_C_21] 2
+[2024.03.13-21.57.50:679][913]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] Finger
+[2024.03.13-21.57.50:679][913]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] Ingredient Type Being Dropped:
+[2024.03.13-21.57.50:679][913]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] spawned in dropped item
+[2024.03.13-21.57.50:681][913]LogBlueprintUserMessages: [BP_IngredientFinger_C_21] 2
+[2024.03.13-21.57.51:293][959]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.52:056][ 16]LogBlueprintUserMessages: [BP_IngredientFinger_C_19] Item Picked Up
+[2024.03.13-21.57.52:300][ 34]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.53:299][105]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.53:343][108]LogBlueprintUserMessages: [BP_IngredientFinger_C_22] 2
+[2024.03.13-21.57.53:343][108]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] Crushed_Finger
+[2024.03.13-21.57.53:343][108]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] Ingredient Type Being Dropped:
+[2024.03.13-21.57.53:343][108]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] spawned in dropped item
+[2024.03.13-21.57.53:344][108]LogBlueprintUserMessages: [BP_IngredientFinger_C_22] 2
+[2024.03.13-21.57.53:345][108]LogBlueprintUserMessages: [BP_IngredientFinger_C_22] 2
+[2024.03.13-21.57.53:345][108]LogBlueprintUserMessages: [BP_IngredientFinger_C_22] Crushed_Finger
+[2024.03.13-21.57.53:345][108]LogBlueprintUserMessages: [BP_IngredientFinger_C_22] Obj Type
+[2024.03.13-21.57.53:444][115]LogBlueprintUserMessages: [BP_IngredientFinger_C_22] 2
+[2024.03.13-21.57.54:296][178]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.54:362][183]LogBlueprintUserMessages: [BP_IngredientFinger_C_20] 2
+[2024.03.13-21.57.55:288][254]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.56:298][335]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.56:818][376]LogScript: Warning: Script Msg: The widget 'P_ChoppingBoard_C_1' was already added to the screen.
+[2024.03.13-21.57.56:818][376]LogScript: Warning: Script Msg called by: BP_ChoppingBoard_C /Game/UEDPIE_0_Finnmap.Finnmap:PersistentLevel.BP_ChoppingBoard_C_UAID_D8BBC18EB82038E001_1847313559
+[2024.03.13-21.57.56:818][376]LogBlueprintUserMessages: [BP_IngredientFinger_C_7] Item Picked Up
+[2024.03.13-21.57.57:288][412]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.57:987][463]LogBlueprintUserMessages: [BP_IngredientFinger_C_20] 2
+[2024.03.13-21.57.58:300][486]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.57.58:739][518]LogBlueprintUserMessages: [BP_IngredientFinger_C_23] 2
+[2024.03.13-21.57.58:739][518]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] Finger
+[2024.03.13-21.57.58:739][518]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] Ingredient Type Being Dropped:
+[2024.03.13-21.57.58:739][518]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] spawned in dropped item
+[2024.03.13-21.57.58:740][518]LogBlueprintUserMessages: [BP_IngredientFinger_C_23] 2
+[2024.03.13-21.57.58:740][518]LogBlueprintUserMessages: [BP_IngredientFinger_C_23] 2
+[2024.03.13-21.57.59:288][558]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.58.00:291][633]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.58.01:290][709]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.58.01:759][744]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] not at chopping block
+[2024.03.13-21.58.01:759][744]LogBlueprintUserMessages: [BP_Cauldron_C_UAID_00E2696DD10DCFDF01_2100869079] Summoning demon
+[2024.03.13-21.58.01:760][744]LogBlueprintUserMessages: [BP_Cauldron_C_UAID_00E2696DD10DCFDF01_2100869079] recipe successful, array cleared
+[2024.03.13-21.58.02:296][784]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.58.03:290][860]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.58.04:288][937]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.58.05:297][ 14]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.58.06:298][ 92]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.58.06:798][131]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] not at chopping block
+[2024.03.13-21.58.06:798][131]LogBlueprintUserMessages: [BP_Cauldron_C_UAID_00E2696DD10DCFDF01_2100869079] Summoning demon
+[2024.03.13-21.58.07:294][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.13-21.58.07:295][168]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.58.08:298][246]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.58.09:289][322]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.58.10:297][398]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.58.11:291][475]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] HEALTHDOWN
+[2024.03.13-21.58.12:064][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.13-21.58.12:064][533]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Finnmap
+[2024.03.13-21.58.12:064][533]LogSlate: Window 'SummonLlama Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.03.13-21.58.12:069][533]LogWorld: UWorld::CleanupWorld for Finnmap, bSessionEnded=true, bCleanupResources=true
+[2024.03.13-21.58.12:070][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-21.58.12:070][533]LogContentBundle: [Finnmap(Standalone)] Deleting container.
+[2024.03.13-21.58.12:075][533]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.13-21.58.12:082][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-21.58.12:107][533]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.03.13-21.58.12:107][533]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.03.13-21.58.12:108][533]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.03.13-21.58.12:117][533]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.03.13-21.58.12:192][534]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2024.03.13-21.58.38:706][715]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.03.13-21.58.38:706][715]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.03.13-21.58.45:073][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.03.13-21.58.45:098][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.03.13-21.58.45:952][474]LogSlate: Window 'Save Content' being destroyed
+[2024.03.13-21.58.45:958][474]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.13-21.58.46:008][474]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Finnmap/C/PV/0PSQ9GWI9KQ3GXJG9OW764
+[2024.03.13-21.58.46:009][474]LogSavePackage: Moving '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Saved/0PSQ9GWI9KQ3GXJG9OW76462728A544A3C9B3CD0498DB1B9920457.tmp' to '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Content/__ExternalActors__/Finnmap/C/PV/0PSQ9GWI9KQ3GXJG9OW764.uasset'
+[2024.03.13-21.58.46:013][474]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Finnmap/A/1Q/ORJZGW2RWRRGV3P3WHDUT0
+[2024.03.13-21.58.46:013][474]LogSavePackage: Moving '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Saved/ORJZGW2RWRRGV3P3WHDUT0A87BDA644216DA849C25D99A97B25771.tmp' to '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Content/__ExternalActors__/Finnmap/A/1Q/ORJZGW2RWRRGV3P3WHDUT0.uasset'
+[2024.03.13-21.58.46:022][474]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 662 ms)
+[2024.03.13-21.58.46:028][474]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.13-21.58.46:028][474]LogContentValidation: Display: Validating /Game/Player/BP_Player.BP_Player_C /Game/Finnmap.Finnmap:PersistentLevel.Player_C_UAID_D8BBC18EB820D7DF01_2013719487
+[2024.03.13-21.58.46:028][474]LogContentValidation: Display: Validating /Game/Objects/BP_Cauldron.BP_Cauldron_C /Game/Finnmap.Finnmap:PersistentLevel.BP_Cauldron_C_UAID_00E2696DD10DCFDF01_2100869079
