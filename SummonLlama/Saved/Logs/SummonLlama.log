@@ -4750,3 +4750,44 @@ Script Stack (0 frames) :
 [2024.03.13-22.25.13:366][283]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 2.52 sec)
 [2024.03.13-22.25.13:373][283]AssetCheck: New page: Asset Save: FinnGameInstance
 [2024.03.13-22.25.13:373][283]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/FinnGameInstance.FinnGameInstance
+[2024.03.13-22.25.33:533][505]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.03.13-22.25.33:560][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.03.13-22.25.34:981][505]LogSlate: Window 'Save Content' being destroyed
+[2024.03.13-22.25.34:988][505]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.13-22.25.35:045][505]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/__ExternalActors__/Finnmap/4/DD/Y7PRAORMTSB2FP8H3OLSDD
+/Game/__ExternalActors__/Finnmap/A/1Q/ORJZGW2RWRRGV3P3WHDUT0
+/Game/__ExternalActors__/Finnmap/C/PV/0PSQ9GWI9KQ3GXJG9OW764
+[2024.03.13-22.25.35:045][505]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.13-22.25.35:047][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Finnmap/4/DD/Y7PRAORMTSB2FP8H3OLSDD
+[2024.03.13-22.25.35:048][505]LogSavePackage: Moving '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Saved/Y7PRAORMTSB2FP8H3OLSDD5530FECB45FBAECE11F47DA22D963084.tmp' to '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Content/__ExternalActors__/Finnmap/4/DD/Y7PRAORMTSB2FP8H3OLSDD.uasset'
+[2024.03.13-22.25.35:052][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Finnmap/A/1Q/ORJZGW2RWRRGV3P3WHDUT0
+[2024.03.13-22.25.35:053][505]LogSavePackage: Moving '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Saved/ORJZGW2RWRRGV3P3WHDUT087F0E42849749BE9960F0087B89C1662.tmp' to '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Content/__ExternalActors__/Finnmap/A/1Q/ORJZGW2RWRRGV3P3WHDUT0.uasset'
+[2024.03.13-22.25.35:057][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Finnmap/C/PV/0PSQ9GWI9KQ3GXJG9OW764
+[2024.03.13-22.25.35:057][505]LogSavePackage: Moving '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Saved/0PSQ9GWI9KQ3GXJG9OW764E35D690247EB0A1F9B7F4CB28D5D76D6.tmp' to '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Content/__ExternalActors__/Finnmap/C/PV/0PSQ9GWI9KQ3GXJG9OW764.uasset'
+[2024.03.13-22.25.35:059][505]LogFileHelpers: InternalPromptForCheckoutAndSave took 13 ms (total: 2.54 sec)
+[2024.03.13-22.25.35:059][505]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/__ExternalActors__/Finnmap/4/DD/Y7PRAORMTSB2FP8H3OLSDD
+/Game/__ExternalActors__/Finnmap/A/1Q/ORJZGW2RWRRGV3P3WHDUT0
+/Game/__ExternalActors__/Finnmap/C/PV/0PSQ9GWI9KQ3GXJG9OW764
+[2024.03.13-22.25.35:060][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Finnmap" FILE="../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Content/Finnmap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.03.13-22.25.35:085][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.03.13-22.25.35:097][505]LogSavePackage: Moving output files for package: /Game/Finnmap
+[2024.03.13-22.25.35:098][505]LogSavePackage: Moving '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Saved/Finnmap74C7A76B43C862E31B21C99CB606B9C6.tmp' to '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Content/Finnmap.umap'
+[2024.03.13-22.25.35:104][505]LogFileHelpers: Saving map 'Finnmap' took 0.059
+[2024.03.13-22.25.35:106][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Finnmap/C/PV/0PSQ9GWI9KQ3GXJG9OW764
+[2024.03.13-22.25.35:107][505]LogSavePackage: Moving '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Saved/0PSQ9GWI9KQ3GXJG9OW764AC4C32384D6F4D1759A67FBF58DC0EE0.tmp' to '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Content/__ExternalActors__/Finnmap/C/PV/0PSQ9GWI9KQ3GXJG9OW764.uasset'
+[2024.03.13-22.25.35:110][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Finnmap/4/DD/Y7PRAORMTSB2FP8H3OLSDD
+[2024.03.13-22.25.35:112][505]LogSavePackage: Moving '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Saved/Y7PRAORMTSB2FP8H3OLSDD309729664E81C11D26F32EBF2BF7D7F2.tmp' to '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Content/__ExternalActors__/Finnmap/4/DD/Y7PRAORMTSB2FP8H3OLSDD.uasset'
+[2024.03.13-22.25.35:116][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/deaddemonreaction" FILE="../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Content/Sounds/deaddemonreaction.uasset" SILENT=true
+[2024.03.13-22.25.35:122][505]LogSavePackage: Moving output files for package: /Game/Sounds/deaddemonreaction
+[2024.03.13-22.25.35:123][505]LogSavePackage: Moving '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Saved/deaddemonreactionE115B326475C007D5898A895F999C68E.tmp' to '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Content/Sounds/deaddemonreaction.uasset'
+[2024.03.13-22.25.35:127][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Finnmap/A/1Q/ORJZGW2RWRRGV3P3WHDUT0
+[2024.03.13-22.25.35:128][505]LogSavePackage: Moving '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Saved/ORJZGW2RWRRGV3P3WHDUT07E4C0F4044C36A52372904A5D0D0A2A5.tmp' to '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Content/__ExternalActors__/Finnmap/A/1Q/ORJZGW2RWRRGV3P3WHDUT0.uasset'
+[2024.03.13-22.25.35:137][505]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 2.68 sec)
+[2024.03.13-22.25.35:143][505]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.13-22.25.35:143][505]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Sounds/deaddemonreaction.deaddemonreaction
+[2024.03.13-22.25.35:143][505]LogContentValidation: Display: Validating /Game/Player/BP_Player.BP_Player_C /Game/Finnmap.Finnmap:PersistentLevel.Player_C_UAID_D8BBC18EB820D7DF01_2013719487
+[2024.03.13-22.25.35:143][505]LogContentValidation: Display: Validating /Script/Engine.World /Game/Finnmap.Finnmap
+[2024.03.13-22.25.35:143][505]LogContentValidation: Display: Validating /Game/Objects/BP_Cauldron.BP_Cauldron_C /Game/Finnmap.Finnmap:PersistentLevel.BP_Cauldron_C_UAID_00E2696DD10DCFDF01_2100869079
+[2024.03.13-22.25.35:143][505]LogContentValidation: Display: Validating /Game/Objects/BP_SummoningCircle.BP_SummoningCircle_C /Game/Finnmap.Finnmap:PersistentLevel.BP_SummoningCircle_C_UAID_00E2696DD10DD0DF01_1093421256
