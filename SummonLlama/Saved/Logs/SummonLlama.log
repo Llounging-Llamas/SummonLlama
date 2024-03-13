@@ -2278,3 +2278,362 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.13-00.59.38:833][530]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
 [2024.03.13-00.59.38:840][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
 [2024.03.13-00.59.38:910][531]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2024.03.13-01.00.23:841][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.03.13-01.00.23:846][765]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Finnmap/C/PV/0PSQ9GWI9KQ3GXJG9OW764_Auto1
+[2024.03.13-01.00.23:847][765]LogSavePackage: Moving '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Saved/0PSQ9GWI9KQ3GXJG9OW764_Auto1540684B94FD4EC950EC1108778452677.tmp' to '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Saved/Autosaves/Game/__ExternalActors__/Finnmap/C/PV/0PSQ9GWI9KQ3GXJG9OW764_Auto1.uasset'
+[2024.03.13-01.00.23:850][765]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Finnmap/E/BD/D6WIWK1ZEGAXJ6MFGMJPWC_Auto1
+[2024.03.13-01.00.23:850][765]LogSavePackage: Moving '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Saved/D6WIWK1ZEGAXJ6MFGMJPWC_Auto1A8E93E29468D06080D107E800DCA72D7.tmp' to '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Saved/Autosaves/Game/__ExternalActors__/Finnmap/E/BD/D6WIWK1ZEGAXJ6MFGMJPWC_Auto1.uasset'
+[2024.03.13-01.00.23:851][765]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Finnmap' took 0.037
+[2024.03.13-01.00.23:851][765]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.037
+[2024.03.13-01.00.36:766][805]LogHttp: Warning: 00000AEEB3252D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0EA84272-47B4-66CE-F81C-C4835F1134AC%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=ae6238ea48eb3192c6c77fab4c33baa1%7Cf2eb388ee1dd4c838e41a655497f343f%7C802cc5a6-bc51-4942-8839-278e8bc56ace&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.13-01.00.36:766][805]LogHttp: Warning: 00000AEEB3252D00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.13-01.00.36:766][805]LogHttp: Warning: 00000AEEB3252D00: libcurl info message cache 0 (Found bundle for host: 0xaee41970810 [serially])
+[2024.03.13-01.00.36:766][805]LogHttp: Warning: 00000AEEB3252D00: libcurl info message cache 1 (Re-using existing connection #3 with host datarouter.ol.epicgames.com)
+[2024.03.13-01.00.36:766][805]LogHttp: Warning: 00000AEEB3252D00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.198.139.189) port 443 (#3))
+[2024.03.13-01.00.36:766][805]LogHttp: Warning: 00000AEEB3252D00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.13-01.00.36:766][805]LogHttp: Warning: 00000AEEB3252D00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.13-01.00.36:766][805]LogHttp: Warning: 00000AEEB3252D00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.13-01.00.36:766][805]LogHttp: Warning: 00000AEEB3252D00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.13-01.00.36:766][805]LogHttp: Warning: 00000AEEB3252D00: libcurl info message cache 7 (Closing connection 3)
+[2024.03.13-01.00.36:766][805]LogHttp: Warning: 00000AEEB3252D00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.13-01.00.36:766][805]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0EA84272-47B4-66CE-F81C-C4835F1134AC%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=ae6238ea48eb3192c6c77fab4c33baa1%7Cf2eb388ee1dd4c838e41a655497f343f%7C802cc5a6-bc51-4942-8839-278e8bc56ace&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.13-01.00.50:654][ 64]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.13-01.00.50:661][ 64]LogContentBundle: [Finnmap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.13-01.00.50:664][ 64]LogWorldPartition: Display: GenerateStreaming started...
+[2024.03.13-01.00.50:664][ 64]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.03.13-01.00.50:664][ 64]LogWorldPartition: Display: GetPartitionedActors took 10 us (total: 104 us)
+[2024.03.13-01.00.50:665][ 64]LogWorldPartition: Display: GenerateStreaming took 498 us (total: 4 ms)
+[2024.03.13-01.00.50:665][ 64]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.13-01.00.50:665][ 64]PIE: New page: PIE session: Finnmap (14/03/2024, 3:00:50 am)
+[2024.03.13-01.00.50:665][ 64]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Finnmap
+[2024.03.13-01.00.50:679][ 64]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014417s)
+[2024.03.13-01.00.50:679][ 64]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Finnmap.Finnmap to /Game/UEDPIE_0_Finnmap.Finnmap (0.014451s)
+[2024.03.13-01.00.50:679][ 64]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.13-01.00.50:679][ 64]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.13-01.00.50:680][ 64]LogAIModule: Creating AISystem for world Finnmap
+[2024.03.13-01.00.50:680][ 64]LogWorldPartition: ULevel::OnLevelLoaded(Finnmap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.13-01.00.50:680][ 64]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.13-01.00.50:680][ 64]LogWorldPartition: UWorldPartition::Initialize(Asset=Finnmap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.03.13-01.00.50:684][ 64]LogContentBundle: [Finnmap(Standalone)] Creating new contrainer.
+[2024.03.13-01.00.50:684][ 64]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 1.72 sec)
+[2024.03.13-01.00.50:685][ 64]LogPlayLevel: PIE: World Init took: (0.004847s)
+[2024.03.13-01.00.50:709][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.03.13-01.00.50:710][ 64]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.03.13-01.00.50:710][ 64]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.13-01.00.50:710][ 64]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.13-01.00.50:710][ 64]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.13-01.00.50:710][ 64]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.13-01.00.50:710][ 64]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.13-01.00.50:710][ 64]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.13-01.00.50:710][ 64]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.13-01.00.50:710][ 64]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.13-01.00.50:710][ 64]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.13-01.00.50:710][ 64]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.13-01.00.50:710][ 64]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.13-01.00.50:712][ 64]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.13-01.00.50:732][ 64]LogAudioMixer: Display: Using Audio Hardware Device B24-8 TS Pro (NVIDIA High Definition Audio)
+[2024.03.13-01.00.50:733][ 64]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.13-01.00.50:733][ 64]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.13-01.00.50:733][ 64]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.13-01.00.50:734][ 64]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.03.13-01.00.50:734][ 64]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.03.13-01.00.50:736][ 64]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.03.13-01.00.50:736][ 64]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.03.13-01.00.50:736][ 64]LogInit: FAudioDevice initialized with ID 8.
+[2024.03.13-01.00.50:736][ 64]LogAudio: Display: Audio Device (ID: 8) registered with world 'Finnmap'.
+[2024.03.13-01.00.50:736][ 64]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.03.13-01.00.50:795][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.13-01.00.50:795][ 64]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.03.13-01.00.50:802][ 64]LogWorld: Bringing World /Game/UEDPIE_0_Finnmap.Finnmap up for play (max tick rate 0) at 2024.03.13-14.00.50
+[2024.03.13-01.00.50:802][ 64]LogWorld: Bringing up level for play took: 0.007699
+[2024.03.13-01.00.50:805][ 64]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2024.03.13-01.00.50:810][ 64]PIE: Server logged in
+[2024.03.13-01.00.50:811][ 64]PIE: Play in editor total start time 0.15 seconds.
+[2024.03.13-01.00.50:814][ 64]LogBlueprintUserMessages: [Ingredient1_C_UAID_00E2696DD10DD0DF01_1612725259] 1
+[2024.03.13-01.00.50:814][ 64]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D07E201_2058731049] Carrot
+[2024.03.13-01.00.50:814][ 64]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D07E201_2058731049] Obj Type
+[2024.03.13-01.00.50:814][ 64]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D09E201_1250524399] Carrot
+[2024.03.13-01.00.50:814][ 64]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D09E201_1250524399] Obj Type
+[2024.03.13-01.00.50:814][ 64]LogBlueprintUserMessages: [BP_IngredientEye_C_UAID_00E2696DD10D07E201_2121362050] Eye
+[2024.03.13-01.00.50:814][ 64]LogBlueprintUserMessages: [BP_IngredientEye_C_UAID_00E2696DD10D07E201_2121362050] Obj Type
+[2024.03.13-01.00.50:815][ 64]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'AmbienceLoop'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.03.13-01.00.50:820][ 64]LogViewport: Scene viewport resized to 960x992, mode Windowed.
+[2024.03.13-01.00.51:645][111]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] not at chopping block
+[2024.03.13-01.00.52:404][172]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] not at chopping block
+[2024.03.13-01.00.52:597][188]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D07E201_2058731049] 3
+[2024.03.13-01.00.53:116][231]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] not at chopping block
+[2024.03.13-01.00.58:824][709]LogBlueprintUserMessages: [BP_Knife_C_UAID_D8BBC18EB82039E001_1528870737] Knife Picked Up
+[2024.03.13-01.01.00:098][814]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] spawned in dropped item
+[2024.03.13-01.01.03:058][ 58]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] not at chopping block
+[2024.03.13-01.01.03:058][ 58]LogBlueprintUserMessages: [BP_Cauldron_C_UAID_00E2696DD10DCFDF01_2100869079] Summoning demon
+[2024.03.13-01.01.03:058][ 58]LogBlueprintUserMessages: [BP_SummoningCircle_C_UAID_00E2696DD10DD0DF01_1093421256] SUMMON SPAWN
+[2024.03.13-01.01.08:604][523]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] not at chopping block
+[2024.03.13-01.01.08:604][523]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] Failed - has no items
+[2024.03.13-01.01.08:604][523]LogBlueprintUserMessages: [BP_MortarAndPestle_C_UAID_D8BBC18EB82039E001_1879764738] BP_MortarAndPestle Activated
+[2024.03.13-01.01.18:949][402]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D07E201_2058731049] Item Picked Up
+[2024.03.13-01.01.19:310][433]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D07E201_2058731049] Item Picked Up
+[2024.03.13-01.01.19:483][448]LogBlueprintUserMessages: [BP_IngredientCarrot_C_0] 3
+[2024.03.13-01.01.19:483][448]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] spawned in dropped item
+[2024.03.13-01.01.19:484][448]LogBlueprintUserMessages: [BP_IngredientCarrot_C_0] 3
+[2024.03.13-01.01.19:484][448]LogBlueprintUserMessages: [BP_IngredientCarrot_C_0] Carrot
+[2024.03.13-01.01.19:484][448]LogBlueprintUserMessages: [BP_IngredientCarrot_C_0] Obj Type
+[2024.03.13-01.01.19:624][460]LogBlueprintUserMessages: [BP_IngredientCarrot_C_1] 3
+[2024.03.13-01.01.19:624][460]LogBlueprintUserMessages: [BP_IngredientCarrot_C_0] 3
+[2024.03.13-01.01.19:624][460]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] spawned in dropped item
+[2024.03.13-01.01.19:625][460]LogBlueprintUserMessages: [BP_IngredientCarrot_C_1] 3
+[2024.03.13-01.01.19:625][460]LogBlueprintUserMessages: [BP_IngredientCarrot_C_1] 3
+[2024.03.13-01.01.19:625][460]LogBlueprintUserMessages: [BP_IngredientCarrot_C_1] Carrot
+[2024.03.13-01.01.19:625][460]LogBlueprintUserMessages: [BP_IngredientCarrot_C_1] Obj Type
+[2024.03.13-01.01.19:739][470]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D07E201_2058731049] Item Picked Up
+[2024.03.13-01.01.19:854][480]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D07E201_2058731049] Item Picked Up
+[2024.03.13-01.01.19:947][488]LogBlueprintUserMessages: [BP_IngredientCarrot_C_2] 3
+[2024.03.13-01.01.19:947][488]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] spawned in dropped item
+[2024.03.13-01.01.19:948][488]LogBlueprintUserMessages: [BP_IngredientCarrot_C_2] 3
+[2024.03.13-01.01.19:948][488]LogBlueprintUserMessages: [BP_IngredientCarrot_C_2] 3
+[2024.03.13-01.01.19:948][488]LogBlueprintUserMessages: [BP_IngredientCarrot_C_2] 3
+[2024.03.13-01.01.19:948][488]LogBlueprintUserMessages: [BP_IngredientCarrot_C_2] Carrot
+[2024.03.13-01.01.19:948][488]LogBlueprintUserMessages: [BP_IngredientCarrot_C_2] Obj Type
+[2024.03.13-01.01.20:056][497]LogBlueprintUserMessages: [BP_IngredientCarrot_C_2] 3
+[2024.03.13-01.01.20:056][497]LogBlueprintUserMessages: [BP_IngredientCarrot_C_3] 3
+[2024.03.13-01.01.20:056][497]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] spawned in dropped item
+[2024.03.13-01.01.20:057][497]LogBlueprintUserMessages: [BP_IngredientCarrot_C_3] 3
+[2024.03.13-01.01.20:057][497]LogBlueprintUserMessages: [BP_IngredientCarrot_C_3] 3
+[2024.03.13-01.01.20:057][497]LogBlueprintUserMessages: [BP_IngredientCarrot_C_3] 3
+[2024.03.13-01.01.20:057][497]LogBlueprintUserMessages: [BP_IngredientCarrot_C_3] 3
+[2024.03.13-01.01.20:057][497]LogBlueprintUserMessages: [BP_IngredientCarrot_C_3] Carrot
+[2024.03.13-01.01.20:057][497]LogBlueprintUserMessages: [BP_IngredientCarrot_C_3] Obj Type
+[2024.03.13-01.01.20:147][505]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D07E201_2058731049] Item Picked Up
+[2024.03.13-01.01.20:277][516]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D07E201_2058731049] Item Picked Up
+[2024.03.13-01.01.20:361][523]LogBlueprintUserMessages: [BP_IngredientCarrot_C_4] 3
+[2024.03.13-01.01.20:361][523]LogBlueprintUserMessages: [BP_IngredientCarrot_C_3] 3
+[2024.03.13-01.01.20:361][523]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] spawned in dropped item
+[2024.03.13-01.01.20:362][523]LogBlueprintUserMessages: [BP_IngredientCarrot_C_4] 3
+[2024.03.13-01.01.20:362][523]LogBlueprintUserMessages: [BP_IngredientCarrot_C_4] 3
+[2024.03.13-01.01.20:362][523]LogBlueprintUserMessages: [BP_IngredientCarrot_C_4] 3
+[2024.03.13-01.01.20:362][523]LogBlueprintUserMessages: [BP_IngredientCarrot_C_4] 3
+[2024.03.13-01.01.20:362][523]LogBlueprintUserMessages: [BP_IngredientCarrot_C_4] 3
+[2024.03.13-01.01.20:362][523]LogBlueprintUserMessages: [BP_IngredientCarrot_C_4] Carrot
+[2024.03.13-01.01.20:362][523]LogBlueprintUserMessages: [BP_IngredientCarrot_C_4] Obj Type
+[2024.03.13-01.01.20:494][534]LogBlueprintUserMessages: [BP_IngredientCarrot_C_4] 3
+[2024.03.13-01.01.20:494][534]LogBlueprintUserMessages: [BP_IngredientCarrot_C_5] 3
+[2024.03.13-01.01.20:494][534]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] spawned in dropped item
+[2024.03.13-01.01.20:495][534]LogBlueprintUserMessages: [BP_IngredientCarrot_C_5] 3
+[2024.03.13-01.01.20:495][534]LogBlueprintUserMessages: [BP_IngredientCarrot_C_5] 3
+[2024.03.13-01.01.20:495][534]LogBlueprintUserMessages: [BP_IngredientCarrot_C_5] 3
+[2024.03.13-01.01.20:495][534]LogBlueprintUserMessages: [BP_IngredientCarrot_C_5] 3
+[2024.03.13-01.01.20:495][534]LogBlueprintUserMessages: [BP_IngredientCarrot_C_5] 3
+[2024.03.13-01.01.20:495][534]LogBlueprintUserMessages: [BP_IngredientCarrot_C_5] 3
+[2024.03.13-01.01.20:495][534]LogBlueprintUserMessages: [BP_IngredientCarrot_C_5] Carrot
+[2024.03.13-01.01.20:495][534]LogBlueprintUserMessages: [BP_IngredientCarrot_C_5] Obj Type
+[2024.03.13-01.01.20:586][542]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D07E201_2058731049] Item Picked Up
+[2024.03.13-01.01.20:690][551]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D07E201_2058731049] Item Picked Up
+[2024.03.13-01.01.20:785][559]LogBlueprintUserMessages: [BP_IngredientCarrot_C_5] 3
+[2024.03.13-01.01.20:785][559]LogBlueprintUserMessages: [BP_IngredientCarrot_C_6] 3
+[2024.03.13-01.01.20:785][559]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] spawned in dropped item
+[2024.03.13-01.01.20:786][559]LogBlueprintUserMessages: [BP_IngredientCarrot_C_6] 3
+[2024.03.13-01.01.20:786][559]LogBlueprintUserMessages: [BP_IngredientCarrot_C_6] 3
+[2024.03.13-01.01.20:786][559]LogBlueprintUserMessages: [BP_IngredientCarrot_C_6] 3
+[2024.03.13-01.01.20:786][559]LogBlueprintUserMessages: [BP_IngredientCarrot_C_6] 3
+[2024.03.13-01.01.20:786][559]LogBlueprintUserMessages: [BP_IngredientCarrot_C_6] 3
+[2024.03.13-01.01.20:786][559]LogBlueprintUserMessages: [BP_IngredientCarrot_C_6] 3
+[2024.03.13-01.01.20:786][559]LogBlueprintUserMessages: [BP_IngredientCarrot_C_6] 3
+[2024.03.13-01.01.20:786][559]LogBlueprintUserMessages: [BP_IngredientCarrot_C_6] Carrot
+[2024.03.13-01.01.20:786][559]LogBlueprintUserMessages: [BP_IngredientCarrot_C_6] Obj Type
+[2024.03.13-01.01.20:925][571]LogBlueprintUserMessages: [BP_IngredientCarrot_C_7] 3
+[2024.03.13-01.01.20:925][571]LogBlueprintUserMessages: [BP_IngredientCarrot_C_6] 3
+[2024.03.13-01.01.20:925][571]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] spawned in dropped item
+[2024.03.13-01.01.20:926][571]LogBlueprintUserMessages: [BP_IngredientCarrot_C_7] 3
+[2024.03.13-01.01.20:927][571]LogBlueprintUserMessages: [BP_IngredientCarrot_C_7] 3
+[2024.03.13-01.01.20:927][571]LogBlueprintUserMessages: [BP_IngredientCarrot_C_7] 3
+[2024.03.13-01.01.20:927][571]LogBlueprintUserMessages: [BP_IngredientCarrot_C_7] 3
+[2024.03.13-01.01.20:927][571]LogBlueprintUserMessages: [BP_IngredientCarrot_C_7] 3
+[2024.03.13-01.01.20:927][571]LogBlueprintUserMessages: [BP_IngredientCarrot_C_7] 3
+[2024.03.13-01.01.20:927][571]LogBlueprintUserMessages: [BP_IngredientCarrot_C_7] 3
+[2024.03.13-01.01.20:927][571]LogBlueprintUserMessages: [BP_IngredientCarrot_C_7] 3
+[2024.03.13-01.01.20:927][571]LogBlueprintUserMessages: [BP_IngredientCarrot_C_7] Carrot
+[2024.03.13-01.01.20:927][571]LogBlueprintUserMessages: [BP_IngredientCarrot_C_7] Obj Type
+[2024.03.13-01.01.23:686][803]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D09E201_1250524399] Item Picked Up
+[2024.03.13-01.01.25:305][934]LogBlueprintUserMessages: [BP_IngredientCarrot_C_8] 3
+[2024.03.13-01.01.25:305][934]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] spawned in dropped item
+[2024.03.13-01.01.25:306][934]LogBlueprintUserMessages: [BP_IngredientCarrot_C_8] 3
+[2024.03.13-01.01.25:306][934]LogBlueprintUserMessages: [BP_IngredientCarrot_C_8] 3
+[2024.03.13-01.01.25:306][934]LogBlueprintUserMessages: [BP_Cauldron_C_UAID_00E2696DD10DCFDF01_2100869079] carrot added
+[2024.03.13-01.01.28:551][202]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D07E201_2058731049] Item Picked Up
+[2024.03.13-01.01.30:465][358]LogBlueprintUserMessages: [BP_IngredientCarrot_C_9] 3
+[2024.03.13-01.01.30:465][358]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] spawned in dropped item
+[2024.03.13-01.01.30:467][358]LogBlueprintUserMessages: [BP_IngredientCarrot_C_9] 3
+[2024.03.13-01.01.30:467][358]LogBlueprintUserMessages: [BP_IngredientCarrot_C_9] 3
+[2024.03.13-01.01.30:467][358]LogBlueprintUserMessages: [BP_Cauldron_C_UAID_00E2696DD10DCFDF01_2100869079] carrot added
+[2024.03.13-01.01.32:287][512]LogBlueprintUserMessages: [BP_Knife_C_0] Knife Picked Up
+[2024.03.13-01.01.33:588][619]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] spawned in dropped item
+[2024.03.13-01.01.40:124][172]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.13-01.01.40:124][172]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Finnmap
+[2024.03.13-01.01.40:125][172]LogSlate: Window 'SummonLlama Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.03.13-01.01.40:130][172]LogWorld: UWorld::CleanupWorld for Finnmap, bSessionEnded=true, bCleanupResources=true
+[2024.03.13-01.01.40:131][172]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-01.01.40:131][172]LogContentBundle: [Finnmap(Standalone)] Deleting container.
+[2024.03.13-01.01.40:146][172]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.13-01.01.40:151][172]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-01.01.40:180][172]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.03.13-01.01.40:180][172]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.03.13-01.01.40:181][172]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.03.13-01.01.40:189][172]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.03.13-01.01.40:272][173]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2024.03.13-01.02.12:168][723]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.13-01.02.17:336][312]LogViewport: Scene viewport resized to 966x560, mode Windowed.
+[2024.03.13-01.02.17:353][312]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.13-01.02.17:384][313]LogViewport: Scene viewport resized to 966x548, mode Windowed.
+[2024.03.13-01.02.17:424][314]LogViewport: Scene viewport resized to 966x536, mode Windowed.
+[2024.03.13-01.02.17:496][315]LogViewport: Scene viewport resized to 966x535, mode Windowed.
+[2024.03.13-01.02.19:533][522]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.03.13-01.02.19:561][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.03.13-01.02.20:634][522]LogSlate: Window 'Save Content' being destroyed
+[2024.03.13-01.02.20:643][522]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.13-01.02.20:695][522]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Finnmap/C/PV/0PSQ9GWI9KQ3GXJG9OW764
+[2024.03.13-01.02.20:696][522]LogSavePackage: Moving '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Saved/0PSQ9GWI9KQ3GXJG9OW764D31E5DCE4A033E3E89F6BBB6AB3C7E64.tmp' to '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Content/__ExternalActors__/Finnmap/C/PV/0PSQ9GWI9KQ3GXJG9OW764.uasset'
+[2024.03.13-01.02.20:699][522]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Finnmap/E/BD/D6WIWK1ZEGAXJ6MFGMJPWC
+[2024.03.13-01.02.20:700][522]LogSavePackage: Moving '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Saved/D6WIWK1ZEGAXJ6MFGMJPWCA188547D489108B92515E68CD6644E8B.tmp' to '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Content/__ExternalActors__/Finnmap/E/BD/D6WIWK1ZEGAXJ6MFGMJPWC.uasset'
+[2024.03.13-01.02.20:711][522]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 1.54 sec)
+[2024.03.13-01.02.20:716][522]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.13-01.02.20:716][522]LogContentValidation: Display: Validating /Game/Objects/Ingredients/BP_IngredientEye.BP_IngredientEye_C /Game/Finnmap.Finnmap:PersistentLevel.BP_IngredientEye_C_UAID_00E2696DD10D07E201_2121362050
+[2024.03.13-01.02.20:716][522]LogContentValidation: Display: Validating /Game/Objects/BP_Cauldron.BP_Cauldron_C /Game/Finnmap.Finnmap:PersistentLevel.BP_Cauldron_C_UAID_00E2696DD10DCFDF01_2100869079
+[2024.03.13-01.02.21:557][609]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.13-01.02.21:565][609]LogContentBundle: [Finnmap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.13-01.02.21:568][609]LogWorldPartition: Display: GenerateStreaming started...
+[2024.03.13-01.02.21:568][609]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.03.13-01.02.21:568][609]LogWorldPartition: Display: GetPartitionedActors took 20 us (total: 124 us)
+[2024.03.13-01.02.21:569][609]LogWorldPartition: Display: GenerateStreaming took 597 us (total: 4 ms)
+[2024.03.13-01.02.21:569][609]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.13-01.02.21:569][609]PIE: New page: PIE session: Finnmap (14/03/2024, 3:02:21 am)
+[2024.03.13-01.02.21:603][609]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Finnmap
+[2024.03.13-01.02.21:617][609]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014223s)
+[2024.03.13-01.02.21:617][609]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Finnmap.Finnmap to /Game/UEDPIE_0_Finnmap.Finnmap (0.014262s)
+[2024.03.13-01.02.21:617][609]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.13-01.02.21:617][609]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.13-01.02.21:618][609]LogAIModule: Creating AISystem for world Finnmap
+[2024.03.13-01.02.21:618][609]LogWorldPartition: ULevel::OnLevelLoaded(Finnmap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.13-01.02.21:618][609]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.13-01.02.21:618][609]LogWorldPartition: UWorldPartition::Initialize(Asset=Finnmap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.03.13-01.02.21:621][609]LogContentBundle: [Finnmap(Standalone)] Creating new contrainer.
+[2024.03.13-01.02.21:623][609]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 1.73 sec)
+[2024.03.13-01.02.21:623][609]LogPlayLevel: PIE: World Init took: (0.004816s)
+[2024.03.13-01.02.21:647][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.03.13-01.02.21:648][609]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.03.13-01.02.21:648][609]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.13-01.02.21:648][609]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.13-01.02.21:648][609]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.13-01.02.21:648][609]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.13-01.02.21:648][609]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.13-01.02.21:648][609]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.13-01.02.21:648][609]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.13-01.02.21:648][609]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.13-01.02.21:649][609]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.13-01.02.21:649][609]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.13-01.02.21:649][609]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.13-01.02.21:651][609]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.13-01.02.21:671][609]LogAudioMixer: Display: Using Audio Hardware Device B24-8 TS Pro (NVIDIA High Definition Audio)
+[2024.03.13-01.02.21:671][609]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.13-01.02.21:671][609]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.13-01.02.21:671][609]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.13-01.02.21:672][609]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.03.13-01.02.21:672][609]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.03.13-01.02.21:674][609]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.03.13-01.02.21:674][609]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.03.13-01.02.21:674][609]LogInit: FAudioDevice initialized with ID 9.
+[2024.03.13-01.02.21:674][609]LogAudio: Display: Audio Device (ID: 9) registered with world 'Finnmap'.
+[2024.03.13-01.02.21:674][609]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.03.13-01.02.21:676][609]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.03.13-01.02.21:683][609]LogWorld: Bringing World /Game/UEDPIE_0_Finnmap.Finnmap up for play (max tick rate 0) at 2024.03.13-14.02.21
+[2024.03.13-01.02.21:684][609]LogWorld: Bringing up level for play took: 0.006466
+[2024.03.13-01.02.21:685][609]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2024.03.13-01.02.21:687][609]PIE: Server logged in
+[2024.03.13-01.02.21:688][609]PIE: Play in editor total start time 0.123 seconds.
+[2024.03.13-01.02.21:691][609]LogBlueprintUserMessages: [Ingredient1_C_UAID_00E2696DD10DD0DF01_1612725259] 1
+[2024.03.13-01.02.21:692][609]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D07E201_2058731049] Carrot
+[2024.03.13-01.02.21:692][609]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D07E201_2058731049] Obj Type
+[2024.03.13-01.02.21:692][609]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D09E201_1250524399] Carrot
+[2024.03.13-01.02.21:692][609]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D09E201_1250524399] Obj Type
+[2024.03.13-01.02.21:692][609]LogBlueprintUserMessages: [BP_IngredientEye_C_UAID_00E2696DD10D07E201_2121362050] Eye
+[2024.03.13-01.02.21:692][609]LogBlueprintUserMessages: [BP_IngredientEye_C_UAID_00E2696DD10D07E201_2121362050] Obj Type
+[2024.03.13-01.02.21:706][609]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'AmbienceLoop'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.03.13-01.02.21:712][609]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.13-01.02.21:713][609]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.13-01.02.21:713][609]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.13-01.02.21:713][609]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.13-01.02.21:714][609]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.13-01.02.21:714][609]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.13-01.02.21:715][609]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.13-01.02.21:715][609]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.13-01.02.21:716][609]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.13-01.02.21:716][609]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.13-01.02.21:718][609]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.13-01.02.21:729][610]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.13-01.02.21:730][610]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.13-01.02.21:730][610]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.13-01.02.21:731][610]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.13-01.02.21:731][610]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.13-01.02.21:731][610]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.13-01.02.21:732][610]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.13-01.02.21:732][610]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.13-01.02.21:733][610]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.13-01.02.21:734][610]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.13-01.02.21:736][610]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.13-01.02.22:365][665]LogBlueprintUserMessages: [BP_IngredientEye_C_UAID_00E2696DD10D07E201_2121362050] 1
+[2024.03.13-01.02.22:664][699]LogBlueprintUserMessages: [BP_IngredientEye_C_UAID_00E2696DD10D07E201_2121362050] 1
+[2024.03.13-01.02.22:697][703]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D07E201_2058731049] 3
+[2024.03.13-01.02.23:873][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.13-01.02.23:873][835]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Finnmap
+[2024.03.13-01.02.23:874][835]LogWorld: UWorld::CleanupWorld for Finnmap, bSessionEnded=true, bCleanupResources=true
+[2024.03.13-01.02.23:875][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-01.02.23:875][835]LogContentBundle: [Finnmap(Standalone)] Deleting container.
+[2024.03.13-01.02.23:887][835]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.13-01.02.23:893][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-01.02.23:920][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.13-01.02.23:920][835]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.03.13-01.02.23:920][835]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.03.13-01.02.23:922][835]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.03.13-01.02.23:929][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.03.13-01.02.23:963][835]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.13-01.02.23:971][836]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2024.03.13-01.02.23:990][836]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.13-01.02.28:587][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.03.13-01.02.57:433][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.03.13-01.02.57:435][473]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MainmenuMap.MainmenuMap
+[2024.03.13-01.02.57:435][473]Cmd: MAP LOAD FILE="../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Content/MainmenuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.03.13-01.02.57:435][473]LightingResults: New page: Lighting Build
+[2024.03.13-01.02.57:435][473]LoadErrors: New page: Loading map: MainmenuMap.umap
+[2024.03.13-01.02.57:441][473]LogWorld: UWorld::CleanupWorld for Finnmap, bSessionEnded=true, bCleanupResources=true
+[2024.03.13-01.02.57:441][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-01.02.57:448][473]LogContentBundle: [Finnmap(Standalone)] Deleting container.
+[2024.03.13-01.02.57:448][473]MapCheck: New page: Map Check
+[2024.03.13-01.02.57:448][473]LightingResults: New page: Lighting Build
+[2024.03.13-01.02.57:470][473]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.13-01.02.57:477][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.03.13-01.02.57:481][473]LogWorld: UWorld::CleanupWorld for MainmenuMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.13-01.02.57:481][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-01.02.57:507][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.03.13-01.02.57:533][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.03.13-01.02.57:539][473]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainmenuMap'.
+[2024.03.13-01.02.57:539][473]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.13-01.02.57:539][473]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.13-01.02.57:540][473]LogAIModule: Creating AISystem for world MainmenuMap
+[2024.03.13-01.02.57:563][473]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.03.13-01.02.57:589][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.03.13-01.02.57:592][473]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.03.13-01.02.57:592][473]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.119ms to complete.
+[2024.03.13-01.02.57:592][473]LogFileHelpers: Loading map 'MainmenuMap' took 0.157
+[2024.03.13-01.02.57:606][473]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.03.13-01.02.58:944][627]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2024.03.13-01.02.58:974][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.03.13-01.05.37:309][292]LogHttp: Warning: 00000AEE9A5E0500: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0EA84272-47B4-66CE-F81C-C4835F1134AC%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=ae6238ea48eb3192c6c77fab4c33baa1%7Cf2eb388ee1dd4c838e41a655497f343f%7C802cc5a6-bc51-4942-8839-278e8bc56ace&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.13-01.05.37:309][292]LogHttp: Warning: 00000AEE9A5E0500: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.13-01.05.37:309][292]LogHttp: Warning: 00000AEE9A5E0500: libcurl info message cache 0 (Found bundle for host: 0xaee41970960 [serially])
+[2024.03.13-01.05.37:309][292]LogHttp: Warning: 00000AEE9A5E0500: libcurl info message cache 1 (Re-using existing connection #5 with host datarouter.ol.epicgames.com)
+[2024.03.13-01.05.37:309][292]LogHttp: Warning: 00000AEE9A5E0500: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (107.22.176.201) port 443 (#5))
+[2024.03.13-01.05.37:309][292]LogHttp: Warning: 00000AEE9A5E0500: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.13-01.05.37:309][292]LogHttp: Warning: 00000AEE9A5E0500: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.13-01.05.37:309][292]LogHttp: Warning: 00000AEE9A5E0500: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.13-01.05.37:309][292]LogHttp: Warning: 00000AEE9A5E0500: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.13-01.05.37:309][292]LogHttp: Warning: 00000AEE9A5E0500: libcurl info message cache 7 (Closing connection 5)
+[2024.03.13-01.05.37:309][292]LogHttp: Warning: 00000AEE9A5E0500: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.13-01.05.37:309][292]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0EA84272-47B4-66CE-F81C-C4835F1134AC%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=ae6238ea48eb3192c6c77fab4c33baa1%7Cf2eb388ee1dd4c838e41a655497f343f%7C802cc5a6-bc51-4942-8839-278e8bc56ace&AppEnvironment=datacollector-binary&UploadType=eteventstream
