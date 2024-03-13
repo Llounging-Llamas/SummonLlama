@@ -1748,3 +1748,647 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.13-01.12.44:039][911]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
 [2024.03.13-01.12.44:050][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
 [2024.03.13-01.12.44:063][912]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.03.13-01.13.22:867][854]LogDerivedDataCache: C:/Users/RTX RYZEN/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:16.208 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 8783 files in 11443 folders with total size 988 MiB.
+[2024.03.13-01.14.12:604][367]LogHttp: Warning: 000004158F2C7D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCAE18F77-4451-8CD0-188C-D19CDD4D374A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=ae6238ea48eb3192c6c77fab4c33baa1%7Cf2eb388ee1dd4c838e41a655497f343f%7C802cc5a6-bc51-4942-8839-278e8bc56ace&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.13-01.14.12:604][367]LogHttp: Warning: 000004158F2C7D00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.13-01.14.12:604][367]LogHttp: Warning: 000004158F2C7D00: libcurl info message cache 0 (Found bundle for host: 0x41554160000 [serially])
+[2024.03.13-01.14.12:604][367]LogHttp: Warning: 000004158F2C7D00: libcurl info message cache 1 (Re-using existing connection #0 with host datarouter.ol.epicgames.com)
+[2024.03.13-01.14.12:604][367]LogHttp: Warning: 000004158F2C7D00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.210.4.173) port 443 (#0))
+[2024.03.13-01.14.12:604][367]LogHttp: Warning: 000004158F2C7D00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.13-01.14.12:604][367]LogHttp: Warning: 000004158F2C7D00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.13-01.14.12:604][367]LogHttp: Warning: 000004158F2C7D00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.13-01.14.12:604][367]LogHttp: Warning: 000004158F2C7D00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.13-01.14.12:604][367]LogHttp: Warning: 000004158F2C7D00: libcurl info message cache 7 (Closing connection 0)
+[2024.03.13-01.14.12:604][367]LogHttp: Warning: 000004158F2C7D00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.13-01.14.12:604][367]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCAE18F77-4451-8CD0-188C-D19CDD4D374A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=ae6238ea48eb3192c6c77fab4c33baa1%7Cf2eb388ee1dd4c838e41a655497f343f%7C802cc5a6-bc51-4942-8839-278e8bc56ace&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.13-01.15.00:880][739]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.13-01.15.00:936][739]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.13-01.15.01:017][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/BP_Cauldron" FILE="../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Content/Objects/BP_Cauldron.uasset" SILENT=true
+[2024.03.13-01.15.01:058][739]LogSavePackage: Moving output files for package: /Game/Objects/BP_Cauldron
+[2024.03.13-01.15.01:058][739]LogSavePackage: Moving '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Saved/BP_Cauldron2998223844D13B900A860A89FBACE901.tmp' to '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Content/Objects/BP_Cauldron.uasset'
+[2024.03.13-01.15.01:067][739]LogFileHelpers: InternalPromptForCheckoutAndSave took 185 ms (total: 460 ms)
+[2024.03.13-01.15.01:073][739]AssetCheck: New page: Asset Save: BP_Cauldron
+[2024.03.13-01.15.01:073][739]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Objects/BP_Cauldron.BP_Cauldron
+[2024.03.13-01.15.01:571][799]BlueprintLog: New page: Compile BP_Cauldron
+[2024.03.13-01.15.01:636][799]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.03.13-01.15.50:222][472]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.03.13-01.15.50:222][472]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.03.13-01.16.24:867][493]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.03.13-01.17.13:557][274]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.13-01.17.13:661][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/BP_Cauldron" FILE="../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Content/Objects/BP_Cauldron.uasset" SILENT=true
+[2024.03.13-01.17.13:702][274]LogSavePackage: Moving output files for package: /Game/Objects/BP_Cauldron
+[2024.03.13-01.17.13:702][274]LogSavePackage: Moving '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Saved/BP_CauldronAFA0920346AC1A06D1A8CCAA0E7A56A6.tmp' to '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Content/Objects/BP_Cauldron.uasset'
+[2024.03.13-01.17.13:709][274]LogFileHelpers: InternalPromptForCheckoutAndSave took 153 ms (total: 614 ms)
+[2024.03.13-01.17.13:715][274]AssetCheck: New page: Asset Save: BP_Cauldron
+[2024.03.13-01.17.13:715][274]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Objects/BP_Cauldron.BP_Cauldron
+[2024.03.13-01.17.20:322][ 37]BlueprintLog: New page: Compile BP_Cauldron
+[2024.03.13-01.17.20:388][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.03.13-01.17.20:830][ 61]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.13-01.17.20:922][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/BP_Cauldron" FILE="../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Content/Objects/BP_Cauldron.uasset" SILENT=true
+[2024.03.13-01.17.20:963][ 61]LogSavePackage: Moving output files for package: /Game/Objects/BP_Cauldron
+[2024.03.13-01.17.20:964][ 61]LogSavePackage: Moving '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Saved/BP_CauldronBE629C87476045530BB97C81F6E2DBFF.tmp' to '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Content/Objects/BP_Cauldron.uasset'
+[2024.03.13-01.17.20:971][ 61]LogFileHelpers: InternalPromptForCheckoutAndSave took 140 ms (total: 754 ms)
+[2024.03.13-01.17.20:976][ 61]AssetCheck: New page: Asset Save: BP_Cauldron
+[2024.03.13-01.17.20:976][ 61]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Objects/BP_Cauldron.BP_Cauldron
+[2024.03.13-01.18.07:504][259]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.13-01.18.07:592][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/BP_Cauldron" FILE="../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Content/Objects/BP_Cauldron.uasset" SILENT=true
+[2024.03.13-01.18.07:634][259]LogSavePackage: Moving output files for package: /Game/Objects/BP_Cauldron
+[2024.03.13-01.18.07:635][259]LogSavePackage: Moving '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Saved/BP_Cauldron02827D5A466D4942ACB4869E248CA687.tmp' to '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Content/Objects/BP_Cauldron.uasset'
+[2024.03.13-01.18.07:643][259]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 893 ms)
+[2024.03.13-01.18.07:649][259]AssetCheck: New page: Asset Save: BP_Cauldron
+[2024.03.13-01.18.07:649][259]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Objects/BP_Cauldron.BP_Cauldron
+[2024.03.13-01.18.08:537][363]BlueprintLog: New page: Compile BP_Cauldron
+[2024.03.13-01.18.08:602][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.03.13-01.18.09:826][484]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.13-01.18.09:833][484]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.13-01.18.09:833][484]PIE: New page: PIE session: MainmenuMap (14/03/2024, 3:18:09 am)
+[2024.03.13-01.18.09:833][484]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainmenuMap
+[2024.03.13-01.18.09:834][484]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001050s)
+[2024.03.13-01.18.09:834][484]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainmenuMap.MainmenuMap to /Game/UEDPIE_0_MainmenuMap.MainmenuMap (0.001082s)
+[2024.03.13-01.18.09:834][484]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.13-01.18.09:834][484]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.13-01.18.09:835][484]LogAIModule: Creating AISystem for world MainmenuMap
+[2024.03.13-01.18.09:835][484]LogPlayLevel: PIE: World Init took: (0.000752s)
+[2024.03.13-01.18.09:857][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.03.13-01.18.09:861][484]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.03.13-01.18.09:861][484]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.13-01.18.09:861][484]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.13-01.18.09:861][484]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.13-01.18.09:861][484]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.13-01.18.09:861][484]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.13-01.18.09:861][484]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.13-01.18.09:861][484]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.13-01.18.09:861][484]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.13-01.18.09:861][484]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.13-01.18.09:861][484]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.13-01.18.09:861][484]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.13-01.18.09:863][484]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.13-01.18.09:885][484]LogAudioMixer: Display: Using Audio Hardware Device B24-8 TS Pro (NVIDIA High Definition Audio)
+[2024.03.13-01.18.09:886][484]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.13-01.18.09:886][484]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.13-01.18.09:886][484]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.13-01.18.09:886][484]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.03.13-01.18.09:886][484]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.03.13-01.18.09:889][484]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.03.13-01.18.09:889][484]LogInit: FAudioDevice initialized with ID 5.
+[2024.03.13-01.18.09:889][484]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.03.13-01.18.09:889][484]LogAudio: Display: Audio Device (ID: 5) registered with world 'MainmenuMap'.
+[2024.03.13-01.18.09:889][484]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.03.13-01.18.09:952][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.13-01.18.09:952][484]LogLoad: Game class is 'Menugamemode_C'
+[2024.03.13-01.18.09:953][484]LogWorld: Bringing World /Game/UEDPIE_0_MainmenuMap.MainmenuMap up for play (max tick rate 0) at 2024.03.13-14.18.09
+[2024.03.13-01.18.09:953][484]LogWorld: Bringing up level for play took: 0.000362
+[2024.03.13-01.18.09:955][484]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2024.03.13-01.18.09:955][484]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.03.13-01.18.09:956][484]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.03.13-01.18.09:956][484]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.03.13-01.18.09:962][484]PIE: Server logged in
+[2024.03.13-01.18.09:967][484]PIE: Play in editor total start time 0.134 seconds.
+[2024.03.13-01.18.09:975][484]LogViewport: Scene viewport resized to 1914x992, mode Windowed.
+[2024.03.13-01.18.11:711][671]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.03.13-01.18.11:711][671]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.03.13-01.18.11:712][671]LogNet: Browse: /Game/Finnmap
+[2024.03.13-01.18.11:712][671]LogLoad: LoadMap: /Game/Finnmap
+[2024.03.13-01.18.11:712][671]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainmenuMap
+[2024.03.13-01.18.11:712][671]LogWorld: UWorld::CleanupWorld for MainmenuMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.13-01.18.11:712][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-01.18.11:769][671]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.13-01.18.11:771][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.03.13-01.18.11:794][671]LogAudio: Display: Audio Device (ID: 5) registered with world 'Finnmap'.
+[2024.03.13-01.18.11:794][671]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.13-01.18.11:794][671]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.13-01.18.11:794][671]LogAIModule: Creating AISystem for world Finnmap
+[2024.03.13-01.18.11:794][671]LogWorldPartition: ULevel::OnLevelLoaded(Finnmap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.13-01.18.11:794][671]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.13-01.18.11:794][671]LogWorldPartition: UWorldPartition::Initialize(Asset=Finnmap, IsEditor=0, bPIEWorldTravel=1 IsGame=0, IsCooking=0)
+[2024.03.13-01.18.11:802][671]LogWorldPartition: Display: GenerateStreaming started...
+[2024.03.13-01.18.11:802][671]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.03.13-01.18.11:802][671]LogWorldPartition: Display: GetPartitionedActors took 13 us (total: 53 us)
+[2024.03.13-01.18.11:890][671]LogWorldPartition: Display: GenerateStreaming took 88 ms (total: 572 ms)
+[2024.03.13-01.18.11:894][671]LogContentBundle: [Finnmap(Standalone)] Creating new contrainer.
+[2024.03.13-01.18.11:894][671]LogWorldPartition: Display: WorldPartition initialize took 99 ms (total: 619 ms)
+[2024.03.13-01.18.11:894][671]LogPlayLevel: PIE: World Init took: (0.100492s)
+[2024.03.13-01.18.11:894][671]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.03.13-01.18.11:909][671]LogWorld: Bringing World /Game/UEDPIE_0_Finnmap.Finnmap up for play (max tick rate 0) at 2024.03.13-14.18.11
+[2024.03.13-01.18.11:910][671]LogWorld: Bringing up level for play took: 0.016052
+[2024.03.13-01.18.11:912][671]LogLoad: Took 0.200642 seconds to LoadMap(/Game/Finnmap)
+[2024.03.13-01.18.11:915][671]LogBlueprintUserMessages: [Ingredient1_C_UAID_00E2696DD10DD0DF01_1612725259] 1
+[2024.03.13-01.18.11:915][671]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_D8BBC18EB82009E201_1827569400] Carrot
+[2024.03.13-01.18.11:915][671]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_D8BBC18EB82009E201_1827569400] Obj Type
+[2024.03.13-01.18.11:915][671]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_D8BBC18EB82009E201_1825044399] Carrot
+[2024.03.13-01.18.11:915][671]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_D8BBC18EB82009E201_1825044399] Obj Type
+[2024.03.13-01.18.11:915][671]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D09E201_1250524399] Carrot
+[2024.03.13-01.18.11:915][671]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D09E201_1250524399] Obj Type
+[2024.03.13-01.18.11:915][671]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D07E201_2058731049] Carrot
+[2024.03.13-01.18.11:915][671]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D07E201_2058731049] Obj Type
+[2024.03.13-01.18.11:915][671]LogBlueprintUserMessages: [BP_IngredientEye_C_UAID_00E2696DD10D07E201_2121362050] Eye
+[2024.03.13-01.18.11:915][671]LogBlueprintUserMessages: [BP_IngredientEye_C_UAID_00E2696DD10D07E201_2121362050] Obj Type
+[2024.03.13-01.18.11:919][671]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'AmbienceLoop'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.03.13-01.18.12:025][674]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D09E201_1250524399] 3
+[2024.03.13-01.18.12:067][677]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D09E201_1250524399] 3
+[2024.03.13-01.18.12:312][695]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_D8BBC18EB82009E201_1827569400] 3
+[2024.03.13-01.18.12:312][695]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_D8BBC18EB82009E201_1825044399] 3
+[2024.03.13-01.18.12:616][718]LogHttp: Warning: 00000415CDEFD700: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCAE18F77-4451-8CD0-188C-D19CDD4D374A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=ae6238ea48eb3192c6c77fab4c33baa1%7Cf2eb388ee1dd4c838e41a655497f343f%7C802cc5a6-bc51-4942-8839-278e8bc56ace&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.13-01.18.12:616][718]LogHttp: Warning: 00000415CDEFD700: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.13-01.18.12:616][718]LogHttp: Warning: 00000415CDEFD700: libcurl info message cache 0 (Found bundle for host: 0x41554160780 [serially])
+[2024.03.13-01.18.12:616][718]LogHttp: Warning: 00000415CDEFD700: libcurl info message cache 1 (Re-using existing connection #1 with host datarouter.ol.epicgames.com)
+[2024.03.13-01.18.12:616][718]LogHttp: Warning: 00000415CDEFD700: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (35.172.3.149) port 443 (#1))
+[2024.03.13-01.18.12:616][718]LogHttp: Warning: 00000415CDEFD700: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.13-01.18.12:616][718]LogHttp: Warning: 00000415CDEFD700: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.13-01.18.12:616][718]LogHttp: Warning: 00000415CDEFD700: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.13-01.18.12:616][718]LogHttp: Warning: 00000415CDEFD700: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.13-01.18.12:616][718]LogHttp: Warning: 00000415CDEFD700: libcurl info message cache 7 (Closing connection 1)
+[2024.03.13-01.18.12:616][718]LogHttp: Warning: 00000415CDEFD700: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.13-01.18.12:616][718]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCAE18F77-4451-8CD0-188C-D19CDD4D374A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=ae6238ea48eb3192c6c77fab4c33baa1%7Cf2eb388ee1dd4c838e41a655497f343f%7C802cc5a6-bc51-4942-8839-278e8bc56ace&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.13-01.18.12:843][735]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D07E201_2058731049] 3
+[2024.03.13-01.18.14:031][825]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D09E201_1250524399] Item Picked Up
+[2024.03.13-01.18.15:885][966]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D09E201_1250524399] 3
+[2024.03.13-01.18.16:855][ 39]LogBlueprintUserMessages: [BP_IngredientEye_C_UAID_00E2696DD10D07E201_2121362050] Item Picked Up
+[2024.03.13-01.18.18:199][139]LogBlueprintUserMessages: [BP_IngredientEye_C_0] 1
+[2024.03.13-01.18.18:199][139]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] spawned in dropped item
+[2024.03.13-01.18.18:200][139]LogBlueprintUserMessages: [BP_IngredientEye_C_0] 1
+[2024.03.13-01.18.18:200][139]LogBlueprintUserMessages: [BP_IngredientCarrot_C_0] 3
+[2024.03.13-01.18.18:200][139]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] spawned in dropped item
+[2024.03.13-01.18.18:201][139]LogBlueprintUserMessages: [BP_IngredientEye_C_0] 1
+[2024.03.13-01.18.18:201][139]LogBlueprintUserMessages: [BP_IngredientEye_C_0] 1
+[2024.03.13-01.18.18:201][139]LogBlueprintUserMessages: [BP_Cauldron_C_UAID_00E2696DD10DCFDF01_2100869079] eye added
+[2024.03.13-01.18.18:202][139]LogBlueprintUserMessages: [BP_IngredientCarrot_C_0] 3
+[2024.03.13-01.18.18:202][139]LogBlueprintUserMessages: [BP_IngredientCarrot_C_0] 3
+[2024.03.13-01.18.18:202][139]LogBlueprintUserMessages: [BP_IngredientCarrot_C_0] 3
+[2024.03.13-01.18.18:202][139]LogBlueprintUserMessages: [BP_Cauldron_C_UAID_00E2696DD10DCFDF01_2100869079] carrot added
+[2024.03.13-01.18.20:606][320]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_D8BBC18EB82009E201_1825044399] Item Picked Up
+[2024.03.13-01.18.21:355][375]LogBlueprintUserMessages: [BP_IngredientCarrot_C_1] 3
+[2024.03.13-01.18.21:355][375]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] spawned in dropped item
+[2024.03.13-01.18.21:356][375]LogBlueprintUserMessages: [BP_IngredientCarrot_C_1] 3
+[2024.03.13-01.18.21:356][375]LogBlueprintUserMessages: [BP_IngredientCarrot_C_1] 3
+[2024.03.13-01.18.21:356][375]LogBlueprintUserMessages: [BP_IngredientCarrot_C_1] 3
+[2024.03.13-01.18.21:356][375]LogBlueprintUserMessages: [BP_Cauldron_C_UAID_00E2696DD10DCFDF01_2100869079] carrot added
+[2024.03.13-01.18.21:356][375]LogBlueprintUserMessages: [BP_Cauldron_C_UAID_00E2696DD10DCFDF01_2100869079] RECIPE WRONG!
+[2024.03.13-01.18.21:868][414]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] not at chopping block
+[2024.03.13-01.18.21:868][414]LogBlueprintUserMessages: [BP_Cauldron_C_UAID_00E2696DD10DCFDF01_2100869079] Summoning demon
+[2024.03.13-01.18.21:868][414]LogBlueprintUserMessages: [BP_SummoningCircle_C_UAID_00E2696DD10DD0DF01_1093421256] SUMMON SPAWN BAD
+[2024.03.13-01.18.34:958][417]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.13-01.18.34:958][417]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Finnmap
+[2024.03.13-01.18.34:959][417]LogSlate: Window 'SummonLlama Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.03.13-01.18.34:964][417]LogWorld: UWorld::CleanupWorld for Finnmap, bSessionEnded=true, bCleanupResources=true
+[2024.03.13-01.18.34:965][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-01.18.34:966][417]LogContentBundle: [Finnmap(Standalone)] Deleting container.
+[2024.03.13-01.18.34:967][417]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.13-01.18.34:973][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-01.18.34:995][417]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.13-01.18.34:995][417]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.03.13-01.18.34:995][417]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.03.13-01.18.34:997][417]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.03.13-01.18.35:009][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.03.13-01.18.35:024][418]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2024.03.13-01.20.16:230][633]AssetReimport: New page: Outstanding source content changes 3:20:16 am
+[2024.03.13-01.20.16:233][633]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:/Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Content/Sounds/deaddemonreaction.wav)
+[2024.03.13-01.20.16:299][633]LogAudio: Display: Chunk size for SoundWave /Game/Sounds/deaddemonreaction.deaddemonreaction: 262144
+[2024.03.13-01.20.16:328][634]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.13-01.20.16:529][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/deaddemonreaction" FILE="../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Content/Sounds/deaddemonreaction.uasset" SILENT=true
+[2024.03.13-01.20.16:535][634]LogSavePackage: Moving output files for package: /Game/Sounds/deaddemonreaction
+[2024.03.13-01.20.16:535][634]LogSavePackage: Moving '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Saved/deaddemonreaction900402864711F23F47A79A9811C90BA9.tmp' to '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Content/Sounds/deaddemonreaction.uasset'
+[2024.03.13-01.20.16:632][634]LogFileHelpers: InternalPromptForCheckoutAndSave took 303 ms (total: 1.19 sec)
+[2024.03.13-01.20.16:692][635]AssetCheck: New page: Asset Save: deaddemonreaction
+[2024.03.13-01.20.16:692][635]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Sounds/deaddemonreaction.deaddemonreaction
+[2024.03.13-01.20.19:643][920]AssetReimport: Importing new asset /Game/Sounds/deaddemonreaction.
+[2024.03.13-01.20.24:926][518]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.13-01.20.25:041][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/BP_Cauldron" FILE="../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Content/Objects/BP_Cauldron.uasset" SILENT=true
+[2024.03.13-01.20.25:082][518]LogSavePackage: Moving output files for package: /Game/Objects/BP_Cauldron
+[2024.03.13-01.20.25:083][518]LogSavePackage: Moving '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Saved/BP_Cauldron4DC1917844816D1FAE61268E3219ADBD.tmp' to '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Content/Objects/BP_Cauldron.uasset'
+[2024.03.13-01.20.25:091][518]LogFileHelpers: InternalPromptForCheckoutAndSave took 164 ms (total: 1.36 sec)
+[2024.03.13-01.20.25:098][518]AssetCheck: New page: Asset Save: BP_Cauldron
+[2024.03.13-01.20.25:098][518]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Objects/BP_Cauldron.BP_Cauldron
+[2024.03.13-01.20.25:593][576]BlueprintLog: New page: Compile BP_Cauldron
+[2024.03.13-01.20.25:658][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.03.13-01.20.26:535][658]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.13-01.20.26:541][658]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.13-01.20.26:541][658]PIE: New page: PIE session: MainmenuMap (14/03/2024, 3:20:26 am)
+[2024.03.13-01.20.26:541][658]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainmenuMap
+[2024.03.13-01.20.26:542][658]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001053s)
+[2024.03.13-01.20.26:542][658]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainmenuMap.MainmenuMap to /Game/UEDPIE_0_MainmenuMap.MainmenuMap (0.001092s)
+[2024.03.13-01.20.26:542][658]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.13-01.20.26:542][658]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.13-01.20.26:542][658]LogAIModule: Creating AISystem for world MainmenuMap
+[2024.03.13-01.20.26:543][658]LogPlayLevel: PIE: World Init took: (0.000781s)
+[2024.03.13-01.20.26:568][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.03.13-01.20.26:572][658]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.03.13-01.20.26:572][658]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.13-01.20.26:572][658]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.13-01.20.26:572][658]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.13-01.20.26:572][658]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.13-01.20.26:572][658]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.13-01.20.26:572][658]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.13-01.20.26:572][658]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.13-01.20.26:572][658]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.13-01.20.26:572][658]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.13-01.20.26:572][658]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.13-01.20.26:572][658]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.13-01.20.26:574][658]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.13-01.20.26:597][658]LogAudioMixer: Display: Using Audio Hardware Device B24-8 TS Pro (NVIDIA High Definition Audio)
+[2024.03.13-01.20.26:597][658]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.13-01.20.26:597][658]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.13-01.20.26:597][658]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.13-01.20.26:598][658]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.03.13-01.20.26:598][658]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.03.13-01.20.26:600][658]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.03.13-01.20.26:600][658]LogInit: FAudioDevice initialized with ID 6.
+[2024.03.13-01.20.26:600][658]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.03.13-01.20.26:600][658]LogAudio: Display: Audio Device (ID: 6) registered with world 'MainmenuMap'.
+[2024.03.13-01.20.26:600][658]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.03.13-01.20.26:653][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.13-01.20.26:653][658]LogLoad: Game class is 'Menugamemode_C'
+[2024.03.13-01.20.26:654][658]LogWorld: Bringing World /Game/UEDPIE_0_MainmenuMap.MainmenuMap up for play (max tick rate 0) at 2024.03.13-14.20.26
+[2024.03.13-01.20.26:654][658]LogWorld: Bringing up level for play took: 0.000459
+[2024.03.13-01.20.26:657][658]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2024.03.13-01.20.26:657][658]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.03.13-01.20.26:658][658]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.03.13-01.20.26:658][658]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.03.13-01.20.26:664][658]PIE: Server logged in
+[2024.03.13-01.20.26:668][658]PIE: Play in editor total start time 0.128 seconds.
+[2024.03.13-01.20.26:677][658]LogViewport: Scene viewport resized to 1914x992, mode Windowed.
+[2024.03.13-01.20.28:707][877]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.03.13-01.20.28:708][877]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.03.13-01.20.28:708][877]LogNet: Browse: /Game/Finnmap
+[2024.03.13-01.20.28:708][877]LogLoad: LoadMap: /Game/Finnmap
+[2024.03.13-01.20.28:708][877]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainmenuMap
+[2024.03.13-01.20.28:709][877]LogWorld: UWorld::CleanupWorld for MainmenuMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.13-01.20.28:709][877]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-01.20.28:759][877]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.13-01.20.28:761][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.03.13-01.20.28:783][877]LogAudio: Display: Audio Device (ID: 6) registered with world 'Finnmap'.
+[2024.03.13-01.20.28:783][877]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.13-01.20.28:784][877]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.13-01.20.28:784][877]LogAIModule: Creating AISystem for world Finnmap
+[2024.03.13-01.20.28:784][877]LogWorldPartition: ULevel::OnLevelLoaded(Finnmap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.13-01.20.28:784][877]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.13-01.20.28:784][877]LogWorldPartition: UWorldPartition::Initialize(Asset=Finnmap, IsEditor=0, bPIEWorldTravel=1 IsGame=0, IsCooking=0)
+[2024.03.13-01.20.28:792][877]LogWorldPartition: Display: GenerateStreaming started...
+[2024.03.13-01.20.28:792][877]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.03.13-01.20.28:792][877]LogWorldPartition: Display: GetPartitionedActors took 13 us (total: 67 us)
+[2024.03.13-01.20.28:878][877]LogWorldPartition: Display: GenerateStreaming took 86 ms (total: 659 ms)
+[2024.03.13-01.20.28:882][877]LogContentBundle: [Finnmap(Standalone)] Creating new contrainer.
+[2024.03.13-01.20.28:882][877]LogWorldPartition: Display: WorldPartition initialize took 97 ms (total: 717 ms)
+[2024.03.13-01.20.28:882][877]LogPlayLevel: PIE: World Init took: (0.098527s)
+[2024.03.13-01.20.28:882][877]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.03.13-01.20.28:898][877]LogWorld: Bringing World /Game/UEDPIE_0_Finnmap.Finnmap up for play (max tick rate 0) at 2024.03.13-14.20.28
+[2024.03.13-01.20.28:899][877]LogWorld: Bringing up level for play took: 0.016032
+[2024.03.13-01.20.28:901][877]LogLoad: Took 0.191913 seconds to LoadMap(/Game/Finnmap)
+[2024.03.13-01.20.28:903][877]LogBlueprintUserMessages: [Ingredient1_C_UAID_00E2696DD10DD0DF01_1612725259] 1
+[2024.03.13-01.20.28:903][877]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_D8BBC18EB82009E201_1827569400] Carrot
+[2024.03.13-01.20.28:903][877]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_D8BBC18EB82009E201_1827569400] Obj Type
+[2024.03.13-01.20.28:903][877]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_D8BBC18EB82009E201_1825044399] Carrot
+[2024.03.13-01.20.28:903][877]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_D8BBC18EB82009E201_1825044399] Obj Type
+[2024.03.13-01.20.28:903][877]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D09E201_1250524399] Carrot
+[2024.03.13-01.20.28:903][877]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D09E201_1250524399] Obj Type
+[2024.03.13-01.20.28:903][877]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D07E201_2058731049] Carrot
+[2024.03.13-01.20.28:903][877]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D07E201_2058731049] Obj Type
+[2024.03.13-01.20.28:903][877]LogBlueprintUserMessages: [BP_IngredientEye_C_UAID_00E2696DD10D07E201_2121362050] Eye
+[2024.03.13-01.20.28:903][877]LogBlueprintUserMessages: [BP_IngredientEye_C_UAID_00E2696DD10D07E201_2121362050] Obj Type
+[2024.03.13-01.20.28:907][877]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'AmbienceLoop'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.03.13-01.20.29:005][880]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D09E201_1250524399] 3
+[2024.03.13-01.20.29:048][883]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D09E201_1250524399] 3
+[2024.03.13-01.20.29:292][902]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_D8BBC18EB82009E201_1827569400] 3
+[2024.03.13-01.20.29:292][902]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_D8BBC18EB82009E201_1825044399] 3
+[2024.03.13-01.20.29:865][945]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D07E201_2058731049] 3
+[2024.03.13-01.20.30:369][983]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_D8BBC18EB82009E201_1827569400] Item Picked Up
+[2024.03.13-01.20.31:345][ 56]LogBlueprintUserMessages: [BP_IngredientCarrot_C_0] 3
+[2024.03.13-01.20.31:345][ 56]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] spawned in dropped item
+[2024.03.13-01.20.31:346][ 56]LogBlueprintUserMessages: [BP_IngredientCarrot_C_0] 3
+[2024.03.13-01.20.31:346][ 56]LogBlueprintUserMessages: [BP_IngredientCarrot_C_0] 3
+[2024.03.13-01.20.31:346][ 56]LogBlueprintUserMessages: [BP_Cauldron_C_UAID_00E2696DD10DCFDF01_2100869079] carrot added
+[2024.03.13-01.20.31:718][ 84]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D07E201_2058731049] 3
+[2024.03.13-01.20.34:941][330]LogBlueprintUserMessages: [BP_IngredientEye_C_UAID_00E2696DD10D07E201_2121362050] Item Picked Up
+[2024.03.13-01.20.36:338][436]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D07E201_2058731049] Item Picked Up
+[2024.03.13-01.20.38:180][573]LogBlueprintUserMessages: [BP_IngredientEye_C_0] 1
+[2024.03.13-01.20.38:180][573]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] spawned in dropped item
+[2024.03.13-01.20.38:181][573]LogBlueprintUserMessages: [BP_IngredientEye_C_0] 1
+[2024.03.13-01.20.38:181][573]LogBlueprintUserMessages: [BP_IngredientCarrot_C_1] 3
+[2024.03.13-01.20.38:181][573]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] spawned in dropped item
+[2024.03.13-01.20.38:182][573]LogBlueprintUserMessages: [BP_IngredientEye_C_0] 1
+[2024.03.13-01.20.38:182][573]LogBlueprintUserMessages: [BP_IngredientEye_C_0] 1
+[2024.03.13-01.20.38:182][573]LogBlueprintUserMessages: [BP_Cauldron_C_UAID_00E2696DD10DCFDF01_2100869079] eye added
+[2024.03.13-01.20.38:183][573]LogBlueprintUserMessages: [BP_IngredientCarrot_C_1] 3
+[2024.03.13-01.20.38:183][573]LogBlueprintUserMessages: [BP_IngredientCarrot_C_1] 3
+[2024.03.13-01.20.38:183][573]LogBlueprintUserMessages: [BP_IngredientCarrot_C_1] 3
+[2024.03.13-01.20.38:183][573]LogBlueprintUserMessages: [BP_Cauldron_C_UAID_00E2696DD10DCFDF01_2100869079] carrot added
+[2024.03.13-01.20.38:183][573]LogBlueprintUserMessages: [BP_Cauldron_C_UAID_00E2696DD10DCFDF01_2100869079] RECIPE WRONG!
+[2024.03.13-01.20.44:203][ 49]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] not at chopping block
+[2024.03.13-01.20.44:203][ 49]LogBlueprintUserMessages: [BP_Cauldron_C_UAID_00E2696DD10DCFDF01_2100869079] Summoning demon
+[2024.03.13-01.20.44:204][ 49]LogBlueprintUserMessages: [BP_SummoningCircle_C_UAID_00E2696DD10DD0DF01_1093421256] SUMMON SPAWN BAD
+[2024.03.13-01.20.47:118][277]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] not at chopping block
+[2024.03.13-01.20.47:118][277]LogBlueprintUserMessages: [BP_Cauldron_C_UAID_00E2696DD10DCFDF01_2100869079] Summoning demon
+[2024.03.13-01.20.47:118][277]LogBlueprintUserMessages: [BP_SummoningCircle_C_UAID_00E2696DD10DD0DF01_1093421256] SUMMON SPAWN BAD
+[2024.03.13-01.20.50:072][508]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D07E201_2058731049] Item Picked Up
+[2024.03.13-01.20.50:178][516]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D07E201_2058731049] Item Picked Up
+[2024.03.13-01.20.51:647][626]LogBlueprintUserMessages: [BP_IngredientCarrot_C_2] 3
+[2024.03.13-01.20.51:647][626]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] spawned in dropped item
+[2024.03.13-01.20.51:648][626]LogBlueprintUserMessages: [BP_IngredientCarrot_C_2] 3
+[2024.03.13-01.20.51:649][626]LogBlueprintUserMessages: [BP_IngredientCarrot_C_2] Carrot
+[2024.03.13-01.20.51:649][626]LogBlueprintUserMessages: [BP_IngredientCarrot_C_2] Obj Type
+[2024.03.13-01.20.51:810][638]LogBlueprintUserMessages: [BP_IngredientCarrot_C_3] 3
+[2024.03.13-01.20.51:810][638]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] spawned in dropped item
+[2024.03.13-01.20.51:811][638]LogBlueprintUserMessages: [BP_IngredientCarrot_C_3] 3
+[2024.03.13-01.20.51:811][638]LogBlueprintUserMessages: [BP_IngredientCarrot_C_3] Carrot
+[2024.03.13-01.20.51:811][638]LogBlueprintUserMessages: [BP_IngredientCarrot_C_3] Obj Type
+[2024.03.13-01.20.52:409][686]LogBlueprintUserMessages: [BP_IngredientCarrot_C_3] 3
+[2024.03.13-01.20.52:409][686]LogBlueprintUserMessages: [BP_Cauldron_C_UAID_00E2696DD10DCFDF01_2100869079] carrot added
+[2024.03.13-01.20.54:964][877]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] not at chopping block
+[2024.03.13-01.20.54:964][877]LogBlueprintUserMessages: [BP_Cauldron_C_UAID_00E2696DD10DCFDF01_2100869079] Summoning demon
+[2024.03.13-01.20.54:966][877]LogBlueprintUserMessages: [BP_SummoningCircle_C_UAID_00E2696DD10DD0DF01_1093421256] SUMMON SPAWN BAD
+[2024.03.13-01.20.55:695][932]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] not at chopping block
+[2024.03.13-01.20.55:695][932]LogBlueprintUserMessages: [BP_Cauldron_C_UAID_00E2696DD10DCFDF01_2100869079] Summoning demon
+[2024.03.13-01.20.55:696][932]LogBlueprintUserMessages: [BP_SummoningCircle_C_UAID_00E2696DD10DD0DF01_1093421256] SUMMON SPAWN BAD
+[2024.03.13-01.20.55:916][949]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] not at chopping block
+[2024.03.13-01.20.55:916][949]LogBlueprintUserMessages: [BP_Cauldron_C_UAID_00E2696DD10DCFDF01_2100869079] Summoning demon
+[2024.03.13-01.20.55:917][949]LogBlueprintUserMessages: [BP_SummoningCircle_C_UAID_00E2696DD10DD0DF01_1093421256] SUMMON SPAWN BAD
+[2024.03.13-01.20.57:147][ 39]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.13-01.20.57:147][ 39]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Finnmap
+[2024.03.13-01.20.57:148][ 39]LogSlate: Window 'SummonLlama Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.03.13-01.20.57:153][ 39]LogWorld: UWorld::CleanupWorld for Finnmap, bSessionEnded=true, bCleanupResources=true
+[2024.03.13-01.20.57:154][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-01.20.57:155][ 39]LogContentBundle: [Finnmap(Standalone)] Deleting container.
+[2024.03.13-01.20.57:157][ 39]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.13-01.20.57:163][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-01.20.57:186][ 39]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.03.13-01.20.57:186][ 39]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.03.13-01.20.57:187][ 39]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.03.13-01.20.57:200][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.03.13-01.20.57:214][ 40]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2024.03.13-01.20.58:290][169]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.13-01.20.58:296][169]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.13-01.20.58:296][169]PIE: New page: PIE session: MainmenuMap (14/03/2024, 3:20:58 am)
+[2024.03.13-01.20.58:296][169]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainmenuMap
+[2024.03.13-01.20.58:297][169]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001007s)
+[2024.03.13-01.20.58:297][169]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainmenuMap.MainmenuMap to /Game/UEDPIE_0_MainmenuMap.MainmenuMap (0.001038s)
+[2024.03.13-01.20.58:297][169]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.13-01.20.58:298][169]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.13-01.20.58:298][169]LogAIModule: Creating AISystem for world MainmenuMap
+[2024.03.13-01.20.58:298][169]LogPlayLevel: PIE: World Init took: (0.000730s)
+[2024.03.13-01.20.58:321][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.03.13-01.20.58:322][169]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.03.13-01.20.58:322][169]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.13-01.20.58:322][169]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.13-01.20.58:322][169]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.13-01.20.58:322][169]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.13-01.20.58:322][169]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.13-01.20.58:322][169]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.13-01.20.58:322][169]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.13-01.20.58:322][169]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.13-01.20.58:322][169]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.13-01.20.58:322][169]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.13-01.20.58:322][169]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.13-01.20.58:324][169]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.13-01.20.58:344][169]LogAudioMixer: Display: Using Audio Hardware Device B24-8 TS Pro (NVIDIA High Definition Audio)
+[2024.03.13-01.20.58:346][169]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.13-01.20.58:346][169]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.13-01.20.58:346][169]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.13-01.20.58:346][169]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.03.13-01.20.58:346][169]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.03.13-01.20.58:348][169]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.03.13-01.20.58:348][169]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.03.13-01.20.58:348][169]LogInit: FAudioDevice initialized with ID 7.
+[2024.03.13-01.20.58:348][169]LogAudio: Display: Audio Device (ID: 7) registered with world 'MainmenuMap'.
+[2024.03.13-01.20.58:348][169]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.03.13-01.20.58:401][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.13-01.20.58:401][169]LogLoad: Game class is 'Menugamemode_C'
+[2024.03.13-01.20.58:402][169]LogWorld: Bringing World /Game/UEDPIE_0_MainmenuMap.MainmenuMap up for play (max tick rate 0) at 2024.03.13-14.20.58
+[2024.03.13-01.20.58:402][169]LogWorld: Bringing up level for play took: 0.000725
+[2024.03.13-01.20.58:404][169]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2024.03.13-01.20.58:404][169]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.03.13-01.20.58:407][169]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.03.13-01.20.58:407][169]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.03.13-01.20.58:412][169]PIE: Server logged in
+[2024.03.13-01.20.58:417][169]PIE: Play in editor total start time 0.121 seconds.
+[2024.03.13-01.20.58:426][169]LogViewport: Scene viewport resized to 1914x992, mode Windowed.
+[2024.03.13-01.21.00:458][404]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.03.13-01.21.00:458][404]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.03.13-01.21.00:459][404]LogNet: Browse: /Game/Finnmap
+[2024.03.13-01.21.00:459][404]LogLoad: LoadMap: /Game/Finnmap
+[2024.03.13-01.21.00:459][404]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainmenuMap
+[2024.03.13-01.21.00:459][404]LogWorld: UWorld::CleanupWorld for MainmenuMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.13-01.21.00:459][404]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-01.21.00:509][404]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.13-01.21.00:511][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.03.13-01.21.00:533][404]LogAudio: Display: Audio Device (ID: 7) registered with world 'Finnmap'.
+[2024.03.13-01.21.00:533][404]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.13-01.21.00:533][404]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.13-01.21.00:534][404]LogAIModule: Creating AISystem for world Finnmap
+[2024.03.13-01.21.00:534][404]LogWorldPartition: ULevel::OnLevelLoaded(Finnmap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.13-01.21.00:534][404]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.13-01.21.00:534][404]LogWorldPartition: UWorldPartition::Initialize(Asset=Finnmap, IsEditor=0, bPIEWorldTravel=1 IsGame=0, IsCooking=0)
+[2024.03.13-01.21.00:542][404]LogWorldPartition: Display: GenerateStreaming started...
+[2024.03.13-01.21.00:542][404]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.03.13-01.21.00:542][404]LogWorldPartition: Display: GetPartitionedActors took 12 us (total: 79 us)
+[2024.03.13-01.21.00:622][404]LogWorldPartition: Display: GenerateStreaming took 81 ms (total: 740 ms)
+[2024.03.13-01.21.00:627][404]LogContentBundle: [Finnmap(Standalone)] Creating new contrainer.
+[2024.03.13-01.21.00:627][404]LogWorldPartition: Display: WorldPartition initialize took 92 ms (total: 809 ms)
+[2024.03.13-01.21.00:627][404]LogPlayLevel: PIE: World Init took: (0.093245s)
+[2024.03.13-01.21.00:627][404]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.03.13-01.21.00:642][404]LogWorld: Bringing World /Game/UEDPIE_0_Finnmap.Finnmap up for play (max tick rate 0) at 2024.03.13-14.21.00
+[2024.03.13-01.21.00:642][404]LogWorld: Bringing up level for play took: 0.015813
+[2024.03.13-01.21.00:644][404]LogLoad: Took 0.186083 seconds to LoadMap(/Game/Finnmap)
+[2024.03.13-01.21.00:648][404]LogBlueprintUserMessages: [Ingredient1_C_UAID_00E2696DD10DD0DF01_1612725259] 1
+[2024.03.13-01.21.00:648][404]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_D8BBC18EB82009E201_1827569400] Carrot
+[2024.03.13-01.21.00:648][404]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_D8BBC18EB82009E201_1827569400] Obj Type
+[2024.03.13-01.21.00:648][404]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_D8BBC18EB82009E201_1825044399] Carrot
+[2024.03.13-01.21.00:648][404]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_D8BBC18EB82009E201_1825044399] Obj Type
+[2024.03.13-01.21.00:648][404]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D09E201_1250524399] Carrot
+[2024.03.13-01.21.00:648][404]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D09E201_1250524399] Obj Type
+[2024.03.13-01.21.00:648][404]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D07E201_2058731049] Carrot
+[2024.03.13-01.21.00:648][404]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D07E201_2058731049] Obj Type
+[2024.03.13-01.21.00:648][404]LogBlueprintUserMessages: [BP_IngredientEye_C_UAID_00E2696DD10D07E201_2121362050] Eye
+[2024.03.13-01.21.00:648][404]LogBlueprintUserMessages: [BP_IngredientEye_C_UAID_00E2696DD10D07E201_2121362050] Obj Type
+[2024.03.13-01.21.00:651][404]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'AmbienceLoop'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.03.13-01.21.00:754][407]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D09E201_1250524399] 3
+[2024.03.13-01.21.00:799][410]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D09E201_1250524399] 3
+[2024.03.13-01.21.01:044][428]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_D8BBC18EB82009E201_1827569400] 3
+[2024.03.13-01.21.01:044][428]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_D8BBC18EB82009E201_1825044399] 3
+[2024.03.13-01.21.01:344][450]LogBlueprintUserMessages: [BP_IngredientEye_C_UAID_00E2696DD10D07E201_2121362050] 1
+[2024.03.13-01.21.01:636][472]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D07E201_2058731049] 3
+[2024.03.13-01.21.01:843][487]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_D8BBC18EB82009E201_1827569400] Item Picked Up
+[2024.03.13-01.21.02:913][566]LogBlueprintUserMessages: [BP_IngredientCarrot_C_0] 3
+[2024.03.13-01.21.02:913][566]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] spawned in dropped item
+[2024.03.13-01.21.02:914][566]LogBlueprintUserMessages: [BP_IngredientCarrot_C_0] 3
+[2024.03.13-01.21.02:914][566]LogBlueprintUserMessages: [BP_IngredientCarrot_C_0] 3
+[2024.03.13-01.21.02:914][566]LogBlueprintUserMessages: [BP_IngredientCarrot_C_0] 3
+[2024.03.13-01.21.02:914][566]LogBlueprintUserMessages: [BP_Cauldron_C_UAID_00E2696DD10DCFDF01_2100869079] carrot added
+[2024.03.13-01.21.04:829][711]LogBlueprintUserMessages: [BP_IngredientEye_C_UAID_00E2696DD10D07E201_2121362050] Item Picked Up
+[2024.03.13-01.21.05:439][757]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D07E201_2058731049] Item Picked Up
+[2024.03.13-01.21.05:611][770]LogBlueprintUserMessages: [BP_ChoppingBoard_C_UAID_D8BBC18EB82038E001_1847313559] at chopper
+[2024.03.13-01.21.05:611][770]LogBlueprintUserMessages: [BP_ChoppingBoard_C_UAID_D8BBC18EB82038E001_1847313559] left chopper
+[2024.03.13-01.21.05:623][771]LogBlueprintUserMessages: [BP_ChoppingBoard_C_UAID_D8BBC18EB82038E001_1847313559] at chopper
+[2024.03.13-01.21.05:623][771]LogBlueprintUserMessages: [BP_ChoppingBoard_C_UAID_D8BBC18EB82038E001_1847313559] left chopper
+[2024.03.13-01.21.07:150][884]LogBlueprintUserMessages: [BP_IngredientCarrot_C_1] 3
+[2024.03.13-01.21.07:150][884]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] spawned in dropped item
+[2024.03.13-01.21.07:151][884]LogBlueprintUserMessages: [BP_IngredientCarrot_C_1] 3
+[2024.03.13-01.21.07:151][884]LogBlueprintUserMessages: [BP_IngredientCarrot_C_1] 3
+[2024.03.13-01.21.07:151][884]LogBlueprintUserMessages: [BP_IngredientCarrot_C_1] 3
+[2024.03.13-01.21.07:151][884]LogBlueprintUserMessages: [BP_Cauldron_C_UAID_00E2696DD10DCFDF01_2100869079] carrot added
+[2024.03.13-01.21.07:498][909]LogBlueprintUserMessages: [BP_IngredientEye_C_0] 1
+[2024.03.13-01.21.07:498][909]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] spawned in dropped item
+[2024.03.13-01.21.07:499][909]LogBlueprintUserMessages: [BP_IngredientEye_C_0] 1
+[2024.03.13-01.21.07:499][909]LogBlueprintUserMessages: [BP_IngredientEye_C_0] 1
+[2024.03.13-01.21.07:499][909]LogBlueprintUserMessages: [BP_IngredientEye_C_0] 1
+[2024.03.13-01.21.07:499][909]LogBlueprintUserMessages: [BP_Cauldron_C_UAID_00E2696DD10DCFDF01_2100869079] eye added
+[2024.03.13-01.21.13:949][412]LogBlueprintUserMessages: [Player_C_UAID_D8BBC18EB820D7DF01_2013719487] not at chopping block
+[2024.03.13-01.21.13:949][412]LogBlueprintUserMessages: [BP_Cauldron_C_UAID_00E2696DD10DCFDF01_2100869079] Summoning demon
+[2024.03.13-01.21.13:950][412]LogBlueprintUserMessages: [BP_SummoningCircle_C_UAID_00E2696DD10DD0DF01_1093421256] SUMMON SPAWN GOOD
+[2024.03.13-01.21.15:866][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.13-01.21.15:867][559]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Finnmap
+[2024.03.13-01.21.15:867][559]LogSlate: Window 'SummonLlama Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.03.13-01.21.15:873][559]LogWorld: UWorld::CleanupWorld for Finnmap, bSessionEnded=true, bCleanupResources=true
+[2024.03.13-01.21.15:874][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-01.21.15:874][559]LogContentBundle: [Finnmap(Standalone)] Deleting container.
+[2024.03.13-01.21.15:877][559]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.13-01.21.15:882][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-01.21.15:907][559]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.03.13-01.21.15:907][559]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.03.13-01.21.15:908][559]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.03.13-01.21.15:918][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.03.13-01.21.15:942][561]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2024.03.13-01.21.40:962][399]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.13-01.21.41:070][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/BP_Cauldron" FILE="../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Content/Objects/BP_Cauldron.uasset" SILENT=true
+[2024.03.13-01.21.41:113][399]LogSavePackage: Moving output files for package: /Game/Objects/BP_Cauldron
+[2024.03.13-01.21.41:113][399]LogSavePackage: Moving '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Saved/BP_Cauldron6300E7334B79DD6A738BFAB832F83C99.tmp' to '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Content/Objects/BP_Cauldron.uasset'
+[2024.03.13-01.21.41:122][399]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 1.52 sec)
+[2024.03.13-01.21.41:127][399]AssetCheck: New page: Asset Save: BP_Cauldron
+[2024.03.13-01.21.41:127][399]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Objects/BP_Cauldron.BP_Cauldron
+[2024.03.13-01.21.41:924][493]BlueprintLog: New page: Compile BP_Cauldron
+[2024.03.13-01.21.41:989][493]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.03.13-01.22.08:870][541]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.13-01.22.08:970][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/BP_Cauldron" FILE="../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Content/Objects/BP_Cauldron.uasset" SILENT=true
+[2024.03.13-01.22.09:013][541]LogSavePackage: Moving output files for package: /Game/Objects/BP_Cauldron
+[2024.03.13-01.22.09:014][541]LogSavePackage: Moving '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Saved/BP_CauldronFC12ED7C479DB99953CC1DADAB07EF74.tmp' to '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Content/Objects/BP_Cauldron.uasset'
+[2024.03.13-01.22.09:022][541]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 1.67 sec)
+[2024.03.13-01.22.09:028][541]AssetCheck: New page: Asset Save: BP_Cauldron
+[2024.03.13-01.22.09:028][541]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Objects/BP_Cauldron.BP_Cauldron
+[2024.03.13-01.22.24:035][268]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.13-01.22.24:135][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/BP_Cauldron" FILE="../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Content/Objects/BP_Cauldron.uasset" SILENT=true
+[2024.03.13-01.22.24:178][268]LogSavePackage: Moving output files for package: /Game/Objects/BP_Cauldron
+[2024.03.13-01.22.24:179][268]LogSavePackage: Moving '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Saved/BP_Cauldron121C36524397DD3A2BC403A3B3A2B87C.tmp' to '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Content/Objects/BP_Cauldron.uasset'
+[2024.03.13-01.22.24:188][268]LogFileHelpers: InternalPromptForCheckoutAndSave took 152 ms (total: 1.82 sec)
+[2024.03.13-01.22.24:194][268]AssetCheck: New page: Asset Save: BP_Cauldron
+[2024.03.13-01.22.24:194][268]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Objects/BP_Cauldron.BP_Cauldron
+[2024.03.13-01.22.25:634][438]BlueprintLog: New page: Compile BP_Cauldron
+[2024.03.13-01.22.25:701][438]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.03.13-01.22.26:227][476]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.13-01.22.26:319][476]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/BP_Cauldron" FILE="../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Content/Objects/BP_Cauldron.uasset" SILENT=true
+[2024.03.13-01.22.26:362][476]LogSavePackage: Moving output files for package: /Game/Objects/BP_Cauldron
+[2024.03.13-01.22.26:363][476]LogSavePackage: Moving '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Saved/BP_Cauldron09D99381467BFAD9C88B248169C542E3.tmp' to '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Content/Objects/BP_Cauldron.uasset'
+[2024.03.13-01.22.26:370][476]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 1.96 sec)
+[2024.03.13-01.22.26:376][476]AssetCheck: New page: Asset Save: BP_Cauldron
+[2024.03.13-01.22.26:376][476]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Objects/BP_Cauldron.BP_Cauldron
+[2024.03.13-01.22.27:464][603]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.13-01.22.27:472][603]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.13-01.22.27:472][603]PIE: New page: PIE session: MainmenuMap (14/03/2024, 3:22:27 am)
+[2024.03.13-01.22.27:473][603]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainmenuMap
+[2024.03.13-01.22.27:474][603]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001267s)
+[2024.03.13-01.22.27:474][603]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainmenuMap.MainmenuMap to /Game/UEDPIE_0_MainmenuMap.MainmenuMap (0.001314s)
+[2024.03.13-01.22.27:474][603]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.13-01.22.27:474][603]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.13-01.22.27:474][603]LogAIModule: Creating AISystem for world MainmenuMap
+[2024.03.13-01.22.27:474][603]LogPlayLevel: PIE: World Init took: (0.000909s)
+[2024.03.13-01.22.27:500][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.03.13-01.22.27:505][603]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.03.13-01.22.27:506][603]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.13-01.22.27:506][603]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.13-01.22.27:506][603]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.13-01.22.27:506][603]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.13-01.22.27:506][603]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.13-01.22.27:506][603]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.13-01.22.27:506][603]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.13-01.22.27:506][603]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.13-01.22.27:506][603]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.13-01.22.27:506][603]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.13-01.22.27:506][603]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.13-01.22.27:508][603]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.13-01.22.27:532][603]LogAudioMixer: Display: Using Audio Hardware Device B24-8 TS Pro (NVIDIA High Definition Audio)
+[2024.03.13-01.22.27:532][603]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.13-01.22.27:532][603]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.13-01.22.27:532][603]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.13-01.22.27:533][603]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.03.13-01.22.27:533][603]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.03.13-01.22.27:536][603]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.03.13-01.22.27:536][603]LogInit: FAudioDevice initialized with ID 8.
+[2024.03.13-01.22.27:536][603]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.03.13-01.22.27:536][603]LogAudio: Display: Audio Device (ID: 8) registered with world 'MainmenuMap'.
+[2024.03.13-01.22.27:536][603]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.03.13-01.22.27:585][603]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.13-01.22.27:585][603]LogLoad: Game class is 'Menugamemode_C'
+[2024.03.13-01.22.27:585][603]LogWorld: Bringing World /Game/UEDPIE_0_MainmenuMap.MainmenuMap up for play (max tick rate 0) at 2024.03.13-14.22.27
+[2024.03.13-01.22.27:585][603]LogWorld: Bringing up level for play took: 0.000367
+[2024.03.13-01.22.27:587][603]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2024.03.13-01.22.27:588][603]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.03.13-01.22.27:589][603]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.03.13-01.22.27:589][603]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.03.13-01.22.27:595][603]PIE: Server logged in
+[2024.03.13-01.22.27:601][603]PIE: Play in editor total start time 0.129 seconds.
+[2024.03.13-01.22.27:609][603]LogViewport: Scene viewport resized to 1914x992, mode Windowed.
+[2024.03.13-01.22.29:540][801]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.03.13-01.22.29:541][801]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.03.13-01.22.29:541][801]LogNet: Browse: /Game/Finnmap
+[2024.03.13-01.22.29:541][801]LogLoad: LoadMap: /Game/Finnmap
+[2024.03.13-01.22.29:541][801]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainmenuMap
+[2024.03.13-01.22.29:542][801]LogWorld: UWorld::CleanupWorld for MainmenuMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.13-01.22.29:542][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-01.22.29:597][801]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.13-01.22.29:599][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.03.13-01.22.29:622][801]LogAudio: Display: Audio Device (ID: 8) registered with world 'Finnmap'.
+[2024.03.13-01.22.29:622][801]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.13-01.22.29:622][801]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.13-01.22.29:623][801]LogAIModule: Creating AISystem for world Finnmap
+[2024.03.13-01.22.29:623][801]LogWorldPartition: ULevel::OnLevelLoaded(Finnmap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.13-01.22.29:623][801]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.13-01.22.29:623][801]LogWorldPartition: UWorldPartition::Initialize(Asset=Finnmap, IsEditor=0, bPIEWorldTravel=1 IsGame=0, IsCooking=0)
+[2024.03.13-01.22.29:629][801]LogWorldPartition: Display: GenerateStreaming started...
+[2024.03.13-01.22.29:629][801]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.03.13-01.22.29:629][801]LogWorldPartition: Display: GetPartitionedActors took 10 us (total: 89 us)
+[2024.03.13-01.22.29:717][801]LogWorldPartition: Display: GenerateStreaming took 87 ms (total: 828 ms)
+[2024.03.13-01.22.29:721][801]LogContentBundle: [Finnmap(Standalone)] Creating new contrainer.
+[2024.03.13-01.22.29:721][801]LogWorldPartition: Display: WorldPartition initialize took 98 ms (total: 908 ms)
+[2024.03.13-01.22.29:721][801]LogPlayLevel: PIE: World Init took: (0.099917s)
+[2024.03.13-01.22.29:721][801]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.03.13-01.22.29:736][801]LogWorld: Bringing World /Game/UEDPIE_0_Finnmap.Finnmap up for play (max tick rate 0) at 2024.03.13-14.22.29
+[2024.03.13-01.22.29:738][801]LogWorld: Bringing up level for play took: 0.015936
+[2024.03.13-01.22.29:740][801]LogLoad: Took 0.198304 seconds to LoadMap(/Game/Finnmap)
+[2024.03.13-01.22.29:743][801]LogBlueprintUserMessages: [Ingredient1_C_UAID_00E2696DD10DD0DF01_1612725259] 1
+[2024.03.13-01.22.29:743][801]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_D8BBC18EB82009E201_1827569400] Carrot
+[2024.03.13-01.22.29:743][801]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_D8BBC18EB82009E201_1827569400] Obj Type
+[2024.03.13-01.22.29:743][801]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_D8BBC18EB82009E201_1825044399] Carrot
+[2024.03.13-01.22.29:743][801]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_D8BBC18EB82009E201_1825044399] Obj Type
+[2024.03.13-01.22.29:743][801]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D09E201_1250524399] Carrot
+[2024.03.13-01.22.29:743][801]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D09E201_1250524399] Obj Type
+[2024.03.13-01.22.29:743][801]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D07E201_2058731049] Carrot
+[2024.03.13-01.22.29:743][801]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D07E201_2058731049] Obj Type
+[2024.03.13-01.22.29:743][801]LogBlueprintUserMessages: [BP_IngredientEye_C_UAID_00E2696DD10D07E201_2121362050] Eye
+[2024.03.13-01.22.29:743][801]LogBlueprintUserMessages: [BP_IngredientEye_C_UAID_00E2696DD10D07E201_2121362050] Obj Type
+[2024.03.13-01.22.29:746][801]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'AmbienceLoop'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.03.13-01.22.29:847][804]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D09E201_1250524399] 3
+[2024.03.13-01.22.29:889][807]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D09E201_1250524399] 3
+[2024.03.13-01.22.30:125][824]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_D8BBC18EB82009E201_1827569400] 3
+[2024.03.13-01.22.30:125][824]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_D8BBC18EB82009E201_1825044399] 3
+[2024.03.13-01.22.30:384][843]LogBlueprintUserMessages: [BP_IngredientEye_C_UAID_00E2696DD10D07E201_2121362050] 1
+[2024.03.13-01.22.34:168][132]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D07E201_2058731049] Item Picked Up
+[2024.03.13-01.22.35:245][216]LogBlueprintUserMessages: [BP_IngredientCarrot_C_UAID_00E2696DD10D07E201_2058731049] Item Picked Up
+[2024.03.13-01.22.35:676][248]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.13-01.22.35:676][248]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Finnmap
+[2024.03.13-01.22.35:677][248]LogSlate: Window 'SummonLlama Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.03.13-01.22.35:682][248]LogWorld: UWorld::CleanupWorld for Finnmap, bSessionEnded=true, bCleanupResources=true
+[2024.03.13-01.22.35:683][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-01.22.35:683][248]LogContentBundle: [Finnmap(Standalone)] Deleting container.
+[2024.03.13-01.22.35:685][248]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.13-01.22.35:690][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-01.22.35:713][248]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.13-01.22.35:713][248]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.03.13-01.22.35:713][248]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.03.13-01.22.35:715][248]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.03.13-01.22.35:725][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.03.13-01.22.35:743][249]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2024.03.13-01.22.57:088][904]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.13-01.22.57:148][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/BP_Cauldron" FILE="../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Content/Objects/BP_Cauldron.uasset" SILENT=true
+[2024.03.13-01.22.57:190][904]LogSavePackage: Moving output files for package: /Game/Objects/BP_Cauldron
+[2024.03.13-01.22.57:191][904]LogSavePackage: Moving '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Saved/BP_Cauldron3F9CB8B843E7BEF6B0267EBDDB3FCB09.tmp' to '../../../../../../Users/RTX RYZEN/Desktop/Uni/Rapid/SummonLlama/SummonLlama/Content/Objects/BP_Cauldron.uasset'
+[2024.03.13-01.22.57:199][904]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 2.07 sec)
+[2024.03.13-01.22.57:205][904]AssetCheck: New page: Asset Save: BP_Cauldron
+[2024.03.13-01.22.57:205][904]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Objects/BP_Cauldron.BP_Cauldron
